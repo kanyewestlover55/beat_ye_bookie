@@ -1,0 +1,28 @@
+2026-10-24T23:41:52Z | board: 239 basketball matches, 8 new NBA fixtures recorded
+Games to collect this run: 25
+  MEM Grizzlies @ GS Warriors: 1555 3PM price points, 122 closes, 18 players
+  LA Clippers @ LA Lakers: 1058 3PM price points, 95 closes, 14 players
+  POR Trail Blazers @ SAC Kings: 1069 3PM price points, 95 closes, 14 players
+  HOU Rockets @ SA Spurs: 997 3PM price points, 111 closes, 15 players
+  NO Pelicans @ UTA Jazz: 692 3PM price points, 88 closes, 13 players
+  DET Pistons @ MIA Heat: 756 3PM price points, 104 closes, 16 players
+  DAL Mavericks @ IND Pacers: 788 3PM price points, 101 closes, 15 players
+  NY Knicks @ BOS Celtics: 1258 3PM price points, 125 closes, 16 players
+  TOR Raptors @ WAS Wizards: 782 3PM price points, 87 closes, 13 players
+  MIN Timberwolves @ ORL Magic: 712 3PM price points, 92 closes, 12 players
+  ATL Hawks @ CHA Hornets: 1031 3PM price points, 109 closes, 15 players
+  CHI Bulls @ MIL Bucks: 1231 3PM price points, 129 closes, 19 players
+  DEN Nuggets @ OKC Thunder: 1354 3PM price points, 108 closes, 15 players
+  CLE Cavaliers @ PHI 76ers: 1493 3PM price points, 107 closes, 14 players
+  SAC Kings @ LA Clippers: 3311 3PM price points, 101 closes, 16 players
+  GS Warriors @ LA Lakers: 3816 3PM price points, 118 closes, 15 players
+  PHX Suns @ POR Trail Blazers: 3881 3PM price points, 104 closes, 13 players
+  DAL Mavericks @ HOU Rockets: 3761 3PM price points, 104 closes, 14 players
+  UTA Jazz @ MEM Grizzlies: 3977 3PM price points, 103 closes, 13 players
+  IND Pacers @ NO Pelicans: 3214 3PM price points, 107 closes, 14 players
+  CHI Bulls @ TOR Raptors: 3008 3PM price points, 96 closes, 13 players
+  MIN Timberwolves @ MIA Heat: 3846 3PM price points, 103 closes, 13 players
+  CHA Hornets @ BKN Nets: 3231 3PM price points, 118 closes, 15 players
+  ATL Hawks @ ORL Magic: 3789 3PM price points, 118 closes, 17 players
+  MIL Bucks @ WAS Wizards: 4301 3PM price points, 118 closes, 15 players
+
