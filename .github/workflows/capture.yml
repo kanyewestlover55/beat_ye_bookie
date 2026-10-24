@@ -1,0 +1,34 @@
+name: Capture closing odds
+ 
+on:
+  schedule:
+    # Every 15 min, 16:00-05:59 UTC (covers weekend afternoon tips through late West Coast games)
+    - cron: "*/15 16-23,0-5 * * *"
+  workflow_dispatch: {}
+ 
+permissions:
+  contents: write
+ 
+concurrency:
+  group: capture
+  cancel-in-progress: false
+ 
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - name: Capture odds for games about to tip
+        run: python3 capture_close.py
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+ 
+      - name: Save new data to the repo
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Closing odds $(date -u +%Y-%m-%dT%H:%MZ)" && git push)
+ 
