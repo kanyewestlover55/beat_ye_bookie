@@ -251,3 +251,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-24T21:52:46Z,197.2,0c95f2515a34d871cd4946cbf38dd670,2026-10-25T01:10:00Z,New Orleans Pelicans,Denver Nuggets,betrivers,spreads,New Orleans Pelicans,11.5,1.88
 2026-10-24T21:52:46Z,197.2,0c95f2515a34d871cd4946cbf38dd670,2026-10-25T01:10:00Z,New Orleans Pelicans,Denver Nuggets,betrivers,totals,Over,239.5,1.89
 2026-10-24T21:52:46Z,197.2,0c95f2515a34d871cd4946cbf38dd670,2026-10-25T01:10:00Z,New Orleans Pelicans,Denver Nuggets,betrivers,totals,Under,239.5,1.92
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,fanduel,spreads,Golden State Warriors,9.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,fanduel,spreads,Phoenix Suns,-9.5,1.89
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,fanduel,totals,Over,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,fanduel,totals,Under,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,mybookieag,spreads,Golden State Warriors,9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,mybookieag,spreads,Phoenix Suns,-9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,mybookieag,totals,Over,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,mybookieag,totals,Under,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,draftkings,spreads,Golden State Warriors,9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,draftkings,spreads,Phoenix Suns,-9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,draftkings,totals,Over,221.5,1.89
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,draftkings,totals,Under,221.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betmgm,spreads,Golden State Warriors,9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betmgm,spreads,Phoenix Suns,-9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betmgm,totals,Over,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betmgm,totals,Under,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betonlineag,spreads,Golden State Warriors,9.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betonlineag,spreads,Phoenix Suns,-9.5,1.89
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betonlineag,totals,Over,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betonlineag,totals,Under,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,lowvig,spreads,Golden State Warriors,9.5,1.96
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,lowvig,spreads,Phoenix Suns,-9.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,lowvig,totals,Over,221.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,lowvig,totals,Under,221.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,bovada,spreads,Golden State Warriors,10.0,1.87
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,bovada,spreads,Phoenix Suns,-10.0,1.95
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,bovada,totals,Over,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,bovada,totals,Under,221.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betrivers,spreads,Golden State Warriors,9.5,1.89
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betrivers,spreads,Phoenix Suns,-9.5,1.92
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betrivers,totals,Over,221.5,1.93
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betrivers,totals,Under,221.5,1.88
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betus,spreads,Golden State Warriors,9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betus,spreads,Phoenix Suns,-9.5,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betus,totals,Over,221.0,1.91
+2026-10-24T23:14:15Z,175.7,a71197130d9b661f5b29c812583fe652,2026-10-25T02:10:00Z,Golden State Warriors,Phoenix Suns,betus,totals,Under,221.0,1.91
