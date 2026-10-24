@@ -1,0 +1,194 @@
+Current bet365 NBA matches: 8
+  MIA Heat @ CHA Hornets  kickoff 2026-10-24T22:00:00Z  markets=70  quotes=1469
+  BKN Nets @ CLE Cavaliers  kickoff 2026-10-24T23:30:00Z  markets=78  quotes=1724
+  MIL Bucks @ PHI 76ers  kickoff 2026-10-24T23:30:00Z  markets=72  quotes=1573
+  WAS Wizards @ CHI Bulls  kickoff 2026-10-25T01:00:00Z  markets=70  quotes=1591
+  SA Spurs @ DAL Mavericks  kickoff 2026-10-25T01:00:00Z  markets=75  quotes=1583
+  HOU Rockets @ ATL Hawks  kickoff 2026-10-25T01:30:00Z  markets=69  quotes=1798
+  NO Pelicans @ DEN Nuggets  kickoff 2026-10-25T02:00:00Z  markets=68  quotes=1547
+  GS Warriors @ PHX Suns  kickoff 2026-10-25T03:00:00Z  markets=65  quotes=1458
+
+Market groups on the board (id | name | price count):
+  182006 | Assists & Rebounds | 624
+  182003 | Points, Assists & Rebounds | 611
+  182004 | Points & Rebounds | 566
+  181005 | Alternative Team Totals | 560
+  182005 | Points & Assists | 511
+  181446 | Points | 508
+  182007 | Steals & Blocks | 499
+  181449 | Threes Made | 492   <-- looks like 3PM
+  181286 | Alternative Game Total | 448
+  181285 | Alternative Line | 436
+  182009 | Steals | 420
+  181448 | Rebounds | 402
+  182008 | Blocks | 314
+  181447 | Assists | 305
+  181551 | 1st Quarter Points | 304
+  181160 | Alternative 1st Half Team Totals | 280
+  181186 | 1st Half Race to (Points) | 264
+  181221 | Alternative 1st Quarter Team Totals | 240
+  181552 | 1st Quarter Rebounds | 220
+  181520 | Player First | 201
+  181553 | 1st Quarter Assists | 196
+  181603 | Team to Score X Points | 152
+  181248 | 1st Quarter Race To (Points) | 147
+  181137 | Alternative 1st Half Line | 140
+  181148 | Alternative 1st Half Totals | 140
+  181463 | Double Double | 134
+  181085 | Alternative Team Totals 2 | 116
+  180979 | Alternative Game Total 2 | 112
+  181198 | 1st Half Team to Score X Points | 106
+  182013 | Assists & Rebounds | 104
+  180968 | Alternative Line 2 | 102
+  1518 | Winning Margin | 98
+  182010 | Points, Assists & Rebounds | 95
+  181185 | 1st Half Margin (Bands) | 91
+  181247 | 1st Quarter Winning Margin | 91
+  182011 | Points & Rebounds | 90
+  180165 | Winning Margin 12-Way | 84
+  181206 | Alternative 1st Quarter Line | 84
+  181213 | Alternative 1st Quarter Totals | 84
+  182012 | Points & Assists | 80
+  181450 | Points | 78
+  182014 | Steals & Blocks | 72
+  181453 | Threes Made | 69   <-- looks like 3PM
+  181452 | Rebounds | 63
+  181276 | Quarter Correct Score | 60
+  182016 | Steals | 58
+  181273 | Result and Both Teams to Score 'X' Points | 56
+  181451 | Assists | 50
+  180164 | Winning Margin 7-Way | 49
+  181255 | 1st Quarter Team To Score X Points | 48
+  181586 | Both Teams to Score X Points | 48
+  181195 | 1st Half Both Teams to Score X Points | 44
+  182015 | Blocks | 43
+  1032 | 3rd Quarter | 42
+  1448 | 2nd Quarter | 42
+  1449 | 4th Quarter | 42
+  1453 | Game | 42
+  1517 | Double Result | 42
+  181181 | 1st Half Result and Total | 42
+  181252 | 1st Quarter Both Teams to Score X Points | 42
+  181464 | Triple Double | 42
+  928 | 1st Half | 42
+  941 | 1st Quarter | 42
+  181242 | 1st Quarter Result and Total | 36
+  1731 | Team Total Odd Or Even | 28
+  181125 | Match Result and Total | 28
+  181126 | Match Handicap and Total | 28
+  181159 | 1st Half Team Totals | 28
+  181182 | 1st Half Handicap and Total | 28
+  181220 | 1st Quarter Team Totals | 28
+  181335 | Team Totals | 28
+  101 | 1st Half Race to | 27
+  181418 | Points O/U | 24
+  181419 | Assists O/U | 24
+  181420 | Rebounds O/U | 24
+  181421 | Steals O/U | 24
+  181423 | Blocks O/U | 24
+  181427 | Points & Assists O/U | 24
+  181428 | Points & Rebounds O/U | 24
+  181429 | Assists & Rebounds O/U | 24
+  181430 | Points, Assists & Rebounds O/U | 24
+  181431 | Steals & Blocks O/U | 24
+  610 | Alternative Point Spread | 22
+  181183 | 1st Half Result (Incl. Tie) | 21
+  181184 | 1st Half Double Chance | 21
+  181377 | Team with highest scoring quarter | 21
+  180654 | Team to Score point 'X' in Game | 20
+  591 | Alternative Totals | 20
+  181465 | Double Double | 18
+  182026 | Next Basket | 18
+  180163 | Winning Margin 3-Way | 18
+  180180 | 1st Quarter Margin Of Victory | 18
+  181424 | Threes Made O/U | 16   <-- looks like 3PM
+  588 | Alternative MIA Heat Totals | 16
+  589 | Alternative CHA Hornets Totals | 16
+  103 | 1st Quarter Race to | 15
+  181131 | Highest Scoring Half | 15
+  181132 | Highest Scoring Quarter | 15
+  181245 | 1st Quarter Double Chance | 15
+  180058 | Winning Margin | 14
+  1503 | Race to 20 Points | 14
+  180717 | 1st Quarter Winning Margin | 13
+  180777 | 1st Half Margin (Bands) | 13
+  181127 | Tied at End Of Regulation? | 12
+  181212 | 1st Quarter 3 Way Lines | 12
+  182025 | Next Made Field Goal | 10
+  100 | 1st Half | 9
+  102 | 1st Quarter | 9
+  584 | Alternative 1st Half MIA Heat Totals | 8
+  585 | Alternative 1st Half CHA Hornets Totals | 8
+  598 | Alternative 1st Half Totals | 8
+  600 | Alternative 1st Quarter Totals | 8
+  604 | Alternative 1st Half Line | 8
+  606 | Alternative 1st Quarter Line | 8
+  640 | Both Teams To Score | 8
+  711 | CHA Hornets To Score | 8
+  180013 | Game Total - Odd or Even | 8
+  181243 | 1st Quarter Handicap and Total | 8
+  112 | Game | 6
+  113 | Odd/Even | 6
+  180057 | Double Result | 6
+  180705 | 1st Quarter Result and Total | 6
+  180773 | 1st Half Result and Total | 6
+  181958 | Team Next Basket Type | 6
+  560 | 1st Quarter MIA Heat To Score | 6
+  564 | 1st Quarter CHA Hornets To Score | 6
+  572 | 1st Quarter Both Teams To Score | 6
+  710 | MIA Heat To Score | 6
+  180188 | 2nd Quarter Margin Of Victory | 6
+  181261 | 2nd Quarter 3 Way Lines | 6
+  131000 | Team Next Field Goal Type | 4
+  180651 | Match Result and Total | 4
+  181501 | Next Field Goal Exact Type | 4
+  528 | Team Totals | 4
+  529 | 1st Half - Team Totals | 4
+  531 | 1st Quarter Team Totals | 4
+  180170 | 1st Quarter Total - Odd/Even | 4
+  181366 | 3rd Quarter Total - Odd/Even | 4
+  181204 | 1st Half Total Odd/Even | 4
+  180174 | Winning Margin 3-Way | 3
+  180189 | Winning Margin 3-Way | 3
+  180190 | 1st Quarter Margin of Victory | 3
+  180647 | Highest Scoring Half | 3
+  649 | 1st Half Double Chance | 3
+  181264 | 3rd Quarter 3 Way Lines | 3
+  181367 | 3rd Quarter Margin of Victory | 3
+  181267 | 4th Quarter 3 Way Lines | 3
+  180056 | Tied at End Of Regulation? | 2
+  181466 | Triple Double | 2
+  181500 | Team to Score Next Field Goal | 2
+  181502 | Next Field Goal Type | 2
+  180171 | 2nd Quarter Total - Odd/Even | 2
+  181368 | 4th Quarter Total - Odd/Even | 2
+
+Finished NBA games found (last 2 UTC days): 14
+  CHI Bulls @ MIL Bucks  final 125-132  fi=203335734
+     history: 50000 price points, 4279 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  DEN Nuggets @ OKC Thunder  final 96-84  fi=199447316
+     history: 50000 price points, 2494 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  CLE Cavaliers @ PHI 76ers  final 114-106  fi=199447461
+     history: 50000 price points, 3145 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  SAC Kings @ LA Clippers  final 121-96  fi=202689386
+     history: 50000 price points, 2268 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  GS Warriors @ LA Lakers  final 127-105  fi=199447310
+     history: 50000 price points, 2022 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  PHX Suns @ POR Trail Blazers  final 124-83  fi=199843568
+     history: 50000 price points, 1765 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  DAL Mavericks @ HOU Rockets  final 128-110  fi=199843565
+     history: 50000 price points, 2096 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  UTA Jazz @ MEM Grizzlies  final 123-103  fi=199843558
+     history: 50000 price points, 2640 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  IND Pacers @ NO Pelicans  final 120-123  fi=199843562
+     history: 50000 price points, 2801 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  CHI Bulls @ TOR Raptors  final 135-92  fi=202689383
+     history: 50000 price points, 1990 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  MIN Timberwolves @ MIA Heat  final 106-131  fi=199447305
+     history: 50000 price points, 2130 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  CHA Hornets @ BKN Nets  final 103-110  fi=199843555
+     history: 50000 price points, 3589 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  ATL Hawks @ ORL Magic  final 125-132  fi=199843549
+     history: 50000 price points, 3401 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
+  MIL Bucks @ WAS Wizards  final 128-116  fi=199843552
+     history: 50000 price points, 3210 kept (3PM + game lines); markets: Threes Made, Threes Made O/U
