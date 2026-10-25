@@ -503,3 +503,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-25T20:43:09Z,176.8,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,betus,spreads,Philadelphia 76ers,1.0,1.91
 2026-10-25T20:43:09Z,176.8,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,betus,totals,Over,228.0,1.91
 2026-10-25T20:43:09Z,176.8,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,betus,totals,Under,228.0,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,spreads,Memphis Grizzlies,-3.5,1.94
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,spreads,Sacramento Kings,3.5,1.88
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,totals,Over,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,totals,Under,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,spreads,Memphis Grizzlies,-3.0,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,spreads,Sacramento Kings,3.0,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,totals,Over,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,totals,Under,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betus,spreads,Memphis Grizzlies,-3.5,1.95
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betus,spreads,Sacramento Kings,3.5,1.87
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betus,totals,Over,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betus,totals,Under,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,spreads,Memphis Grizzlies,-3.5,1.95
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,spreads,Sacramento Kings,3.5,1.85
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,totals,Over,234.5,1.88
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,totals,Under,234.5,1.93
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,lowvig,spreads,Memphis Grizzlies,-3.5,1.98
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,lowvig,spreads,Sacramento Kings,3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,lowvig,totals,Over,234.5,1.93
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,lowvig,totals,Under,234.5,1.93
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,spreads,Memphis Grizzlies,-3.5,1.93
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,spreads,Sacramento Kings,3.5,1.89
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,totals,Over,234.5,1.93
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,totals,Under,234.5,1.89
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,spreads,Memphis Grizzlies,-3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,spreads,Sacramento Kings,3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,totals,Over,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,totals,Under,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,mybookieag,spreads,Memphis Grizzlies,-3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,mybookieag,spreads,Sacramento Kings,3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,mybookieag,totals,Over,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,mybookieag,totals,Under,234.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,spreads,Memphis Grizzlies,-3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,spreads,Sacramento Kings,3.5,1.91
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,totals,Over,235.5,1.96
+2026-10-25T22:03:43Z,176.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,totals,Under,235.5,1.85

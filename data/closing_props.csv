@@ -995,3 +995,139 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-25T20:43:09Z,26.8,9c460fd677a660d1bc7cfea0aa1826c1,2026-10-25T21:10:00Z,Los Angeles Lakers,Utah Jazz,fanduel,player_threes,Quentin Grimes,Under,1.5,1.77
 2026-10-25T20:43:09Z,26.8,9c460fd677a660d1bc7cfea0aa1826c1,2026-10-25T21:10:00Z,Los Angeles Lakers,Utah Jazz,fanduel,player_threes,Luka Doncic,Over,3.5,1.78
 2026-10-25T20:43:09Z,26.8,9c460fd677a660d1bc7cfea0aa1826c1,2026-10-25T21:10:00Z,Los Angeles Lakers,Utah Jazz,fanduel,player_threes,Luka Doncic,Under,3.5,2.0
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Over,3.5,2.13
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Under,3.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Tyrese Haliburton,Over,2.5,1.82
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Tyrese Haliburton,Under,2.5,1.93
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Egor Demin,Over,1.5,1.55
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Egor Demin,Under,1.5,2.37
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Aaron Nesmith,Over,1.5,1.64
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Aaron Nesmith,Under,1.5,2.19
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Obi Toppin,Over,1.5,1.73
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Obi Toppin,Under,1.5,2.04
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Pascal Siakam,Over,1.5,2.26
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Pascal Siakam,Under,1.5,1.6
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Julius Randle,Over,1.5,2.28
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Julius Randle,Under,1.5,1.59
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Andrew Nembhard,Over,1.5,2.33
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Andrew Nembhard,Under,1.5,1.57
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Keon Ellis,Over,1.5,2.46
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Keon Ellis,Under,1.5,1.52
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Noah Clowney,Over,1.5,2.63
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Noah Clowney,Under,1.5,1.46
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Kelly Oubre Jr.,Over,0.5,1.57
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,draftkings,player_threes,Kelly Oubre Jr.,Under,0.5,2.33
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Aaron Nesmith,Over,1.5,1.62
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Aaron Nesmith,Under,1.5,2.2
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Aaron Nesmith,Over,2.5,2.9
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Aaron Nesmith,Under,2.5,1.38
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Andrew Nembhard,Over,1.5,2.35
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Andrew Nembhard,Under,1.5,1.56
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Egor Demin,Over,1.5,1.54
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Egor Demin,Under,1.5,2.4
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Egor Demin,Over,2.5,2.65
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Egor Demin,Under,2.5,1.45
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Julius Randle,Over,1.5,2.3
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Julius Randle,Under,1.5,1.59
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Kelly Oubre Jr.,Over,0.5,1.56
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Kelly Oubre Jr.,Under,0.5,2.35
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Keon Ellis,Over,1.5,2.45
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Keon Ellis,Under,1.5,1.53
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,2.5,1.45
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,2.5,2.65
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,3.5,2.15
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,3.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Noah Clowney,Over,0.5,1.33
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Noah Clowney,Under,0.5,3.15
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Noah Clowney,Over,1.5,2.6
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Noah Clowney,Under,1.5,1.47
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Obi Toppin,Over,1.5,1.74
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Obi Toppin,Under,1.5,2.05
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Pascal Siakam,Over,1.5,2.25
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Pascal Siakam,Under,1.5,1.61
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Tyrese Haliburton,Over,2.5,1.83
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Tyrese Haliburton,Under,2.5,1.91
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Tyrese Haliburton,Over,3.5,3.1
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,bovada,player_threes,Tyrese Haliburton,Under,3.5,1.34
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Kelly Oubre Jr.,Over,0.5,1.55
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Kelly Oubre Jr.,Under,0.5,2.38
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Pascal Siakam,Over,1.5,2.26
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Pascal Siakam,Under,1.5,1.61
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Tyrese Haliburton,Over,2.5,1.81
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Tyrese Haliburton,Under,2.5,1.95
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Andrew Nembhard,Over,1.5,2.28
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Andrew Nembhard,Under,1.5,1.6
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Aaron Nesmith,Over,1.5,1.69
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Aaron Nesmith,Under,1.5,2.12
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Egor Demin,Over,2.5,2.49
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Egor Demin,Under,2.5,1.51
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Over,3.5,2.15
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Under,3.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Obi Toppin,Over,1.5,1.76
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Obi Toppin,Under,1.5,2.02
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Over,1.5,2.22
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Under,1.5,1.63
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Keon Ellis,Over,1.5,2.41
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Keon Ellis,Under,1.5,1.54
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Noah Clowney,Over,1.5,2.61
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betonlineag,player_threes,Noah Clowney,Under,1.5,1.47
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Tyrese Haliburton,Over,2.5,1.89
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Tyrese Haliburton,Under,2.5,1.82
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Kelly Oubre Jr.,Over,0.5,1.51
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Kelly Oubre Jr.,Under,0.5,2.43
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Julius Randle,Over,1.5,2.23
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Julius Randle,Under,1.5,1.6
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Noah Clowney,Over,1.5,2.5
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Noah Clowney,Under,1.5,1.48
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Egor Demin,Over,2.5,2.43
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Egor Demin,Under,2.5,1.5
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Aaron Nesmith,Over,1.5,1.76
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Aaron Nesmith,Under,1.5,1.96
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Andrew Nembhard,Over,1.5,2.5
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Andrew Nembhard,Under,1.5,1.47
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Pascal Siakam,Over,1.5,2.35
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Pascal Siakam,Under,1.5,1.53
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Obi Toppin,Over,1.5,1.8
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Obi Toppin,Under,1.5,1.92
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Over,3.5,2.06
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Under,3.5,1.7
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Keon Ellis,Over,1.5,2.4
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betrivers,player_threes,Keon Ellis,Under,1.5,1.51
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Obi Toppin,Over,1.5,1.8
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Obi Toppin,Under,1.5,1.95
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Andrew Nembhard,Over,1.5,2.05
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Andrew Nembhard,Under,1.5,1.69
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Keon Ellis,Over,1.5,2.2
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Keon Ellis,Under,1.5,1.62
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Tyrese Haliburton,Over,2.5,1.77
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Tyrese Haliburton,Under,2.5,1.95
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Over,3.5,2.1
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Under,3.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Aaron Nesmith,Over,1.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Aaron Nesmith,Under,1.5,2.1
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Pascal Siakam,Over,1.5,2.1
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Pascal Siakam,Under,1.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Egor Demin,Over,2.5,2.35
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Egor Demin,Under,2.5,1.54
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Julius Randle,Over,1.5,2.25
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Julius Randle,Under,1.5,1.61
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Kelly Oubre Jr.,Over,0.5,1.48
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,betmgm,player_threes,Kelly Oubre Jr.,Under,0.5,2.5
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Keon Ellis,Over,1.5,2.36
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Keon Ellis,Under,1.5,1.57
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Aaron Nesmith,Over,1.5,1.71
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Aaron Nesmith,Under,1.5,2.1
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Julius Randle,Over,1.5,2.18
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Julius Randle,Under,1.5,1.67
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Over,3.5,2.24
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Under,3.5,1.63
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Pascal Siakam,Over,1.5,2.26
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Pascal Siakam,Under,1.5,1.62
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Egor Demin,Over,2.5,2.54
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Egor Demin,Under,2.5,1.5
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Tyrese Haliburton,Over,2.5,1.8
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Tyrese Haliburton,Under,2.5,1.98
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Obi Toppin,Over,1.5,1.74
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Obi Toppin,Under,1.5,2.08
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Andrew Nembhard,Over,1.5,2.38
+2026-10-25T22:03:43Z,6.3,3f57b691d91174cd878320071f585c11,2026-10-25T22:10:00Z,Indiana Pacers,Brooklyn Nets,fanduel,player_threes,Andrew Nembhard,Under,1.5,1.56
