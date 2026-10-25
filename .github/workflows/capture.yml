@@ -3,7 +3,7 @@ name: Capture closing odds
 on:
   schedule:
     # Every 15 min, 16:00-05:59 UTC (covers weekend afternoon tips through late West Coast games)
-    - cron: "*/15 16-23,0-5 * * *"
+    - cron: "7,22,37,52 16-23,0-5 * * *"
   workflow_dispatch: {}
  
 permissions:
