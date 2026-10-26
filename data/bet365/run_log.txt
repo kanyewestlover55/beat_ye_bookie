@@ -43,3 +43,13 @@ Games to collect this run: 0
 2026-10-25T21:31:11Z | board: 107 basketball matches, 0 new NBA fixtures recorded
 Games to collect this run: 0
 
+2026-10-26T10:43:06Z | board: 87 basketball matches, 9 new NBA fixtures recorded
+Games to collect this run: 7
+  LA Lakers @ UTA Jazz: 454 3PM price points, 86 closes, 12 players
+  IND Pacers @ BKN Nets: 432 3PM price points, 80 closes, 11 players
+  ORL Magic @ NY Knicks: 309 3PM price points, 97 closes, 13 players
+  TOR Raptors @ MIN Timberwolves: 552 3PM price points, 96 closes, 14 players
+  LA Clippers @ OKC Thunder: 615 3PM price points, 104 closes, 15 players
+  DET Pistons @ PHI 76ers: 497 3PM price points, 93 closes, 14 players
+  MEM Grizzlies @ SAC Kings: 451 3PM price points, 85 closes, 12 players
+
