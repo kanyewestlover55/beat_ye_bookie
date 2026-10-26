@@ -1675,3 +1675,101 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-25T23:24:42Z,15.3,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Under,2.5,1.95
 2026-10-25T23:24:42Z,15.3,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Over,3.5,3.0
 2026-10-25T23:24:42Z,15.3,252f3af49fb5271bb040e95e0119f207,2026-10-25T23:40:00Z,Detroit Pistons,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Under,3.5,1.36
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Jaylen Wells,Over,1.5,1.74
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Jaylen Wells,Under,1.5,2.04
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Ty Jerome,Over,2.5,1.67
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Ty Jerome,Under,2.5,2.15
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,De'Andre Hunter,Over,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,De'Andre Hunter,Under,1.5,1.81
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Cedric Coward,Over,1.5,2.0
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Cedric Coward,Under,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Zach LaVine,Over,2.5,1.89
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Zach LaVine,Under,2.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Darius Acuff Jr.,Over,2.5,2.24
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Darius Acuff Jr.,Under,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Cameron Boozer,Over,1.5,1.89
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Cameron Boozer,Under,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Jerami Grant,Over,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betonlineag,player_threes,Jerami Grant,Under,1.5,1.81
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Cedric Coward,Over,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Cedric Coward,Under,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Over,1.5,1.4
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Under,1.5,2.85
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Over,2.5,2.2
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Under,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,De'Andre Hunter,Over,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,De'Andre Hunter,Under,1.5,1.8
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Jaylen Wells,Over,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Jaylen Wells,Under,1.5,2.0
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Jerami Grant,Over,1.5,1.91
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Jerami Grant,Under,1.5,1.83
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Ty Jerome,Over,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Ty Jerome,Under,2.5,2.2
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Ty Jerome,Over,3.5,2.55
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Ty Jerome,Under,3.5,1.48
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Zach LaVine,Over,2.5,1.91
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,bovada,player_threes,Zach LaVine,Under,2.5,1.83
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Cameron Boozer,Over,1.5,1.78
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Cameron Boozer,Under,1.5,1.94
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Jaylen Wells,Over,1.5,1.7
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Jaylen Wells,Under,1.5,2.06
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Jerami Grant,Over,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Jerami Grant,Under,1.5,1.96
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,De'Andre Hunter,Over,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,De'Andre Hunter,Under,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Darius Acuff Jr.,Over,2.5,2.32
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Darius Acuff Jr.,Under,2.5,1.55
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Ty Jerome,Over,2.5,1.6
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Ty Jerome,Under,2.5,2.23
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Cedric Coward,Over,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Cedric Coward,Under,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Zach LaVine,Over,2.5,1.96
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betrivers,player_threes,Zach LaVine,Under,2.5,1.76
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Ty Jerome,Over,2.5,1.63
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Ty Jerome,Under,2.5,2.19
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Zach LaVine,Over,2.5,1.93
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Zach LaVine,Under,2.5,1.81
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Darius Acuff Jr.,Over,2.5,2.22
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Darius Acuff Jr.,Under,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Jaylen Wells,Over,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Jaylen Wells,Under,1.5,1.99
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Cedric Coward,Over,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Cedric Coward,Under,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Cameron Boozer,Over,1.5,1.9
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Cameron Boozer,Under,1.5,1.84
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Jerami Grant,Over,1.5,1.92
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,Jerami Grant,Under,1.5,1.83
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,De'Andre Hunter,Over,1.5,1.94
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,draftkings,player_threes,De'Andre Hunter,Under,1.5,1.81
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Zach LaVine,Over,2.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Zach LaVine,Under,2.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Cameron Boozer,Over,1.5,1.83
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Cameron Boozer,Under,1.5,1.91
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Cedric Coward,Over,1.5,2.0
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Cedric Coward,Under,1.5,1.74
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Ty Jerome,Over,2.5,1.65
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Ty Jerome,Under,2.5,2.15
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Jaylen Wells,Over,1.5,1.77
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Jaylen Wells,Under,1.5,1.95
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Darius Acuff Jr.,Over,2.5,2.2
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Darius Acuff Jr.,Under,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,De'Andre Hunter,Over,1.5,2.05
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,De'Andre Hunter,Under,1.5,1.71
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Jerami Grant,Over,1.5,2.05
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,betmgm,player_threes,Jerami Grant,Under,1.5,1.69
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Cedric Coward,Over,1.5,1.93
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Cedric Coward,Under,1.5,1.85
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,De'Andre Hunter,Over,1.5,1.93
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,De'Andre Hunter,Under,1.5,1.85
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Jaylen Wells,Over,1.5,1.78
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Jaylen Wells,Under,1.5,2.0
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Ty Jerome,Over,2.5,1.62
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Ty Jerome,Under,2.5,2.24
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Zach LaVine,Over,2.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Zach LaVine,Under,2.5,1.9
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Darius Acuff Jr.,Over,2.5,2.28
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Darius Acuff Jr.,Under,2.5,1.61
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Jerami Grant,Over,1.5,1.87
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Jerami Grant,Under,1.5,1.9
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Cameron Boozer,Over,1.5,1.88
+2026-10-26T00:51:41Z,8.3,dcc4a1c7f0427d8e1b2ee7d3f1d48e8a,2026-10-26T01:00:00Z,Memphis Grizzlies,Sacramento Kings,fanduel,player_threes,Cameron Boozer,Under,1.5,1.88
