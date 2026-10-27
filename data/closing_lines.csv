@@ -863,3 +863,147 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-26T23:07:26Z,182.6,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,spreads,Golden State Warriors,7.5,1.87
 2026-10-26T23:07:26Z,182.6,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,totals,Over,236.5,1.91
 2026-10-26T23:07:26Z,182.6,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,totals,Under,236.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,spreads,Boston Celtics,-12.5,1.88
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,spreads,Brooklyn Nets,12.5,1.94
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,totals,Over,222.5,1.88
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,totals,Under,222.5,1.94
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,lowvig,spreads,Boston Celtics,-12.5,1.9
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,lowvig,spreads,Brooklyn Nets,12.5,1.99
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,lowvig,totals,Over,223.5,1.98
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,lowvig,totals,Under,223.5,1.88
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,spreads,Boston Celtics,-12.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,spreads,Brooklyn Nets,12.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,totals,Over,223.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,totals,Under,223.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,spreads,Boston Celtics,-12.5,1.93
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,spreads,Brooklyn Nets,12.5,1.88
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,totals,Over,223.5,1.88
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,totals,Under,223.5,1.93
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,mybookieag,spreads,Boston Celtics,-12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,mybookieag,spreads,Brooklyn Nets,12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,mybookieag,totals,Over,223.0,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,mybookieag,totals,Under,223.0,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,spreads,Boston Celtics,-12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,spreads,Brooklyn Nets,12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,totals,Over,222.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,totals,Under,222.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betus,spreads,Boston Celtics,-12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betus,spreads,Brooklyn Nets,12.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betus,totals,Over,223.0,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betus,totals,Under,223.0,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,spreads,Boston Celtics,-12.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,spreads,Brooklyn Nets,12.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,totals,Over,223.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,totals,Under,223.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,spreads,Boston Celtics,-12.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,spreads,Brooklyn Nets,12.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,totals,Over,223.0,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,totals,Under,223.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,fanduel,spreads,Detroit Pistons,4.5,1.88
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,fanduel,spreads,New York Knicks,-4.5,1.94
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,fanduel,totals,Over,219.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,fanduel,totals,Under,219.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,lowvig,spreads,Detroit Pistons,4.0,1.95
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,lowvig,spreads,New York Knicks,-4.0,1.93
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,lowvig,totals,Over,220.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,lowvig,totals,Under,220.0,1.96
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betonlineag,spreads,Detroit Pistons,4.0,1.92
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betonlineag,spreads,New York Knicks,-4.0,1.9
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betonlineag,totals,Over,220.0,1.86
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betonlineag,totals,Under,220.0,1.96
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,mybookieag,spreads,Detroit Pistons,4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,mybookieag,spreads,New York Knicks,-4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,mybookieag,totals,Over,220.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,mybookieag,totals,Under,220.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betrivers,spreads,Detroit Pistons,4.5,1.89
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betrivers,spreads,New York Knicks,-4.5,1.92
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betrivers,totals,Over,220.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betrivers,totals,Under,220.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,draftkings,spreads,Detroit Pistons,4.5,1.85
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,draftkings,spreads,New York Knicks,-4.5,1.98
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,draftkings,totals,Over,220.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,draftkings,totals,Under,220.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betmgm,spreads,Detroit Pistons,4.5,1.87
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betmgm,spreads,New York Knicks,-4.5,1.95
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betmgm,totals,Over,220.5,1.95
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betmgm,totals,Under,220.5,1.87
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betus,spreads,Detroit Pistons,4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betus,spreads,New York Knicks,-4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betus,totals,Over,220.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,betus,totals,Under,220.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,bovada,spreads,Detroit Pistons,4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,bovada,spreads,New York Knicks,-4.0,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,bovada,totals,Over,220.5,1.91
+2026-10-27T23:16:09Z,53.8,bde272846214fd6cf197e14c278c12f2,2026-10-28T00:10:00Z,Detroit Pistons,New York Knicks,bovada,totals,Under,220.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,fanduel,spreads,Sacramento Kings,18.5,1.95
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,fanduel,spreads,San Antonio Spurs,-18.5,1.87
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,fanduel,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,fanduel,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,lowvig,spreads,Sacramento Kings,19.0,1.94
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,lowvig,spreads,San Antonio Spurs,-19.0,1.94
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,lowvig,totals,Over,232.5,1.93
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,lowvig,totals,Under,232.5,1.93
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betonlineag,spreads,Sacramento Kings,19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betonlineag,spreads,San Antonio Spurs,-19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betonlineag,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betonlineag,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,mybookieag,spreads,Sacramento Kings,18.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,mybookieag,spreads,San Antonio Spurs,-18.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,mybookieag,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,mybookieag,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,draftkings,spreads,Sacramento Kings,18.5,1.98
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,draftkings,spreads,San Antonio Spurs,-18.5,1.85
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,draftkings,totals,Over,232.5,1.93
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,draftkings,totals,Under,232.5,1.89
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betrivers,spreads,Sacramento Kings,19.5,1.93
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betrivers,spreads,San Antonio Spurs,-19.5,1.88
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betrivers,totals,Over,232.5,1.92
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betrivers,totals,Under,232.5,1.89
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betus,spreads,Sacramento Kings,19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betus,spreads,San Antonio Spurs,-19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betus,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betus,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betmgm,spreads,Sacramento Kings,18.5,1.95
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betmgm,spreads,San Antonio Spurs,-18.5,1.87
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betmgm,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,betmgm,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,bovada,spreads,Sacramento Kings,19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,bovada,spreads,San Antonio Spurs,-19.0,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,bovada,totals,Over,232.5,1.91
+2026-10-27T23:16:09Z,53.8,7a640609d2c74cbbfd05008d0875455b,2026-10-28T00:10:00Z,Sacramento Kings,San Antonio Spurs,bovada,totals,Under,232.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,fanduel,spreads,Los Angeles Lakers,-2.5,1.96
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,fanduel,spreads,Portland Trail Blazers,2.5,1.85
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,fanduel,totals,Over,233.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,fanduel,totals,Under,233.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betonlineag,spreads,Los Angeles Lakers,-1.5,1.93
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betonlineag,spreads,Portland Trail Blazers,1.5,1.88
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betonlineag,totals,Over,233.5,1.93
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betonlineag,totals,Under,233.5,1.88
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,lowvig,spreads,Los Angeles Lakers,-1.5,1.97
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,lowvig,spreads,Portland Trail Blazers,1.5,1.92
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,lowvig,totals,Over,233.5,1.96
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,lowvig,totals,Under,233.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betrivers,spreads,Los Angeles Lakers,-2.5,1.94
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betrivers,spreads,Portland Trail Blazers,2.5,1.87
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betrivers,totals,Over,233.5,1.93
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betrivers,totals,Under,233.5,1.88
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betmgm,spreads,Los Angeles Lakers,-1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betmgm,spreads,Portland Trail Blazers,1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betmgm,totals,Over,232.5,1.87
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betmgm,totals,Under,232.5,1.95
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,draftkings,spreads,Los Angeles Lakers,-1.5,1.93
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,draftkings,spreads,Portland Trail Blazers,1.5,1.89
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,draftkings,totals,Over,233.5,1.93
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,draftkings,totals,Under,233.5,1.89
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,mybookieag,spreads,Los Angeles Lakers,-1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,mybookieag,spreads,Portland Trail Blazers,1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,mybookieag,totals,Over,233.0,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,mybookieag,totals,Under,233.0,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betus,spreads,Los Angeles Lakers,-1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betus,spreads,Portland Trail Blazers,1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betus,totals,Over,233.0,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betus,totals,Under,233.0,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,bovada,spreads,Los Angeles Lakers,-1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,bovada,spreads,Portland Trail Blazers,1.5,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,bovada,totals,Over,233.0,1.91
+2026-10-27T23:16:09Z,233.8,82afe4e028b0fbbd9f6cf92697bec6fc,2026-10-28T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,bovada,totals,Under,233.0,1.91

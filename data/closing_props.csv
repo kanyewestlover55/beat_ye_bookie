@@ -2603,3 +2603,149 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-27T01:58:17Z,11.7,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,player_threes,Stephen Curry,Under,4.5,1.5
 2026-10-27T01:58:17Z,11.7,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,player_threes,Yaxel Lendeborg,Over,1.5,2.3
 2026-10-27T01:58:17Z,11.7,d7f8398941d7c90befa60f35876a3ae7,2026-10-27T02:10:00Z,Golden State Warriors,Denver Nuggets,bovada,player_threes,Yaxel Lendeborg,Under,1.5,1.59
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Michael Porter Jr,Over,2.5,1.64
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Michael Porter Jr,Under,2.5,2.22
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Egor Demin,Over,1.5,1.64
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Egor Demin,Under,1.5,2.22
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Keon Ellis,Over,1.5,3.0
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Keon Ellis,Under,1.5,1.38
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Payton Pritchard,Over,2.5,1.82
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Payton Pritchard,Under,2.5,1.96
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Derrick White,Over,2.5,1.9
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Derrick White,Under,2.5,1.87
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Julius Randle,Over,1.5,2.42
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Julius Randle,Under,1.5,1.54
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Sam Hauser,Over,1.5,1.56
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Sam Hauser,Under,1.5,2.38
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Noah Clowney,Over,1.5,2.58
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Noah Clowney,Under,1.5,1.49
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Paul George,Over,2.5,1.61
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Paul George,Under,2.5,2.28
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Jayson Tatum,Over,3.5,2.46
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,fanduel,player_threes,Jayson Tatum,Under,3.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Payton Pritchard,Over,2.5,1.77
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Payton Pritchard,Under,2.5,2.0
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Derrick White,Over,2.5,1.83
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Derrick White,Under,2.5,1.93
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Noah Clowney,Over,1.5,2.64
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Noah Clowney,Under,1.5,1.46
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Egor Demin,Over,1.5,1.65
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Egor Demin,Under,1.5,2.19
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Julius Randle,Over,1.5,2.44
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Julius Randle,Under,1.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Michael Porter Jr,Over,2.5,1.65
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Michael Porter Jr,Under,2.5,2.19
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Jayson Tatum,Over,2.5,1.66
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Jayson Tatum,Under,2.5,2.17
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Paul George,Over,2.5,1.66
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Paul George,Under,2.5,2.16
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Sam Hauser,Over,1.5,1.6
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Sam Hauser,Under,1.5,2.27
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Jordan Walsh,Over,0.5,1.86
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Jordan Walsh,Under,0.5,1.9
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Mikel Brown Jr.,Over,1.5,2.44
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betonlineag,player_threes,Mikel Brown Jr.,Under,1.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Julius Randle,Over,1.5,2.35
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Julius Randle,Under,1.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Paul George,Over,2.5,1.6
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Paul George,Under,2.5,2.23
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Mikel Brown Jr.,Over,1.5,2.5
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Mikel Brown Jr.,Under,1.5,1.48
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Derrick White,Over,2.5,1.85
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Derrick White,Under,2.5,1.85
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Jayson Tatum,Over,3.5,2.35
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Jayson Tatum,Under,3.5,1.54
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Egor Demin,Over,1.5,1.61
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Egor Demin,Under,1.5,2.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Michael Porter Jr,Over,2.5,1.62
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Michael Porter Jr,Under,2.5,2.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Sam Hauser,Over,1.5,1.63
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Sam Hauser,Under,1.5,2.17
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Payton Pritchard,Over,2.5,1.72
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Payton Pritchard,Under,2.5,2.02
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Noah Clowney,Over,1.5,2.63
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Noah Clowney,Under,1.5,1.43
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Keon Ellis,Over,0.5,1.55
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betrivers,player_threes,Keon Ellis,Under,0.5,2.32
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Michael Porter Jr,Over,2.5,1.65
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Michael Porter Jr,Under,2.5,2.18
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Jayson Tatum,Over,2.5,1.66
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Jayson Tatum,Under,2.5,2.14
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Paul George,Over,2.5,1.66
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Paul George,Under,2.5,2.14
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Derrick White,Over,2.5,1.97
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Derrick White,Under,2.5,1.78
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Payton Pritchard,Over,2.5,1.99
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Payton Pritchard,Under,2.5,1.77
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Egor Demin,Over,1.5,1.61
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Egor Demin,Under,1.5,2.24
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Sam Hauser,Over,1.5,1.66
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Sam Hauser,Under,1.5,2.15
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Julius Randle,Over,1.5,2.4
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Julius Randle,Under,1.5,1.54
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Mikel Brown Jr.,Over,1.5,2.46
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Mikel Brown Jr.,Under,1.5,1.52
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Noah Clowney,Over,1.5,2.61
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Noah Clowney,Under,1.5,1.47
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Keon Ellis,Over,0.5,1.51
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Keon Ellis,Under,0.5,2.48
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Jordan Walsh,Over,0.5,1.84
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Jordan Walsh,Under,0.5,1.9
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Day'Ron Sharpe,Over,0.5,4.26
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,draftkings,player_threes,Day'Ron Sharpe,Under,0.5,1.22
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Derrick White,Over,2.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Derrick White,Under,2.5,1.8
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Paul George,Over,2.5,1.62
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Paul George,Under,2.5,2.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Payton Pritchard,Over,2.5,1.83
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Payton Pritchard,Under,2.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Julius Randle,Over,1.5,2.55
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Julius Randle,Under,1.5,1.48
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Jayson Tatum,Over,2.5,1.62
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Jayson Tatum,Under,2.5,2.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Egor Demin,Over,1.5,1.69
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Egor Demin,Under,1.5,2.05
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Michael Porter Jr,Over,2.5,1.8
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Michael Porter Jr,Under,2.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Sam Hauser,Over,1.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Sam Hauser,Under,1.5,2.4
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Noah Clowney,Over,1.5,2.55
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,betmgm,player_threes,Noah Clowney,Under,1.5,1.48
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Day'Ron Sharpe,Over,0.5,4.3
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Day'Ron Sharpe,Under,0.5,1.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Derrick White,Over,2.5,1.95
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Derrick White,Under,2.5,1.8
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Egor Demin,Over,1.5,1.61
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Egor Demin,Under,1.5,2.25
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Egor Demin,Over,2.5,2.85
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Egor Demin,Under,2.5,1.4
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jayson Tatum,Over,2.5,1.67
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jayson Tatum,Under,2.5,2.15
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jayson Tatum,Over,3.5,2.6
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jayson Tatum,Under,3.5,1.47
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jordan Walsh,Over,0.5,1.83
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Jordan Walsh,Under,0.5,1.91
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Julius Randle,Over,1.5,2.4
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Julius Randle,Under,1.5,1.54
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Keon Ellis,Over,0.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Keon Ellis,Under,0.5,2.45
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Michael Porter Jr,Over,2.5,1.62
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Michael Porter Jr,Under,2.5,2.2
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Michael Porter Jr,Over,3.5,2.55
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Michael Porter Jr,Under,3.5,1.48
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Mikel Brown Jr.,Over,1.5,2.45
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Mikel Brown Jr.,Under,1.5,1.53
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Noah Clowney,Over,0.5,1.33
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Noah Clowney,Under,0.5,3.15
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Noah Clowney,Over,1.5,2.6
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Noah Clowney,Under,1.5,1.47
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Paul George,Over,2.5,1.67
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Paul George,Under,2.5,2.15
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Paul George,Over,3.5,2.6
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Paul George,Under,3.5,1.47
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Payton Pritchard,Over,2.5,2.0
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Payton Pritchard,Under,2.5,1.77
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Sam Hauser,Over,1.5,1.67
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Sam Hauser,Under,1.5,2.15
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Sam Hauser,Over,2.5,2.9
+2026-10-27T23:16:09Z,23.8,9ad8cc650802c0c5c3c23a1f32c3e0f6,2026-10-27T23:40:00Z,Brooklyn Nets,Boston Celtics,bovada,player_threes,Sam Hauser,Under,2.5,1.38
