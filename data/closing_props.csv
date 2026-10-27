@@ -2321,3 +2321,163 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-26T23:49:15Z,20.7,90620ab57facf54f629af8beec468e54,2026-10-27T00:10:00Z,Phoenix Suns,Oklahoma City Thunder,bovada,player_threes,Shai Gilgeous-Alexander,Under,1.5,2.2
 2026-10-26T23:49:15Z,20.7,90620ab57facf54f629af8beec468e54,2026-10-27T00:10:00Z,Phoenix Suns,Oklahoma City Thunder,bovada,player_threes,Shai Gilgeous-Alexander,Over,2.5,2.9
 2026-10-26T23:49:15Z,20.7,90620ab57facf54f629af8beec468e54,2026-10-27T00:10:00Z,Phoenix Suns,Oklahoma City Thunder,bovada,player_threes,Shai Gilgeous-Alexander,Under,2.5,1.38
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Nickeil Alexander-Walker,Over,2.5,1.71
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Nickeil Alexander-Walker,Under,2.5,2.06
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Fred VanVleet,Over,2.5,2.13
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Fred VanVleet,Under,2.5,1.68
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,C.J. McCollum,Over,1.5,1.53
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,C.J. McCollum,Under,1.5,2.43
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jabari Smith Jr,Over,1.5,1.56
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jabari Smith Jr,Under,1.5,2.36
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Kevin Durant,Over,1.5,1.58
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Kevin Durant,Under,1.5,2.29
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Aaron Wiggins,Over,1.5,1.65
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Aaron Wiggins,Under,1.5,2.16
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Reed Sheppard,Over,1.5,1.76
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Reed Sheppard,Under,1.5,2.0
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jalen Johnson,Over,1.5,1.93
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jalen Johnson,Under,1.5,1.82
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Luguentz Dort,Over,1.5,2.14
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Luguentz Dort,Under,1.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Onyeka Okongwu,Over,1.5,2.16
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Onyeka Okongwu,Under,1.5,1.65
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Tari Eason,Over,0.5,1.43
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Tari Eason,Under,0.5,2.75
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jock Landale,Over,0.5,1.61
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Jock Landale,Under,0.5,2.25
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Alperen Sengun,Over,0.5,2.02
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,draftkings,player_threes,Alperen Sengun,Under,0.5,1.75
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Onyeka Okongwu,Over,1.5,2.1
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Onyeka Okongwu,Under,1.5,1.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jalen Johnson,Over,1.5,1.97
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jalen Johnson,Under,1.5,1.8
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jabari Smith Jr,Over,1.5,1.51
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jabari Smith Jr,Under,1.5,2.49
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Alperen Sengun,Over,0.5,2.04
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Alperen Sengun,Under,0.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jock Landale,Over,0.5,1.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Jock Landale,Under,0.5,2.1
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Fred VanVleet,Over,2.5,2.04
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Fred VanVleet,Under,2.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Kevin Durant,Over,1.5,1.61
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Kevin Durant,Under,1.5,2.25
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Nickeil Alexander-Walker,Over,2.5,1.73
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Nickeil Alexander-Walker,Under,2.5,2.06
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,C.J. McCollum,Over,2.5,2.55
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,C.J. McCollum,Under,2.5,1.49
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Luguentz Dort,Over,1.5,2.15
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Luguentz Dort,Under,1.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Aaron Wiggins,Over,1.5,1.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Aaron Wiggins,Under,1.5,2.1
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Tari Eason,Over,1.5,2.95
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Tari Eason,Under,1.5,1.38
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Reed Sheppard,Over,1.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betonlineag,player_threes,Reed Sheppard,Under,1.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jalen Johnson,Over,1.5,1.9
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jalen Johnson,Under,1.5,1.83
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Alperen Sengun,Over,0.5,2.1
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Alperen Sengun,Under,0.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Kevin Durant,Over,1.5,1.61
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Kevin Durant,Under,1.5,2.25
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,C.J. McCollum,Over,2.5,2.35
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,C.J. McCollum,Under,2.5,1.54
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Nickeil Alexander-Walker,Over,2.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Nickeil Alexander-Walker,Under,2.5,2.1
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Onyeka Okongwu,Over,1.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Onyeka Okongwu,Under,1.5,1.71
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Fred VanVleet,Over,2.5,1.95
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Fred VanVleet,Under,2.5,1.8
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jabari Smith Jr,Over,2.5,2.4
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jabari Smith Jr,Under,2.5,1.53
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jock Landale,Over,0.5,1.62
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Jock Landale,Under,0.5,2.2
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Luguentz Dort,Over,1.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Luguentz Dort,Under,1.5,1.71
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Aaron Wiggins,Over,1.5,1.62
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Aaron Wiggins,Under,1.5,2.2
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Tari Eason,Over,1.5,3.0
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Tari Eason,Under,1.5,1.36
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Reed Sheppard,Over,1.5,1.71
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betmgm,player_threes,Reed Sheppard,Under,1.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Jalen Johnson,Over,1.5,2.06
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Jalen Johnson,Under,1.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Jabari Smith Jr,Over,1.5,1.56
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Jabari Smith Jr,Under,1.5,2.4
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,C.J. McCollum,Over,2.5,2.64
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,C.J. McCollum,Under,2.5,1.47
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Aaron Wiggins,Over,1.5,1.72
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Aaron Wiggins,Under,1.5,2.08
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Tari Eason,Over,1.5,3.0
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Tari Eason,Under,1.5,1.38
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Onyeka Okongwu,Over,1.5,2.12
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Onyeka Okongwu,Under,1.5,1.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Fred VanVleet,Over,2.5,2.06
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Fred VanVleet,Under,2.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Alperen Sengun,Over,0.5,2.04
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Alperen Sengun,Under,0.5,1.76
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Kevin Durant,Over,1.5,1.62
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Kevin Durant,Under,1.5,2.24
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Nickeil Alexander-Walker,Over,2.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,fanduel,player_threes,Nickeil Alexander-Walker,Under,2.5,2.06
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Fred VanVleet,Over,2.5,1.96
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Fred VanVleet,Under,2.5,1.76
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jock Landale,Over,0.5,1.66
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jock Landale,Under,0.5,2.12
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jalen Johnson,Over,1.5,2.08
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jalen Johnson,Under,1.5,1.68
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Aaron Wiggins,Over,1.5,1.63
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Aaron Wiggins,Under,1.5,2.16
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Onyeka Okongwu,Over,1.5,2.17
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Onyeka Okongwu,Under,1.5,1.63
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Tari Eason,Over,0.5,1.42
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Tari Eason,Under,0.5,2.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,C.J. McCollum,Over,1.5,1.62
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,C.J. McCollum,Under,1.5,2.18
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Luguentz Dort,Over,1.5,2.23
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Luguentz Dort,Under,1.5,1.6
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Alperen Sengun,Over,0.5,2.0
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Alperen Sengun,Under,0.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Nickeil Alexander-Walker,Over,2.5,1.73
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Nickeil Alexander-Walker,Under,2.5,2.02
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jabari Smith Jr,Over,1.5,1.55
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Jabari Smith Jr,Under,1.5,2.32
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Reed Sheppard,Over,1.5,1.68
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Reed Sheppard,Under,1.5,2.08
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Kevin Durant,Over,1.5,1.6
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,betrivers,player_threes,Kevin Durant,Under,1.5,2.23
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Aaron Wiggins,Over,1.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Aaron Wiggins,Under,1.5,2.15
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Aaron Wiggins,Over,2.5,2.9
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Aaron Wiggins,Under,2.5,1.38
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Alperen Sengun,Over,0.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Alperen Sengun,Under,0.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,C.J. McCollum,Over,1.5,1.54
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,C.J. McCollum,Under,1.5,2.4
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,C.J. McCollum,Over,2.5,2.65
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,C.J. McCollum,Under,2.5,1.45
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Fred VanVleet,Over,2.5,2.15
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Fred VanVleet,Under,2.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Over,1.5,1.56
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Under,1.5,2.35
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Over,2.5,2.7
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Under,2.5,1.43
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jalen Johnson,Over,1.5,1.91
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jalen Johnson,Under,1.5,1.83
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jock Landale,Over,0.5,1.61
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Jock Landale,Under,0.5,2.25
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Kevin Durant,Over,1.5,1.59
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Kevin Durant,Under,1.5,2.3
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Kevin Durant,Over,2.5,2.75
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Kevin Durant,Under,2.5,1.42
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Luguentz Dort,Over,1.5,2.15
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Luguentz Dort,Under,1.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Nickeil Alexander-Walker,Over,2.5,1.74
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Nickeil Alexander-Walker,Under,2.5,2.05
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Nickeil Alexander-Walker,Over,3.5,2.8
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Nickeil Alexander-Walker,Under,3.5,1.41
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Onyeka Okongwu,Over,1.5,2.15
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Onyeka Okongwu,Under,1.5,1.67
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Tari Eason,Over,0.5,1.42
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Tari Eason,Under,0.5,2.75
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Tari Eason,Over,1.5,2.9
+2026-10-27T00:11:54Z,28.1,b57695c11301fc8264db6b94a5ea2485,2026-10-27T00:40:00Z,Atlanta Hawks,Houston Rockets,bovada,player_threes,Tari Eason,Under,1.5,1.38
