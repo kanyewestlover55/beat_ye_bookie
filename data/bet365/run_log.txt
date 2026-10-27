@@ -59,3 +59,15 @@ Games to collect this run: 0
 2026-10-26T21:37:11Z | board: 136 basketball matches, 0 new NBA fixtures recorded
 Games to collect this run: 0
 
+2026-10-27T10:41:06Z | board: 135 basketball matches, 5 new NBA fixtures recorded
+Games to collect this run: 9
+  WAS Wizards @ CHA Hornets: 584 3PM price points, 95 closes, 13 players
+  MIN Timberwolves @ CLE Cavaliers: 548 3PM price points, 91 closes, 12 players
+  CHI Bulls @ BOS Celtics: 582 3PM price points, 111 closes, 15 players
+  DAL Mavericks @ MIA Heat: 663 3PM price points, 89 closes, 12 players
+  IND Pacers @ MIL Bucks: 603 3PM price points, 109 closes, 15 players
+  PHX Suns @ OKC Thunder: 504 3PM price points, 111 closes, 16 players
+  ATL Hawks @ HOU Rockets: 758 3PM price points, 108 closes, 16 players
+  MEM Grizzlies @ UTA Jazz: 557 3PM price points, 91 closes, 12 players
+  GS Warriors @ DEN Nuggets: 617 3PM price points, 89 closes, 12 players
+
