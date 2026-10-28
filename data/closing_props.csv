@@ -3739,3 +3739,135 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-28T22:56:50Z,13.2,5997ee5c9fbdc53f9c86732b02f58158,2026-10-28T23:10:00Z,Philadelphia 76ers,Indiana Pacers,betrivers,player_threes,LeBron James,Under,0.5,2.65
 2026-10-28T22:56:50Z,13.2,5997ee5c9fbdc53f9c86732b02f58158,2026-10-28T23:10:00Z,Philadelphia 76ers,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Over,1.5,2.02
 2026-10-28T22:56:50Z,13.2,5997ee5c9fbdc53f9c86732b02f58158,2026-10-28T23:10:00Z,Philadelphia 76ers,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Under,1.5,1.73
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,R.J. Barrett,Over,1.5,1.83
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,R.J. Barrett,Under,1.5,1.94
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Tristan da Silva,Over,2.5,2.08
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Tristan da Silva,Under,2.5,1.72
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Franz Wagner,Over,1.5,2.12
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Franz Wagner,Under,1.5,1.7
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Scottie Barnes,Over,1.5,2.54
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Scottie Barnes,Under,1.5,1.5
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Immanuel Quickley,Over,2.5,2.08
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Immanuel Quickley,Under,2.5,1.72
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Desmond Bane,Over,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Desmond Bane,Under,2.5,2.06
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Ja'Kobe Walter,Over,2.5,2.26
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Ja'Kobe Walter,Under,2.5,1.62
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Anthony Black,Over,1.5,1.85
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,fanduel,player_threes,Anthony Black,Under,1.5,1.93
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Desmond Bane,Over,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Desmond Bane,Under,2.5,2.02
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Immanuel Quickley,Over,2.5,2.03
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Immanuel Quickley,Under,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Tristan da Silva,Over,2.5,2.13
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Tristan da Silva,Under,2.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Ja'Kobe Walter,Over,2.5,2.33
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Ja'Kobe Walter,Under,2.5,1.57
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Anthony Black,Over,1.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Anthony Black,Under,1.5,2.13
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,R.J. Barrett,Over,1.5,1.89
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,R.J. Barrett,Under,1.5,1.85
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Franz Wagner,Over,1.5,2.14
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Franz Wagner,Under,1.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Scottie Barnes,Over,1.5,2.54
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Scottie Barnes,Under,1.5,1.49
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Jase Richardson,Over,0.5,1.53
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Jase Richardson,Under,0.5,2.42
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Jamal Shead,Over,0.5,1.55
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Jamal Shead,Under,0.5,2.37
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Wendell Carter Jr,Over,0.5,1.9
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Wendell Carter Jr,Under,0.5,1.84
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Collin Murray-Boyles,Over,0.5,4.23
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,draftkings,player_threes,Collin Murray-Boyles,Under,0.5,1.22
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Wendell Carter Jr,Over,0.5,1.88
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Wendell Carter Jr,Under,0.5,1.88
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Franz Wagner,Over,1.5,2.05
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Franz Wagner,Under,1.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Scottie Barnes,Over,1.5,2.58
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Scottie Barnes,Under,1.5,1.48
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,R.J. Barrett,Over,1.5,1.89
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,R.J. Barrett,Under,1.5,1.87
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Anthony Black,Over,1.5,1.95
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Anthony Black,Under,1.5,1.81
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Immanuel Quickley,Over,2.5,2.0
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Immanuel Quickley,Under,2.5,1.77
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Tristan da Silva,Over,2.5,2.12
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Tristan da Silva,Under,2.5,1.69
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Ja'Kobe Walter,Over,2.5,2.2
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Ja'Kobe Walter,Under,2.5,1.64
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Desmond Bane,Over,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Desmond Bane,Under,2.5,2.05
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Jamal Shead,Over,0.5,1.58
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Jamal Shead,Under,0.5,2.32
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Jase Richardson,Over,0.5,1.51
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betonlineag,player_threes,Jase Richardson,Under,0.5,2.5
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Anthony Black,Over,1.5,1.81
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Anthony Black,Under,1.5,1.91
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,R.J. Barrett,Over,1.5,1.78
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,R.J. Barrett,Under,1.5,1.94
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Jamal Shead,Over,0.5,1.48
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Jamal Shead,Under,0.5,2.5
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Tristan da Silva,Over,2.5,2.04
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Tristan da Silva,Under,2.5,1.72
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Wendell Carter Jr,Over,0.5,1.68
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Wendell Carter Jr,Under,0.5,2.08
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Ja'Kobe Walter,Over,2.5,2.45
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Ja'Kobe Walter,Under,2.5,1.5
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Scottie Barnes,Over,1.5,2.75
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Scottie Barnes,Under,1.5,1.41
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Franz Wagner,Over,1.5,2.0
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Franz Wagner,Under,1.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Desmond Bane,Over,2.5,1.72
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Desmond Bane,Under,2.5,2.04
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Immanuel Quickley,Over,2.5,1.97
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betrivers,player_threes,Immanuel Quickley,Under,2.5,1.76
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Immanuel Quickley,Over,2.5,1.91
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Immanuel Quickley,Under,2.5,1.83
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Ja'Kobe Walter,Over,2.5,2.3
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Ja'Kobe Walter,Under,2.5,1.57
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Desmond Bane,Over,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Desmond Bane,Under,2.5,2.0
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Scottie Barnes,Over,1.5,2.6
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Scottie Barnes,Under,1.5,1.45
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Anthony Black,Over,1.5,1.83
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Anthony Black,Under,1.5,1.9
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Franz Wagner,Over,1.5,1.95
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Franz Wagner,Under,1.5,1.8
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,R.J. Barrett,Over,1.5,1.87
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,R.J. Barrett,Under,1.5,1.87
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Tristan da Silva,Over,2.5,2.0
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Tristan da Silva,Under,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Jase Richardson,Over,0.5,1.45
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,betmgm,player_threes,Jase Richardson,Under,0.5,2.65
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Anthony Black,Over,1.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Anthony Black,Under,1.5,2.15
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Anthony Black,Over,2.5,2.9
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Anthony Black,Under,2.5,1.38
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Collin Murray-Boyles,Over,0.5,4.3
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Collin Murray-Boyles,Under,0.5,1.2
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Desmond Bane,Over,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Desmond Bane,Under,2.5,2.05
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Desmond Bane,Over,3.5,2.8
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Desmond Bane,Under,3.5,1.41
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Franz Wagner,Over,1.5,2.15
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Franz Wagner,Under,1.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Immanuel Quickley,Over,2.5,2.05
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Immanuel Quickley,Under,2.5,1.74
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Ja'Kobe Walter,Over,1.5,1.45
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Ja'Kobe Walter,Under,1.5,2.65
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Ja'Kobe Walter,Over,2.5,2.35
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Ja'Kobe Walter,Under,2.5,1.56
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Jamal Shead,Over,0.5,1.56
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Jamal Shead,Under,0.5,2.35
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Jase Richardson,Over,0.5,1.53
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Jase Richardson,Under,0.5,2.45
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,R.J. Barrett,Over,1.5,1.91
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,R.J. Barrett,Under,1.5,1.83
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Scottie Barnes,Over,1.5,2.55
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Scottie Barnes,Under,1.5,1.48
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Over,1.5,1.36
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Under,1.5,3.0
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Over,2.5,2.15
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Under,2.5,1.67
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Over,0.5,1.91
+2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Under,0.5,1.83
