@@ -9,7 +9,8 @@ this repo holds the code and the data.
 
 1. Read this README.
 2. Download `odds_log.csv` and everything in `data/` from this repo (public, raw.githubusercontent.com).
-3. Rebuild the datasets: run `build_dataset.py` and `build_game_lines.py` (both download their own sources).
+3. Rebuild the datasets: `pip install pyarrow lightgbm`, then run `build_dataset.py` and `build_game_lines.py`
+   (both download their own sources), then `projection_model.py` (Layer 2, needs the other two first).
 4. Open the Claude Doc for the rulebook, status table and findings log.
 
 ## What's here
@@ -24,6 +25,7 @@ this repo holds the code and the data.
 | `.github/workflows/capture.yml` | Bot schedule: every 15 min, 16:00-05:59 UTC | Manual |
 | `build_dataset.py` | Player-game dataset with pre-game-only features (sportsdataverse / ESPN box scores) | Manual |
 | `build_game_lines.py` | Historical totals and spreads matched to ESPN games | Manual |
+| `projection_model.py` | Layer 2: 3PM projection (cross-season features, structured + GBM), validation report | Manual |
 
 ## Conventions
 
