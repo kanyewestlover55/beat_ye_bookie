@@ -3871,3 +3871,537 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Under,2.5,1.67
 2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Over,0.5,1.91
 2026-10-28T23:36:27Z,3.5,67550840fbe9bb9c550d3d4958e259ea,2026-10-28T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Under,0.5,1.83
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Mikal Bridges,Over,1.5,2.04
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Mikal Bridges,Under,1.5,1.76
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Matas Buzelis,Over,1.5,1.63
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Matas Buzelis,Under,1.5,2.24
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Jalen Brunson,Over,2.5,2.46
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Jalen Brunson,Under,2.5,1.53
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Josh Giddey,Over,1.5,2.44
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Josh Giddey,Under,1.5,1.54
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Caleb Wilson,Over,1.5,1.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Caleb Wilson,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Norman Powell,Over,2.5,1.98
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Norman Powell,Under,2.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,OG Anunoby,Over,2.5,2.14
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,OG Anunoby,Under,2.5,1.68
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Karl-Anthony Towns,Over,1.5,2.22
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Karl-Anthony Towns,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Jalen Smith,Over,1.5,1.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Jalen Smith,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Josh Hart,Over,1.5,2.44
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,fanduel,player_threes,Josh Hart,Under,1.5,1.54
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Jalen Brunson,Over,2.5,2.34
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Jalen Brunson,Under,2.5,1.57
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Josh Hart,Over,1.5,2.4
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Josh Hart,Under,1.5,1.54
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Josh Giddey,Over,1.5,2.44
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Josh Giddey,Under,1.5,1.53
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,OG Anunoby,Over,2.5,2.04
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,OG Anunoby,Under,2.5,1.74
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Mikal Bridges,Over,1.5,2.04
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Mikal Bridges,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Matas Buzelis,Over,1.5,1.68
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Matas Buzelis,Under,1.5,2.14
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Jalen Smith,Over,1.5,1.98
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Jalen Smith,Under,1.5,1.79
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Karl-Anthony Towns,Over,1.5,2.2
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Karl-Anthony Towns,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Norman Powell,Over,2.5,1.97
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Norman Powell,Under,2.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Buddy Hield,Over,1.5,2.4
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Buddy Hield,Under,1.5,1.54
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Caleb Wilson,Over,1.5,1.94
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Caleb Wilson,Under,1.5,1.82
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Landry Shamet,Over,1.5,1.92
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Landry Shamet,Under,1.5,1.84
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Miles McBride,Over,1.5,2.18
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Miles McBride,Under,1.5,1.65
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Leonard Miller,Over,1.5,2.86
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betonlineag,player_threes,Leonard Miller,Under,1.5,1.4
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,OG Anunoby,Over,2.5,1.99
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,OG Anunoby,Under,2.5,1.77
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Norman Powell,Over,2.5,2.01
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Norman Powell,Under,2.5,1.75
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Jalen Brunson,Over,2.5,2.31
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Jalen Brunson,Under,2.5,1.57
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Matas Buzelis,Over,1.5,1.67
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Matas Buzelis,Under,1.5,2.13
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Jalen Smith,Over,1.5,1.88
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Jalen Smith,Under,1.5,1.85
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Caleb Wilson,Over,1.5,1.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Caleb Wilson,Under,1.5,1.85
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Landry Shamet,Over,1.5,1.94
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Landry Shamet,Under,1.5,1.81
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Mikal Bridges,Over,1.5,2.08
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Mikal Bridges,Under,1.5,1.7
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Karl-Anthony Towns,Over,1.5,2.15
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Karl-Anthony Towns,Under,1.5,1.66
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Miles McBride,Over,1.5,2.18
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Miles McBride,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Buddy Hield,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Buddy Hield,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Josh Hart,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Josh Hart,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Josh Giddey,Over,1.5,2.49
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Josh Giddey,Under,1.5,1.51
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Leonard Miller,Over,1.5,2.78
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,draftkings,player_threes,Leonard Miller,Under,1.5,1.42
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Jalen Brunson,Over,2.5,2.48
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Jalen Brunson,Under,2.5,1.49
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Josh Giddey,Over,1.5,2.38
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Josh Giddey,Under,1.5,1.53
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Josh Hart,Over,1.5,2.14
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Josh Hart,Under,1.5,1.65
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Karl-Anthony Towns,Over,1.5,2.16
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Karl-Anthony Towns,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Landry Shamet,Over,1.5,1.88
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Landry Shamet,Under,1.5,1.83
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Jalen Smith,Over,1.5,1.89
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Jalen Smith,Under,1.5,1.82
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Caleb Wilson,Over,1.5,1.93
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Caleb Wilson,Under,1.5,1.79
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,OG Anunoby,Over,2.5,1.97
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,OG Anunoby,Under,2.5,1.74
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Matas Buzelis,Over,1.5,1.65
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Matas Buzelis,Under,1.5,2.12
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Norman Powell,Over,2.5,1.96
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Norman Powell,Under,2.5,1.76
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Mikal Bridges,Over,1.5,2.02
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betrivers,player_threes,Mikal Bridges,Under,1.5,1.73
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Norman Powell,Over,2.5,1.95
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Norman Powell,Under,2.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Josh Hart,Over,1.5,2.2
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Josh Hart,Under,1.5,1.62
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Jalen Smith,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Jalen Smith,Under,1.5,1.69
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Mikal Bridges,Over,1.5,1.95
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Mikal Bridges,Under,1.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Jalen Brunson,Over,2.5,2.15
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Jalen Brunson,Under,2.5,1.65
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Josh Giddey,Over,1.5,2.3
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Josh Giddey,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Caleb Wilson,Over,1.5,1.95
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Caleb Wilson,Under,1.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Karl-Anthony Towns,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Karl-Anthony Towns,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,OG Anunoby,Over,2.5,1.95
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,OG Anunoby,Under,2.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Matas Buzelis,Over,1.5,1.65
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Matas Buzelis,Under,1.5,2.15
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Miles McBride,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Miles McBride,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Landry Shamet,Over,1.5,1.85
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,betmgm,player_threes,Landry Shamet,Under,1.5,1.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Buddy Hield,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Buddy Hield,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Brunson,Over,1.5,1.42
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Brunson,Under,1.5,2.75
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Brunson,Over,2.5,2.3
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Brunson,Under,2.5,1.59
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Smith,Over,1.5,1.87
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Jalen Smith,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Josh Giddey,Over,1.5,2.5
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Josh Giddey,Under,1.5,1.5
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Josh Hart,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Josh Hart,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Karl-Anthony Towns,Over,1.5,2.15
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Karl-Anthony Towns,Under,1.5,1.67
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Landry Shamet,Over,1.5,1.95
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Landry Shamet,Under,1.5,1.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Leonard Miller,Over,0.5,1.38
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Leonard Miller,Under,0.5,2.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Leonard Miller,Over,1.5,2.8
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Leonard Miller,Under,1.5,1.41
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Matas Buzelis,Over,1.5,1.67
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Matas Buzelis,Under,1.5,2.15
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Matas Buzelis,Over,2.5,2.9
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Matas Buzelis,Under,2.5,1.38
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Mikal Bridges,Over,1.5,2.1
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Mikal Bridges,Under,1.5,1.69
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Miles McBride,Over,1.5,2.2
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Miles McBride,Under,1.5,1.62
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Norman Powell,Over,2.5,2.0
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,Norman Powell,Under,2.5,1.77
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,OG Anunoby,Over,2.5,2.0
+2026-10-29T00:09:19Z,0.7,7b9e02686c886a54c9a91dd3f3879326,2026-10-29T00:10:00Z,New York Knicks,Chicago Bulls,bovada,player_threes,OG Anunoby,Under,2.5,1.77
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Over,1.5,2.0
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Under,1.5,1.78
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Jamal Murray,Over,2.5,1.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Jamal Murray,Under,2.5,2.12
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Christian Braun,Over,1.5,2.44
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Christian Braun,Under,1.5,1.54
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Nikola Jokic,Over,1.5,1.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Nikola Jokic,Under,1.5,2.06
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Dejounte Murray,Over,1.5,2.02
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Dejounte Murray,Under,1.5,1.77
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Over,2.5,1.96
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Under,2.5,1.82
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Aaron Gordon,Over,1.5,1.83
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,fanduel,player_threes,Aaron Gordon,Under,1.5,1.94
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Nikola Jokic,Over,1.5,1.69
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Nikola Jokic,Under,1.5,2.11
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Jamal Murray,Over,2.5,1.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Jamal Murray,Under,2.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Aaron Gordon,Over,1.5,1.8
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Aaron Gordon,Under,1.5,1.97
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Christian Braun,Over,1.5,2.32
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Christian Braun,Under,1.5,1.58
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Dejounte Murray,Over,1.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Dejounte Murray,Under,1.5,1.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Over,2.5,2.0
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Under,2.5,1.77
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Over,1.5,2.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Under,1.5,1.43
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,DeMar DeRozan,Over,0.5,1.88
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,DeMar DeRozan,Under,0.5,1.88
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Over,1.5,2.03
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Under,1.5,1.75
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Jamal Murray,Over,2.5,1.65
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Jamal Murray,Under,2.5,2.17
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Over,2.5,2.08
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Under,2.5,1.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Nikola Jokic,Over,1.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Nikola Jokic,Under,1.5,2.07
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Aaron Gordon,Over,1.5,1.75
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Aaron Gordon,Under,1.5,2.01
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Over,1.5,2.03
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Dejounte Murray,Over,1.5,2.07
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Dejounte Murray,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Christian Braun,Over,1.5,2.32
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Christian Braun,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Over,1.5,2.68
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Under,1.5,1.44
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Dejounte Murray,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Dejounte Murray,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Jeremiah Fears,Over,1.5,2.65
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Jeremiah Fears,Under,1.5,1.44
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Jamal Murray,Over,2.5,1.67
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Jamal Murray,Under,2.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Aaron Gordon,Over,1.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Aaron Gordon,Under,1.5,2.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Christian Braun,Over,1.5,2.25
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Christian Braun,Under,1.5,1.61
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Over,2.5,2.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Under,2.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Nikola Jokic,Over,1.5,1.61
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Nikola Jokic,Under,1.5,2.25
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Over,1.5,2.0
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Over,2.5,2.07
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Under,2.5,1.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Dejounte Murray,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Dejounte Murray,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Over,0.5,1.43
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Under,0.5,2.65
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Jamal Murray,Over,2.5,1.6
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Jamal Murray,Under,2.5,2.23
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Nikola Jokic,Over,1.5,1.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Nikola Jokic,Under,1.5,1.97
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Aaron Gordon,Over,1.5,1.77
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Aaron Gordon,Under,1.5,1.96
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Christian Braun,Over,1.5,2.48
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Christian Braun,Under,1.5,1.49
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Over,1.5,1.87
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Under,1.5,1.85
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Aaron Gordon,Over,1.5,1.77
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Aaron Gordon,Under,1.5,2.0
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Christian Braun,Over,1.5,2.3
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Christian Braun,Under,1.5,1.59
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Dejounte Murray,Over,1.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Dejounte Murray,Under,1.5,1.69
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jamal Murray,Over,2.5,1.62
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jamal Murray,Under,2.5,2.2
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jamal Murray,Over,3.5,2.55
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jamal Murray,Under,3.5,1.48
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Over,0.5,1.36
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Under,0.5,3.0
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Over,1.5,2.7
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Under,1.5,1.43
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Nikola Jokic,Over,1.5,1.69
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Nikola Jokic,Under,1.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Nikola Jokic,Over,2.5,3.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Nikola Jokic,Under,2.5,1.34
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Saddiq Bey,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Saddiq Bey,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Over,1.5,1.36
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Under,1.5,3.05
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Over,2.5,2.1
+2026-10-29T00:09:19Z,0.7,782d6ce7f65b592ad1c43d2f4e53cc82,2026-10-29T00:10:00Z,Denver Nuggets,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Under,2.5,1.69
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Over,3.5,1.87
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Under,3.5,1.9
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Over,1.5,2.14
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Under,1.5,1.68
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Over,1.5,2.24
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Under,1.5,1.63
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Brandin Podziemski,Over,2.5,2.18
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Brandin Podziemski,Under,2.5,1.67
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Stephen Curry,Over,3.5,1.82
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Stephen Curry,Under,3.5,1.96
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Draymond Green,Over,1.5,2.62
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Draymond Green,Under,1.5,1.48
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Over,1.5,2.12
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Under,1.5,1.7
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Over,1.5,1.88
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Under,1.5,1.88
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Yaxel Lendeborg,Over,1.5,1.83
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,fanduel,player_threes,Yaxel Lendeborg,Under,1.5,1.94
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Stephen Curry,Over,3.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Stephen Curry,Under,3.5,1.91
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Draymond Green,Over,1.5,2.65
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Draymond Green,Under,1.5,1.46
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Over,1.5,2.07
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Under,1.5,1.72
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Brandin Podziemski,Over,2.5,2.28
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Brandin Podziemski,Under,2.5,1.6
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Over,1.5,1.81
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Under,1.5,1.96
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Over,3.5,1.87
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Under,3.5,1.89
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Yaxel Lendeborg,Over,1.5,1.78
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Yaxel Lendeborg,Under,1.5,1.99
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Over,1.5,2.2
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Over,1.5,1.99
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Under,1.5,1.78
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,De'Anthony Melton,Over,1.5,2.03
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,De'Anthony Melton,Under,1.5,1.75
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Al Horford,Over,0.5,1.49
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betonlineag,player_threes,Al Horford,Under,0.5,2.56
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Stephen Curry,Over,3.5,1.81
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Stephen Curry,Under,3.5,1.94
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Over,3.5,1.9
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Under,3.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Brandin Podziemski,Over,2.5,2.2
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Brandin Podziemski,Under,2.5,1.63
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Yaxel Lendeborg,Over,1.5,1.76
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Yaxel Lendeborg,Under,1.5,2.0
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Over,1.5,1.78
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Under,1.5,1.97
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,De'Anthony Melton,Over,1.5,1.99
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,De'Anthony Melton,Under,1.5,1.77
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Over,1.5,2.04
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Under,1.5,1.73
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Over,1.5,2.06
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Under,1.5,1.71
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Over,1.5,2.18
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Under,1.5,1.64
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Draymond Green,Over,1.5,2.33
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Draymond Green,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Al Horford,Over,0.5,1.45
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,draftkings,player_threes,Al Horford,Under,0.5,2.65
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Over,1.5,2.1
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Under,1.5,1.67
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Over,1.5,2.0
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Stephen Curry,Over,3.5,1.9
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Stephen Curry,Under,3.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Yaxel Lendeborg,Over,1.5,1.67
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Yaxel Lendeborg,Under,1.5,2.1
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Ayo Dosunmu,Over,1.5,1.74
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Ayo Dosunmu,Under,1.5,2.0
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Over,3.5,1.83
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Under,3.5,1.91
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Brandin Podziemski,Over,1.5,1.57
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Brandin Podziemski,Under,1.5,2.3
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Draymond Green,Over,0.5,1.43
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Draymond Green,Under,0.5,2.7
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Over,1.5,1.87
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Over,1.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Draymond Green,Over,1.5,2.3
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Draymond Green,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Over,3.5,1.8
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Under,3.5,1.92
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Over,1.5,2.08
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Under,1.5,1.68
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Brandin Podziemski,Over,2.5,2.23
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Brandin Podziemski,Under,2.5,1.6
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Stephen Curry,Over,3.5,1.79
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Stephen Curry,Under,3.5,1.93
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,De'Anthony Melton,Over,1.5,2.1
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,De'Anthony Melton,Under,1.5,1.67
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Al Horford,Over,1.5,2.8
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Al Horford,Under,1.5,1.4
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Yaxel Lendeborg,Over,1.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Yaxel Lendeborg,Under,1.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Over,1.5,2.08
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Under,1.5,1.68
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Over,1.5,1.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Under,1.5,1.88
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Ayo Dosunmu,Over,1.5,1.8
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Ayo Dosunmu,Under,1.5,1.95
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Brandin Podziemski,Over,1.5,1.4
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Brandin Podziemski,Under,1.5,2.85
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Brandin Podziemski,Over,2.5,2.2
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Brandin Podziemski,Under,2.5,1.62
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,De'Anthony Melton,Over,1.5,2.0
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,De'Anthony Melton,Under,1.5,1.77
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Draymond Green,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Draymond Green,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Jaden McDaniels,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Jaden McDaniels,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Jonathan Kuminga,Over,1.5,2.2
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Jonathan Kuminga,Under,1.5,1.62
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Over,3.5,1.91
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Under,3.5,1.83
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Over,4.5,3.05
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Under,4.5,1.36
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Stephen Curry,Over,3.5,1.8
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Stephen Curry,Under,3.5,1.95
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Stephen Curry,Over,4.5,2.75
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Stephen Curry,Under,4.5,1.42
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Terrence Shannon Jr.,Over,1.5,2.05
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Terrence Shannon Jr.,Under,1.5,1.74
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Yaxel Lendeborg,Over,1.5,1.77
+2026-10-29T00:09:19Z,0.7,c6d62b9457cbd8517860e222f1d4f953,2026-10-29T00:10:00Z,Golden State Warriors,Minnesota Timberwolves,bovada,player_threes,Yaxel Lendeborg,Under,1.5,2.0
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Kevin Durant,Over,2.5,2.58
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Kevin Durant,Under,2.5,1.49
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Jabari Smith Jr,Over,2.5,2.38
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Jabari Smith Jr,Under,2.5,1.56
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Fred VanVleet,Over,2.5,1.98
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Fred VanVleet,Under,2.5,1.8
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Myles Turner,Over,1.5,1.82
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Myles Turner,Under,1.5,1.96
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Kyle Kuzma,Over,1.5,2.32
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Kyle Kuzma,Under,1.5,1.59
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Reed Sheppard,Over,2.5,1.87
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Reed Sheppard,Under,2.5,1.9
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Jaime Jaquez Jr,Over,0.5,1.44
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Jaime Jaquez Jr,Under,0.5,2.72
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Ryan Rollins,Over,1.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Ryan Rollins,Under,1.5,2.36
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Tyler Herro,Over,2.5,1.9
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Tyler Herro,Under,2.5,1.87
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Tari Eason,Over,1.5,2.36
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,fanduel,player_threes,Tari Eason,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Jabari Smith Jr,Over,2.5,2.44
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Jabari Smith Jr,Under,2.5,1.53
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Fred VanVleet,Over,2.5,2.09
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Fred VanVleet,Under,2.5,1.71
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Ryan Rollins,Over,1.5,1.6
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Ryan Rollins,Under,1.5,2.27
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Amen Thompson,Over,0.5,2.82
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Amen Thompson,Under,0.5,1.41
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Reed Sheppard,Over,2.5,1.88
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Reed Sheppard,Under,2.5,1.88
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kyle Kuzma,Over,1.5,2.52
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kyle Kuzma,Under,1.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kevin Durant,Over,2.5,2.44
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kevin Durant,Under,2.5,1.53
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Jaime Jaquez Jr,Over,0.5,1.47
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Jaime Jaquez Jr,Under,0.5,2.61
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Myles Turner,Over,1.5,1.93
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Myles Turner,Under,1.5,1.83
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kasparas Jakucionis,Over,1.5,2.71
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kasparas Jakucionis,Under,1.5,1.44
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Tyler Herro,Over,2.5,1.81
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Tyler Herro,Under,2.5,1.95
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kel'el Ware,Over,0.5,1.6
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Kel'el Ware,Under,0.5,2.27
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Tari Eason,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betonlineag,player_threes,Tari Eason,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Reed Sheppard,Over,2.5,1.7
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Reed Sheppard,Under,2.5,2.07
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Tyler Herro,Over,2.5,1.8
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Tyler Herro,Under,2.5,1.95
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Fred VanVleet,Over,2.5,2.07
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Fred VanVleet,Under,2.5,1.71
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kevin Durant,Over,2.5,2.36
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kevin Durant,Under,2.5,1.56
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Jabari Smith Jr,Over,2.5,2.47
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Jabari Smith Jr,Under,2.5,1.51
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Ryan Rollins,Over,1.5,1.6
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Ryan Rollins,Under,1.5,2.27
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Myles Turner,Over,1.5,1.77
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Myles Turner,Under,1.5,1.99
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Tari Eason,Over,1.5,2.29
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Tari Eason,Under,1.5,1.59
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kyle Kuzma,Over,1.5,2.33
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kyle Kuzma,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Jaime Jaquez Jr,Over,0.5,1.44
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Jaime Jaquez Jr,Under,0.5,2.69
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kel'el Ware,Over,0.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,draftkings,player_threes,Kel'el Ware,Under,0.5,2.33
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Myles Turner,Over,1.5,1.87
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Myles Turner,Under,1.5,1.87
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Tyler Herro,Over,2.5,1.74
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Tyler Herro,Under,2.5,2.0
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Jaime Jaquez Jr,Over,0.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Jaime Jaquez Jr,Under,0.5,2.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kyle Kuzma,Over,1.5,2.3
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kyle Kuzma,Under,1.5,1.57
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Tari Eason,Over,1.5,2.55
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Tari Eason,Under,1.5,1.48
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Fred VanVleet,Over,2.5,2.15
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Fred VanVleet,Under,2.5,1.65
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Ryan Rollins,Over,2.5,2.45
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Ryan Rollins,Under,2.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Jabari Smith Jr,Over,2.5,2.35
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Jabari Smith Jr,Under,2.5,1.54
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kevin Durant,Over,2.5,2.4
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kevin Durant,Under,2.5,1.53
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Reed Sheppard,Over,2.5,1.71
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Reed Sheppard,Under,2.5,2.05
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kasparas Jakucionis,Over,0.5,1.45
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betmgm,player_threes,Kasparas Jakucionis,Under,0.5,2.65
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kevin Durant,Over,2.5,2.4
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kevin Durant,Under,2.5,1.51
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Reed Sheppard,Over,2.5,1.93
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Reed Sheppard,Under,2.5,1.79
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kyle Kuzma,Over,1.5,2.43
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kyle Kuzma,Under,1.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Jaime Jaquez Jr,Over,0.5,1.48
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Jaime Jaquez Jr,Under,0.5,2.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Fred VanVleet,Over,2.5,2.08
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Fred VanVleet,Under,2.5,1.68
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Ryan Rollins,Over,1.5,1.62
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Ryan Rollins,Under,1.5,2.2
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kel'el Ware,Over,0.5,1.63
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Kel'el Ware,Under,0.5,2.16
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Tyler Herro,Over,2.5,1.85
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Tyler Herro,Under,2.5,1.87
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Tari Eason,Over,1.5,2.45
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Tari Eason,Under,1.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Jabari Smith Jr,Over,2.5,2.45
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Jabari Smith Jr,Under,2.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Myles Turner,Over,1.5,1.83
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,betrivers,player_threes,Myles Turner,Under,1.5,1.88
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Fred VanVleet,Over,1.5,1.36
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Fred VanVleet,Under,1.5,3.05
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Fred VanVleet,Over,2.5,2.1
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Fred VanVleet,Under,2.5,1.69
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jabari Smith Jr,Over,1.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jabari Smith Jr,Under,1.5,2.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jabari Smith Jr,Over,2.5,2.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jabari Smith Jr,Under,2.5,1.5
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jaime Jaquez Jr,Over,0.5,1.43
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jaime Jaquez Jr,Under,0.5,2.7
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jaime Jaquez Jr,Over,1.5,3.05
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Jaime Jaquez Jr,Under,1.5,1.36
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kel'el Ware,Over,0.5,1.56
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kel'el Ware,Under,0.5,2.35
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kevin Durant,Over,1.5,1.45
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kevin Durant,Under,1.5,2.65
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kevin Durant,Over,2.5,2.35
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kevin Durant,Under,2.5,1.56
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kyle Kuzma,Over,1.5,2.35
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Kyle Kuzma,Under,1.5,1.56
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Myles Turner,Over,1.5,1.77
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Myles Turner,Under,1.5,2.0
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Reed Sheppard,Over,2.5,1.69
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Reed Sheppard,Under,2.5,2.1
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Reed Sheppard,Over,3.5,2.7
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Reed Sheppard,Under,3.5,1.43
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Ryan Rollins,Over,1.5,1.59
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Ryan Rollins,Under,1.5,2.3
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Ryan Rollins,Over,2.5,2.75
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Ryan Rollins,Under,2.5,1.42
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tari Eason,Over,1.5,2.3
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tari Eason,Under,1.5,1.59
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tyler Herro,Over,2.5,1.8
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tyler Herro,Under,2.5,1.95
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tyler Herro,Over,3.5,3.0
+2026-10-29T00:09:19Z,0.7,83ca338f605b5664b7b1da34c19a0222,2026-10-29T00:10:00Z,Houston Rockets,Milwaukee Bucks,bovada,player_threes,Tyler Herro,Under,3.5,1.36
