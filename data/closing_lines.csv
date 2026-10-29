@@ -1439,3 +1439,111 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-28T22:56:50Z,223.2,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,mybookieag,spreads,Los Angeles Lakers,1.0,1.91
 2026-10-28T22:56:50Z,223.2,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,mybookieag,totals,Over,225.0,1.91
 2026-10-28T22:56:50Z,223.2,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,mybookieag,totals,Under,225.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,spreads,Atlanta Hawks,-1.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,spreads,Cleveland Cavaliers,1.5,1.87
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,totals,Over,237.5,1.89
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,totals,Under,237.5,1.93
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,lowvig,spreads,Atlanta Hawks,-1.5,1.9
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,lowvig,spreads,Cleveland Cavaliers,1.5,1.99
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,lowvig,totals,Over,237.5,1.92
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,lowvig,totals,Under,237.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,spreads,Atlanta Hawks,-1.5,1.88
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,spreads,Cleveland Cavaliers,1.5,1.93
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,totals,Over,237.5,1.89
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,totals,Under,237.5,1.93
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,mybookieag,spreads,Atlanta Hawks,-1.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,mybookieag,spreads,Cleveland Cavaliers,1.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,mybookieag,totals,Over,238.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,mybookieag,totals,Under,238.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,spreads,Atlanta Hawks,-1.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,spreads,Cleveland Cavaliers,1.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,totals,Over,238.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,totals,Under,238.5,1.87
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,spreads,Atlanta Hawks,-0.5,1.88
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,spreads,Cleveland Cavaliers,0.5,1.93
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,totals,Over,237.5,1.88
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,totals,Under,237.5,1.93
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,spreads,Atlanta Hawks,-1.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,spreads,Cleveland Cavaliers,1.5,1.87
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,totals,Over,237.5,1.88
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,totals,Under,237.5,1.94
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,spreads,Atlanta Hawks,-1.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,spreads,Cleveland Cavaliers,1.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,totals,Over,238.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,totals,Under,238.0,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betus,spreads,Atlanta Hawks,-1.5,1.87
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betus,spreads,Cleveland Cavaliers,1.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betus,totals,Over,238.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betus,totals,Under,238.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,spreads,New Orleans Pelicans,-6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,spreads,Sacramento Kings,6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,totals,Over,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,totals,Under,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,lowvig,spreads,New Orleans Pelicans,-6.5,1.96
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,lowvig,spreads,Sacramento Kings,6.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,lowvig,totals,Over,234.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,lowvig,totals,Under,234.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,spreads,New Orleans Pelicans,-6.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,spreads,Sacramento Kings,6.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,totals,Over,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,totals,Under,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,mybookieag,spreads,New Orleans Pelicans,-6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,mybookieag,spreads,Sacramento Kings,6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,mybookieag,totals,Over,235.0,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,mybookieag,totals,Under,235.0,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,spreads,New Orleans Pelicans,-6.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,spreads,Sacramento Kings,6.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,totals,Over,234.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,totals,Under,234.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,spreads,New Orleans Pelicans,-6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,spreads,Sacramento Kings,6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,totals,Over,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,totals,Under,234.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,spreads,New Orleans Pelicans,-6.5,1.92
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,spreads,Sacramento Kings,6.5,1.88
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,totals,Over,235.5,1.92
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,totals,Under,235.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,spreads,New Orleans Pelicans,-6.5,1.95
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,spreads,Sacramento Kings,6.5,1.87
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,totals,Over,235.0,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,totals,Under,235.0,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betus,spreads,New Orleans Pelicans,-6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betus,spreads,Sacramento Kings,6.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betus,totals,Over,235.0,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betus,totals,Under,235.0,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,fanduel,spreads,Memphis Grizzlies,7.5,1.95
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,fanduel,spreads,Portland Trail Blazers,-7.5,1.87
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,fanduel,totals,Over,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,fanduel,totals,Under,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betonlineag,spreads,Memphis Grizzlies,7.5,1.85
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betonlineag,spreads,Portland Trail Blazers,-7.5,1.98
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betonlineag,totals,Over,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betonlineag,totals,Under,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,lowvig,spreads,Memphis Grizzlies,7.5,1.9
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,lowvig,spreads,Portland Trail Blazers,-7.5,1.99
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,lowvig,totals,Over,232.5,1.93
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,lowvig,totals,Under,232.5,1.93
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,draftkings,spreads,Memphis Grizzlies,7.5,1.93
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,draftkings,spreads,Portland Trail Blazers,-7.5,1.89
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,draftkings,totals,Over,232.5,1.87
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,draftkings,totals,Under,232.5,1.95
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betrivers,spreads,Memphis Grizzlies,7.5,1.95
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betrivers,spreads,Portland Trail Blazers,-7.5,1.87
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betrivers,totals,Over,233.5,1.89
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betrivers,totals,Under,233.5,1.92
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betmgm,spreads,Memphis Grizzlies,7.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betmgm,spreads,Portland Trail Blazers,-7.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betmgm,totals,Over,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betmgm,totals,Under,232.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,mybookieag,spreads,Memphis Grizzlies,7.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,mybookieag,spreads,Portland Trail Blazers,-7.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,mybookieag,totals,Over,233.0,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,mybookieag,totals,Under,233.0,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betus,spreads,Memphis Grizzlies,7.5,1.87
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betus,spreads,Portland Trail Blazers,-7.5,1.95
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betus,totals,Over,233.0,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,betus,totals,Under,233.0,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,bovada,spreads,Memphis Grizzlies,7.5,1.87
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,bovada,spreads,Portland Trail Blazers,-7.5,1.95
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,bovada,totals,Over,233.5,1.91
+2026-10-29T23:54:17Z,135.7,ba667ca1b0b042f0661cb9d9af56c165,2026-10-30T02:10:00Z,Memphis Grizzlies,Portland Trail Blazers,bovada,totals,Under,233.5,1.91

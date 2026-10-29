@@ -4643,3 +4643,261 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-29T02:12:11Z,27.8,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,bovada,player_threes,Quentin Grimes,Under,1.5,1.74
 2026-10-29T02:12:11Z,27.8,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,bovada,player_threes,Sandro Mamukelashvili,Over,1.5,2.4
 2026-10-29T02:12:11Z,27.8,6e8a41f3aeff105b0e10766515517d5e,2026-10-29T02:40:00Z,Los Angeles Lakers,Los Angeles Clippers,bovada,player_threes,Sandro Mamukelashvili,Under,1.5,1.54
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Nickeil Alexander-Walker,Over,2.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Nickeil Alexander-Walker,Under,2.5,2.32
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Donovan Mitchell,Over,2.5,1.94
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Donovan Mitchell,Under,2.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,James Harden,Over,2.5,2.01
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,James Harden,Under,2.5,1.75
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,C.J. McCollum,Over,2.5,2.35
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,C.J. McCollum,Under,2.5,1.56
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Sam Merrill,Over,1.5,1.6
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Sam Merrill,Under,1.5,2.26
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Aaron Wiggins,Over,1.5,1.65
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Aaron Wiggins,Under,1.5,2.16
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jalen Johnson,Over,1.5,2.06
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jalen Johnson,Under,1.5,1.72
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Luguentz Dort,Over,1.5,2.11
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Luguentz Dort,Under,1.5,1.68
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Onyeka Okongwu,Over,1.5,2.27
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Onyeka Okongwu,Under,1.5,1.6
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Peyton Watson,Over,1.5,2.37
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Peyton Watson,Under,1.5,1.55
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jaylon Tyson,Over,1.5,2.58
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jaylon Tyson,Under,1.5,1.47
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Evan Mobley,Over,1.5,2.68
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Evan Mobley,Under,1.5,1.44
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Kingston Flemings,Over,0.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Kingston Flemings,Under,0.5,2.14
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jock Landale,Over,0.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Jock Landale,Under,0.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Dyson Daniels,Over,0.5,2.72
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,draftkings,player_threes,Dyson Daniels,Under,0.5,1.43
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Jalen Johnson,Over,1.5,1.97
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Jalen Johnson,Under,1.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Onyeka Okongwu,Over,1.5,2.2
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Onyeka Okongwu,Under,1.5,1.64
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Evan Mobley,Over,1.5,2.78
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Evan Mobley,Under,1.5,1.42
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Dyson Daniels,Over,0.5,2.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Dyson Daniels,Under,0.5,1.45
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Nickeil Alexander-Walker,Over,2.5,1.61
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Nickeil Alexander-Walker,Under,2.5,2.26
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Sam Merrill,Over,1.5,1.64
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Sam Merrill,Under,1.5,2.21
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Donovan Mitchell,Over,2.5,1.94
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Donovan Mitchell,Under,2.5,1.82
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,C.J. McCollum,Over,2.5,2.34
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,C.J. McCollum,Under,2.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Peyton Watson,Over,1.5,2.28
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Peyton Watson,Under,1.5,1.6
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,James Harden,Over,2.5,2.09
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,James Harden,Under,2.5,1.71
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Aaron Wiggins,Over,1.5,1.61
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Aaron Wiggins,Under,1.5,2.25
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Luguentz Dort,Over,1.5,2.39
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Luguentz Dort,Under,1.5,1.55
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Kingston Flemings,Over,0.5,1.66
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Kingston Flemings,Under,0.5,2.16
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Jock Landale,Over,0.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betonlineag,player_threes,Jock Landale,Under,0.5,1.97
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Onyeka Okongwu,Over,1.5,2.1
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Onyeka Okongwu,Under,1.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Evan Mobley,Over,1.5,2.55
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Evan Mobley,Under,1.5,1.48
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jalen Johnson,Over,1.5,1.83
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jalen Johnson,Under,1.5,1.9
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Peyton Watson,Over,1.5,2.05
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Peyton Watson,Under,1.5,1.69
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Donovan Mitchell,Over,2.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Donovan Mitchell,Under,2.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Dyson Daniels,Over,0.5,2.5
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Dyson Daniels,Under,0.5,1.5
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,James Harden,Over,2.5,2.05
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,James Harden,Under,2.5,1.71
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,C.J. McCollum,Over,2.5,2.3
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,C.J. McCollum,Under,2.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Sam Merrill,Over,2.5,2.3
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Sam Merrill,Under,2.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Luguentz Dort,Over,1.5,2.1
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Luguentz Dort,Under,1.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Aaron Wiggins,Over,2.5,2.45
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Aaron Wiggins,Under,2.5,1.5
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Nickeil Alexander-Walker,Over,3.5,2.35
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Nickeil Alexander-Walker,Under,3.5,1.54
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Kingston Flemings,Over,0.5,1.62
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Kingston Flemings,Under,0.5,2.2
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jock Landale,Over,0.5,1.74
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jock Landale,Under,0.5,2.0
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jaylon Tyson,Over,1.5,2.35
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betmgm,player_threes,Jaylon Tyson,Under,1.5,1.54
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Evan Mobley,Over,0.5,1.42
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Evan Mobley,Under,0.5,2.7
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Nickeil Alexander-Walker,Over,2.5,1.61
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Nickeil Alexander-Walker,Under,2.5,2.2
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Donovan Mitchell,Over,2.5,1.91
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Donovan Mitchell,Under,2.5,1.81
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Aaron Wiggins,Over,1.5,1.6
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Aaron Wiggins,Under,1.5,2.2
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Sam Merrill,Over,2.5,2.48
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Sam Merrill,Under,2.5,1.49
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Jaylon Tyson,Over,1.5,2.43
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Jaylon Tyson,Under,1.5,1.5
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Peyton Watson,Over,1.5,2.1
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Peyton Watson,Under,1.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Jalen Johnson,Over,1.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Jalen Johnson,Under,1.5,1.77
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,James Harden,Over,2.5,2.02
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,James Harden,Under,2.5,1.73
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,C.J. McCollum,Over,2.5,2.45
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,C.J. McCollum,Under,2.5,1.5
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Onyeka Okongwu,Over,1.5,2.33
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Onyeka Okongwu,Under,1.5,1.55
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Luguentz Dort,Over,1.5,2.25
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,betrivers,player_threes,Luguentz Dort,Under,1.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Donovan Mitchell,Over,2.5,1.96
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Donovan Mitchell,Under,2.5,1.82
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Sam Merrill,Over,2.5,2.62
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Sam Merrill,Under,2.5,1.48
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Jalen Johnson,Over,1.5,1.96
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Jalen Johnson,Under,1.5,1.82
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Peyton Watson,Over,1.5,2.24
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Peyton Watson,Under,1.5,1.63
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Onyeka Okongwu,Over,1.5,2.24
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Onyeka Okongwu,Under,1.5,1.62
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,James Harden,Over,2.5,2.08
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,James Harden,Under,2.5,1.72
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Nickeil Alexander-Walker,Over,2.5,1.64
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Nickeil Alexander-Walker,Under,2.5,2.22
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,C.J. McCollum,Over,2.5,2.36
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,C.J. McCollum,Under,2.5,1.57
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Luguentz Dort,Over,1.5,2.18
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Luguentz Dort,Under,1.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Evan Mobley,Over,1.5,2.82
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,fanduel,player_threes,Evan Mobley,Under,1.5,1.42
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Aaron Wiggins,Over,1.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Aaron Wiggins,Under,1.5,2.15
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Aaron Wiggins,Over,2.5,2.9
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Aaron Wiggins,Under,2.5,1.38
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,C.J. McCollum,Over,1.5,1.42
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,C.J. McCollum,Under,1.5,2.75
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,C.J. McCollum,Over,2.5,2.3
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,C.J. McCollum,Under,2.5,1.59
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Donovan Mitchell,Over,2.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Donovan Mitchell,Under,2.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Dyson Daniels,Over,0.5,2.7
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Dyson Daniels,Under,0.5,1.43
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Evan Mobley,Over,0.5,1.36
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Evan Mobley,Under,0.5,3.0
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Evan Mobley,Over,1.5,2.7
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Evan Mobley,Under,1.5,1.43
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jalen Johnson,Over,1.5,2.05
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jalen Johnson,Under,1.5,1.74
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,James Harden,Over,2.5,2.0
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,James Harden,Under,2.5,1.77
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jaylon Tyson,Over,1.5,2.6
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jaylon Tyson,Under,1.5,1.47
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jock Landale,Over,0.5,1.8
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Jock Landale,Under,0.5,1.95
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Kingston Flemings,Over,0.5,1.67
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Kingston Flemings,Under,0.5,2.15
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Luguentz Dort,Over,1.5,2.1
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Luguentz Dort,Under,1.5,1.69
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Nickeil Alexander-Walker,Over,2.5,1.59
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Nickeil Alexander-Walker,Under,2.5,2.3
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Nickeil Alexander-Walker,Over,3.5,2.45
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Nickeil Alexander-Walker,Under,3.5,1.53
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Onyeka Okongwu,Over,1.5,2.3
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Onyeka Okongwu,Under,1.5,1.59
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Peyton Watson,Over,1.5,2.35
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Peyton Watson,Under,1.5,1.56
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Sam Merrill,Over,1.5,1.61
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Sam Merrill,Under,1.5,2.25
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Sam Merrill,Over,2.5,2.85
+2026-10-29T23:54:17Z,15.7,b123d92eb8046e43fabf95a33a676634,2026-10-30T00:10:00Z,Cleveland Cavaliers,Atlanta Hawks,bovada,player_threes,Sam Merrill,Under,2.5,1.4
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Over,2.5,1.72
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Under,2.5,2.08
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,De'Andre Hunter,Over,1.5,1.9
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,De'Andre Hunter,Under,1.5,1.87
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Zach LaVine,Over,2.5,1.8
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Zach LaVine,Under,2.5,1.98
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Darius Acuff Jr.,Over,2.5,2.04
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Darius Acuff Jr.,Under,2.5,1.76
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Over,1.5,2.06
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Under,1.5,1.74
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Jeremiah Fears,Over,1.5,2.58
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,fanduel,player_threes,Jeremiah Fears,Under,1.5,1.49
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Over,2.5,1.74
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Under,2.5,2.05
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Zach LaVine,Over,2.5,1.77
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Zach LaVine,Under,2.5,2.0
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,De'Andre Hunter,Over,1.5,1.86
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,De'Andre Hunter,Under,1.5,1.9
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Over,1.5,2.41
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Under,1.5,1.54
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Precious Achiuwa,Over,0.5,3.04
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Precious Achiuwa,Under,0.5,1.36
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Bennedict Mathurin,Over,0.5,1.6
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Bennedict Mathurin,Under,0.5,2.27
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Herb Jones,Over,1.5,2.82
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Herb Jones,Under,1.5,1.41
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Over,1.5,1.93
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Under,1.5,1.83
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Zach LaVine,Over,2.5,1.75
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Zach LaVine,Under,2.5,2.02
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Over,2.5,1.78
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Under,2.5,1.98
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Darius Acuff Jr.,Over,2.5,2.01
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Darius Acuff Jr.,Under,2.5,1.76
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,De'Andre Hunter,Over,1.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,De'Andre Hunter,Under,1.5,1.85
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Over,1.5,1.89
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Under,1.5,1.85
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Over,1.5,2.38
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Under,1.5,1.55
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Bennedict Mathurin,Over,0.5,1.49
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Bennedict Mathurin,Under,0.5,2.54
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Precious Achiuwa,Over,0.5,2.85
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Precious Achiuwa,Under,0.5,1.4
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Domantas Sabonis,Over,0.5,4.59
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,draftkings,player_threes,Domantas Sabonis,Under,0.5,1.2
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Over,2.5,1.74
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Under,2.5,2.0
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Darius Acuff Jr.,Over,2.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Darius Acuff Jr.,Under,2.5,1.83
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Zach LaVine,Over,2.5,1.71
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Zach LaVine,Under,2.5,2.05
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Bennedict Mathurin,Over,0.5,1.54
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Bennedict Mathurin,Under,0.5,2.35
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Over,1.5,1.83
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Under,1.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,De'Andre Hunter,Over,1.5,1.87
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,De'Andre Hunter,Under,1.5,1.85
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Darius Acuff Jr.,Over,2.5,1.92
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Darius Acuff Jr.,Under,2.5,1.8
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Zach LaVine,Over,2.5,1.7
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Zach LaVine,Under,2.5,2.06
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Over,2.5,1.71
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Under,2.5,2.05
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Over,1.5,2.35
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Under,1.5,1.54
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Over,1.5,2.0
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Under,1.5,1.74
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Darius Acuff Jr.,Over,2.5,2.0
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Darius Acuff Jr.,Under,2.5,1.77
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,De'Andre Hunter,Over,1.5,1.91
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,De'Andre Hunter,Under,1.5,1.83
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Domantas Sabonis,Over,0.5,4.3
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Domantas Sabonis,Under,0.5,1.2
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Over,1.5,2.4
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Under,1.5,1.54
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Precious Achiuwa,Over,0.5,2.85
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Precious Achiuwa,Under,0.5,1.4
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Over,2.5,1.77
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Under,2.5,2.0
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Over,3.5,2.9
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Under,3.5,1.38
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Zach LaVine,Over,2.5,1.74
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Zach LaVine,Under,2.5,2.05
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Zach LaVine,Over,3.5,2.8
+2026-10-29T23:54:17Z,15.7,f91d27cc050b1b85073d745372c73833,2026-10-30T00:10:00Z,Sacramento Kings,New Orleans Pelicans,bovada,player_threes,Zach LaVine,Under,3.5,1.41
