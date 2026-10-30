@@ -111,3 +111,9 @@ Games to collect this run: 0
 2026-10-29T21:43:49Z | board: 223 basketball matches, 10 new NBA fixtures recorded
 Games to collect this run: 0
 
+2026-10-30T10:49:21Z | board: 241 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 3
+  CLE Cavaliers @ ATL Hawks: 686 3PM price points, 118 closes, 17 players
+  SAC Kings @ NO Pelicans: 255 3PM price points, 68 closes, 11 players
+  MEM Grizzlies @ POR Trail Blazers: 1191 3PM price points, 107 closes, 15 players
+
