@@ -319,3 +319,34 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-29 21:00,2026-10-30 01:00,2026-10-29,10:00,MEM@POR,Portland Trail Blazers,Chris Youngblood,Out,Questionable,G League - Two-Way,status
 2026-10-29 21:15,2026-10-30 01:15,2026-10-29,10:00,MEM@POR,Memphis Grizzlies,Ty Jerome,Questionable,,Injury/Illness - Back Tightness,new
 2026-10-29 21:45,2026-10-30 01:45,2026-10-29,10:00,MEM@POR,Memphis Grizzlies,Ty Jerome,Available,Questionable,Injury/Illness - Back Tightness,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:00,CHA@WAS,Charlotte Hornets,Dennis Schroder,Probable,Questionable,Injury/Illness - Right Foot Inflammation / Soreness,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,CHI@BOS,Chicago Bulls,Dailyn Swain,Questionable,,Injury/Illness - Right Low Back Soreness,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,DET@BKN,Detroit Pistons,Elijah Harkless,Available,Questionable,G League - Two-Way,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,DET@BKN,Detroit Pistons,Isaiah Joe,Out,Questionable,Injury/Illness - Right Hip Contusion,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,DET@BKN,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,DET@BKN,Brooklyn Nets,Noah Clowney,Questionable,,Injury/Illness - Illness,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,DET@BKN,Brooklyn Nets,Drake Powell,Available,Questionable,G League - On Assignment,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,NYK@PHI,New York Knicks,Karl-Anthony Towns,Probable,,Injury/Illness - Left Wrist Sprain,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,07:30,NYK@PHI,Philadelphia 76ers,Jaylen Brown,Doubtful,Questionable,Injury/Illness - Left Patellar Tendinopathy,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,08:00,HOU@DAL,Dallas Mavericks,Naji Marshall,Probable,Questionable,Injury/Illness - Illness,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,08:00,IND@MIA,Indiana Pacers,Obi Toppin,Questionable,,Injury/Illness - Low Back Soreness,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,08:00,IND@MIA,Miami Heat,Simone Fontecchio,Probable,Questionable,Injury/Illness - Illness,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,08:00,LAC@MIN,LA Clippers,Rui Hachimura,Probable,Questionable,Injury/Illness - Left Quad Soreness,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,10:00,DEN@PHX,Denver Nuggets,Alpha Diallo,Doubtful,Questionable,Injury/Illness - Right wrist sprain/Personal Reasons,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,10:00,LAL@GSW,Los Angeles Lakers,Ziaire Williams,Out,Questionable,Injury/Illness - Left Foot / Heel Injury Management,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-30,10:00,LAL@GSW,Golden State Warriors,Gui Santos,Questionable,Doubtful,Injury/Illness - Left Knee Tendinitis,status
+2026-10-30 16:00,2026-10-30 20:00,2026-10-31,08:00,SAC@MEM,Sacramento Kings,Dylan Cardwell,Out,,Injury/Illness - Left Calf Strain,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-31,08:00,SAC@MEM,Sacramento Kings,Keegan Murray,Out,,Injury/Illness - Left Ankle Capsulitis,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-31,08:00,SAC@MEM,Sacramento Kings,Sean Pedulla,Out,,G League - Two-Way,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-31,08:00,SAC@MEM,Sacramento Kings,Maxime Raynaud,Out,,Injury/Illness - Right Patella Subluxation,new
+2026-10-30 16:00,2026-10-30 20:00,2026-10-31,08:00,SAC@MEM,Sacramento Kings,Ben Simmons,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
+2026-10-30 16:45,2026-10-30 20:45,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Khalifa Diop,Out,,G League - On Assignment,new
+2026-10-30 16:45,2026-10-30 20:45,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Meleek Thomas,Questionable,,Injury/Illness - Right Foot Inflammation / Soreness,new
+2026-10-30 16:45,2026-10-30 20:45,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Nae'Qwan Tomlin,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-10-30 16:45,2026-10-30 20:45,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Jaylon Tyson,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Malik Dia,Questionable,,G League - Two-Way,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Yves Missi,Out,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Questionable,,G League - Two-Way,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Jordan Poole,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,08:00,MIN@SAS,San Antonio Spurs,Tobias Harris,Out,,Injury/Illness - Left Calf Strain,new
+2026-10-30 17:15,2026-10-30 21:15,2026-10-31,08:00,MIN@SAS,San Antonio Spurs,Jayden Quaintance,Out,,Injury/Illness - Right Knee Surgery,new
