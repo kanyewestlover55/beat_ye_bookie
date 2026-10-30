@@ -5741,3 +5741,421 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-30T23:18:20Z,21.7,a0f5d89a4fc51e52edd0e70d1e4cbaf2,2026-10-30T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Tristan da Silva,Under,2.5,1.67
 2026-10-30T23:18:20Z,21.7,a0f5d89a4fc51e52edd0e70d1e4cbaf2,2026-10-30T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Over,0.5,1.59
 2026-10-30T23:18:20Z,21.7,a0f5d89a4fc51e52edd0e70d1e4cbaf2,2026-10-30T23:40:00Z,Orlando Magic,Toronto Raptors,bovada,player_threes,Wendell Carter Jr,Under,0.5,2.3
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Kyrie Irving,Over,2.5,1.91
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Kyrie Irving,Under,2.5,1.83
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Jabari Smith Jr,Over,2.5,2.16
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Jabari Smith Jr,Under,2.5,1.65
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Fred VanVleet,Over,2.5,2.18
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Fred VanVleet,Under,2.5,1.64
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Kevin Durant,Over,1.5,1.58
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Kevin Durant,Under,1.5,2.29
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Max Christie,Over,1.5,1.74
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Max Christie,Under,1.5,2.02
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,P.J. Washington,Over,1.5,1.92
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,P.J. Washington,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Cooper Flagg,Over,1.5,2.2
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Cooper Flagg,Under,1.5,1.63
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Tari Eason,Over,0.5,1.43
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Tari Eason,Under,0.5,2.73
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Naji Marshall,Over,0.5,1.68
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,draftkings,player_threes,Naji Marshall,Under,0.5,2.12
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Cooper Flagg,Over,1.5,2.0
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Cooper Flagg,Under,1.5,1.74
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Kyrie Irving,Over,2.5,1.87
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Kyrie Irving,Under,2.5,1.85
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Kevin Durant,Over,1.5,1.62
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Kevin Durant,Under,1.5,2.2
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Jabari Smith Jr,Over,2.5,2.18
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Jabari Smith Jr,Under,2.5,1.62
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,P.J. Washington,Over,1.5,1.78
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,P.J. Washington,Under,1.5,1.94
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Zaccharie Risacher,Over,1.5,2.75
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Zaccharie Risacher,Under,1.5,1.41
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Tari Eason,Over,1.5,2.75
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Tari Eason,Under,1.5,1.41
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Marcus Smart,Over,1.5,2.05
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Marcus Smart,Under,1.5,1.71
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Naji Marshall,Over,0.5,1.67
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Naji Marshall,Under,0.5,2.1
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Max Christie,Over,1.5,1.7
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Max Christie,Under,1.5,2.06
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Fred VanVleet,Over,2.5,2.1
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betrivers,player_threes,Fred VanVleet,Under,2.5,1.67
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Max Christie,Over,1.5,1.67
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Max Christie,Under,1.5,2.1
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,P.J. Washington,Over,1.5,1.8
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,P.J. Washington,Under,1.5,1.95
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Cooper Flagg,Over,1.5,2.0
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Cooper Flagg,Under,1.5,1.74
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Kyrie Irving,Over,2.5,1.83
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Kyrie Irving,Under,2.5,1.91
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Kevin Durant,Over,1.5,1.61
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Kevin Durant,Under,1.5,2.25
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Fred VanVleet,Over,2.5,2.15
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Fred VanVleet,Under,2.5,1.65
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Jabari Smith Jr,Over,2.5,2.05
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Jabari Smith Jr,Under,2.5,1.71
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Tari Eason,Over,1.5,2.45
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Tari Eason,Under,1.5,1.5
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Marcus Smart,Over,1.5,1.87
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betmgm,player_threes,Marcus Smart,Under,1.5,1.87
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Cooper Flagg,Over,1.5,2.2
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Cooper Flagg,Under,1.5,1.62
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Fred VanVleet,Over,1.5,1.4
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Fred VanVleet,Under,1.5,2.85
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Fred VanVleet,Over,2.5,2.2
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Fred VanVleet,Under,2.5,1.62
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Jabari Smith Jr,Over,1.5,1.36
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Jabari Smith Jr,Under,1.5,3.0
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Jabari Smith Jr,Over,2.5,2.15
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Jabari Smith Jr,Under,2.5,1.67
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kevin Durant,Over,1.5,1.59
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kevin Durant,Under,1.5,2.3
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kevin Durant,Over,2.5,2.75
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kevin Durant,Under,2.5,1.42
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kyrie Irving,Over,2.5,1.91
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Kyrie Irving,Under,2.5,1.83
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Max Christie,Over,1.5,1.74
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Max Christie,Under,1.5,2.05
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Naji Marshall,Over,0.5,1.69
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Naji Marshall,Under,0.5,2.1
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,P.J. Washington,Over,1.5,1.91
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,P.J. Washington,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Tari Eason,Over,0.5,1.43
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Tari Eason,Under,0.5,2.7
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Tari Eason,Over,1.5,3.05
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,bovada,player_threes,Tari Eason,Under,1.5,1.36
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Zaccharie Risacher,Over,1.5,3.0
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Zaccharie Risacher,Under,1.5,1.38
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Fred VanVleet,Over,2.5,2.24
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Fred VanVleet,Under,2.5,1.63
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Tari Eason,Over,1.5,2.8
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Tari Eason,Under,1.5,1.43
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Cooper Flagg,Over,1.5,2.24
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Cooper Flagg,Under,1.5,1.63
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Max Christie,Over,1.5,1.72
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Max Christie,Under,1.5,2.08
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Jabari Smith Jr,Over,2.5,2.24
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Jabari Smith Jr,Under,2.5,1.63
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Kyrie Irving,Over,2.5,1.93
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Kyrie Irving,Under,2.5,1.87
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,P.J. Washington,Over,1.5,1.9
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,P.J. Washington,Under,1.5,1.87
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Kevin Durant,Over,1.5,1.64
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,fanduel,player_threes,Kevin Durant,Under,1.5,2.22
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Jabari Smith Jr,Over,2.5,2.2
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Jabari Smith Jr,Under,2.5,1.64
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Kyrie Irving,Over,2.5,1.91
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Kyrie Irving,Under,2.5,1.85
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Amen Thompson,Over,0.5,2.95
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Amen Thompson,Under,0.5,1.38
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Fred VanVleet,Over,2.5,2.18
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Fred VanVleet,Under,2.5,1.65
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,P.J. Washington,Over,1.5,1.88
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,P.J. Washington,Under,1.5,1.88
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Kevin Durant,Over,1.5,1.61
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Kevin Durant,Under,1.5,2.25
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Max Christie,Over,1.5,1.71
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Max Christie,Under,1.5,2.08
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Cooper Flagg,Over,1.5,2.17
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Cooper Flagg,Under,1.5,1.66
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Zaccharie Risacher,Over,1.5,2.95
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Zaccharie Risacher,Under,1.5,1.38
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Tari Eason,Over,1.5,2.64
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Tari Eason,Under,1.5,1.46
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Marcus Sasser,Over,0.5,1.49
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Marcus Sasser,Under,0.5,2.55
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Marcus Smart,Over,1.5,1.93
+2026-10-30T23:53:26Z,16.6,b9778d0e3a26167eb49901dcae7eeb98,2026-10-31T00:10:00Z,Houston Rockets,Dallas Mavericks,betonlineag,player_threes,Marcus Smart,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Klay Thompson,Over,2.5,2.26
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Klay Thompson,Under,2.5,1.6
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Aaron Nesmith,Over,1.5,1.63
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Aaron Nesmith,Under,1.5,2.2
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Tim Hardaway Jr.,Over,1.5,1.71
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Tim Hardaway Jr.,Under,1.5,2.07
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Jarace Walker,Over,1.5,1.75
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Jarace Walker,Under,1.5,2.01
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Andrew Nembhard,Over,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Andrew Nembhard,Under,1.5,1.99
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Bobby Portis,Over,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Bobby Portis,Under,1.5,1.88
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Pascal Siakam,Over,1.5,2.11
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Pascal Siakam,Under,1.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Andrew Wiggins,Over,1.5,2.12
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Andrew Wiggins,Under,1.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Davion Mitchell,Over,1.5,2.13
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Davion Mitchell,Under,1.5,1.67
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Kelly Oubre Jr.,Over,1.5,2.31
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Kelly Oubre Jr.,Under,1.5,1.57
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Bam Adebayo,Over,1.5,2.41
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Bam Adebayo,Under,1.5,1.53
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Jay Huff,Over,1.5,2.62
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Jay Huff,Under,1.5,1.46
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Giannis Antetokounmpo,Over,0.5,2.3
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,draftkings,player_threes,Giannis Antetokounmpo,Under,0.5,1.58
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Pelle Larsson,Over,0.5,1.44
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Pelle Larsson,Under,0.5,2.6
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Andrew Nembhard,Over,1.5,1.72
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Andrew Nembhard,Under,1.5,2.02
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Pascal Siakam,Over,1.5,1.95
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Pascal Siakam,Under,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Kelly Oubre Jr.,Over,1.5,2.02
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Kelly Oubre Jr.,Under,1.5,1.73
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Andrew Wiggins,Over,1.5,1.81
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Andrew Wiggins,Under,1.5,1.91
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Klay Thompson,Over,2.5,2.43
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Klay Thompson,Under,2.5,1.51
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Jay Huff,Over,1.5,2.63
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Jay Huff,Under,1.5,1.43
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Bobby Portis,Over,1.5,1.81
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Bobby Portis,Under,1.5,1.92
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Jarace Walker,Over,1.5,1.65
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Jarace Walker,Under,1.5,2.14
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Tim Hardaway Jr.,Over,1.5,1.72
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Tim Hardaway Jr.,Under,1.5,2.02
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Bam Adebayo,Over,1.5,2.23
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Bam Adebayo,Under,1.5,1.6
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Davion Mitchell,Over,1.5,1.96
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Davion Mitchell,Under,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Aaron Nesmith,Over,2.5,2.28
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betrivers,player_threes,Aaron Nesmith,Under,2.5,1.56
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Davion Mitchell,Over,1.5,1.95
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Davion Mitchell,Under,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Klay Thompson,Over,2.5,2.35
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Klay Thompson,Under,2.5,1.54
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Andrew Wiggins,Over,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Andrew Wiggins,Under,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Andrew Nembhard,Over,1.5,1.67
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Andrew Nembhard,Under,1.5,2.1
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Bam Adebayo,Over,1.5,2.2
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Bam Adebayo,Under,1.5,1.62
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Pascal Siakam,Over,1.5,1.95
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Pascal Siakam,Under,1.5,1.8
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Giannis Antetokounmpo,Over,0.5,2.0
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Giannis Antetokounmpo,Under,0.5,1.74
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Aaron Nesmith,Over,2.5,2.75
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Aaron Nesmith,Under,2.5,1.43
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Kelly Oubre Jr.,Over,1.5,2.25
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betmgm,player_threes,Kelly Oubre Jr.,Under,1.5,1.61
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Andrew Nembhard,Over,1.5,1.74
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Andrew Nembhard,Under,1.5,2.04
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Bam Adebayo,Over,1.5,2.32
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Bam Adebayo,Under,1.5,1.58
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Andrew Wiggins,Over,1.5,1.98
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Andrew Wiggins,Under,1.5,1.79
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Pascal Siakam,Over,1.5,2.07
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Pascal Siakam,Under,1.5,1.72
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Davion Mitchell,Over,1.5,2.06
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Davion Mitchell,Under,1.5,1.73
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Giannis Antetokounmpo,Over,0.5,2.13
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Giannis Antetokounmpo,Under,0.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Jay Huff,Over,1.5,2.55
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Jay Huff,Under,1.5,1.49
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Bobby Portis,Over,1.5,1.95
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Bobby Portis,Under,1.5,1.81
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Kelly Oubre Jr.,Over,1.5,2.12
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Kelly Oubre Jr.,Under,1.5,1.69
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Klay Thompson,Over,2.5,2.46
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Klay Thompson,Under,2.5,1.52
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Tim Hardaway Jr.,Over,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Tim Hardaway Jr.,Under,1.5,2.0
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Aaron Nesmith,Over,1.5,1.64
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Aaron Nesmith,Under,1.5,2.2
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Jarace Walker,Over,1.5,1.83
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Jarace Walker,Under,1.5,1.93
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Quenton Jackson,Over,0.5,1.59
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,betonlineag,player_threes,Quenton Jackson,Under,0.5,2.29
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Bam Adebayo,Over,1.5,2.46
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Bam Adebayo,Under,1.5,1.53
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Tim Hardaway Jr.,Over,1.5,1.83
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Tim Hardaway Jr.,Under,1.5,1.94
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Giannis Antetokounmpo,Over,0.5,2.14
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Giannis Antetokounmpo,Under,0.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Pascal Siakam,Over,1.5,2.14
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Pascal Siakam,Under,1.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Davion Mitchell,Over,1.5,2.04
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Davion Mitchell,Under,1.5,1.76
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Jarace Walker,Over,1.5,1.8
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Jarace Walker,Under,1.5,1.98
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Bobby Portis,Over,1.5,1.9
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Bobby Portis,Under,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Klay Thompson,Over,2.5,2.44
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Klay Thompson,Under,2.5,1.54
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Andrew Wiggins,Over,1.5,1.96
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Andrew Wiggins,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Aaron Nesmith,Over,1.5,1.68
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Aaron Nesmith,Under,1.5,2.16
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Andrew Nembhard,Over,1.5,1.76
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,fanduel,player_threes,Andrew Nembhard,Under,1.5,2.04
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Aaron Nesmith,Over,1.5,1.62
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Aaron Nesmith,Under,1.5,2.2
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Aaron Nesmith,Over,2.5,2.9
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Aaron Nesmith,Under,2.5,1.38
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Andrew Nembhard,Over,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Andrew Nembhard,Under,1.5,2.0
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Andrew Wiggins,Over,1.5,2.15
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Andrew Wiggins,Under,1.5,1.67
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Bam Adebayo,Over,1.5,2.4
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Bam Adebayo,Under,1.5,1.54
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Bobby Portis,Over,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Bobby Portis,Under,1.5,1.87
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Davion Mitchell,Over,1.5,2.15
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Davion Mitchell,Under,1.5,1.67
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Giannis Antetokounmpo,Over,0.5,2.3
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Giannis Antetokounmpo,Under,0.5,1.59
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jarace Walker,Over,1.5,1.77
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jarace Walker,Under,1.5,2.0
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jay Huff,Over,0.5,1.34
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jay Huff,Under,0.5,3.15
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jay Huff,Over,1.5,2.6
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Jay Huff,Under,1.5,1.47
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Kelly Oubre Jr.,Over,1.5,2.3
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Kelly Oubre Jr.,Under,1.5,1.59
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Klay Thompson,Over,1.5,1.41
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Klay Thompson,Under,1.5,2.8
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Klay Thompson,Over,2.5,2.25
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Klay Thompson,Under,2.5,1.61
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Pascal Siakam,Over,1.5,2.1
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Pascal Siakam,Under,1.5,1.69
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Tim Hardaway Jr.,Over,1.5,1.69
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Tim Hardaway Jr.,Under,1.5,2.1
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Tim Hardaway Jr.,Over,2.5,3.1
+2026-10-30T23:53:26Z,16.6,c3a424e24d426af94a693e06a33e3037,2026-10-31T00:10:00Z,Indiana Pacers,Miami Heat,bovada,player_threes,Tim Hardaway Jr.,Under,2.5,1.34
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Over,3.5,1.84
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Under,3.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Darius Garland,Over,2.5,1.85
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Darius Garland,Under,2.5,1.9
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Rui Hachimura,Over,1.5,1.55
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Rui Hachimura,Under,1.5,2.36
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Over,1.5,1.81
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Under,1.5,1.93
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Keaton Wagler,Over,1.5,1.89
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Keaton Wagler,Under,1.5,1.85
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Over,1.5,1.9
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Under,1.5,1.85
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Over,1.5,1.92
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Over,1.5,2.0
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Under,1.5,1.76
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Brook Lopez,Over,1.5,2.25
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Brook Lopez,Under,1.5,1.6
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Derrick Jones,Over,1.5,2.52
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Derrick Jones,Under,1.5,1.5
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Kobe Sanders,Over,1.5,2.56
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Kobe Sanders,Under,1.5,1.48
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Kris Dunn,Over,0.5,1.47
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,draftkings,player_threes,Kris Dunn,Under,0.5,2.59
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Kris Dunn,Over,0.5,1.47
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Kris Dunn,Under,0.5,2.55
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Rui Hachimura,Over,1.5,1.51
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Rui Hachimura,Under,1.5,2.4
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Over,3.5,2.02
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Under,3.5,1.73
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Over,1.5,2.28
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Under,1.5,1.56
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Over,1.5,2.02
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Under,1.5,1.73
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Derrick Jones,Over,1.5,2.55
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Derrick Jones,Under,1.5,1.47
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Darius Garland,Over,2.5,1.76
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Darius Garland,Under,2.5,1.96
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Over,1.5,2.07
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Under,1.5,1.68
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Over,1.5,1.8
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Under,1.5,1.92
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Keaton Wagler,Over,1.5,1.77
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Keaton Wagler,Under,1.5,1.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Brook Lopez,Over,1.5,2.3
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betrivers,player_threes,Brook Lopez,Under,1.5,1.56
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Over,3.5,1.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Under,3.5,1.8
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Derrick Jones,Over,1.5,2.4
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Derrick Jones,Under,1.5,1.53
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Darius Garland,Over,2.5,1.71
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Darius Garland,Under,2.5,2.05
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Rui Hachimura,Over,2.5,2.35
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Rui Hachimura,Under,2.5,1.54
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Kris Dunn,Over,1.5,2.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Kris Dunn,Under,1.5,1.36
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Over,1.5,1.74
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Under,1.5,2.0
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Over,1.5,2.1
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Under,1.5,1.67
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Keaton Wagler,Over,1.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Keaton Wagler,Under,1.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Over,1.5,1.85
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Under,1.5,1.9
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Kobe Sanders,Over,1.5,2.65
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betmgm,player_threes,Kobe Sanders,Under,1.5,1.45
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Over,1.5,1.94
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Under,1.5,1.82
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Over,1.5,1.81
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Under,1.5,1.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Derrick Jones,Over,1.5,2.46
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Derrick Jones,Under,1.5,1.52
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Darius Garland,Over,2.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Darius Garland,Under,2.5,1.93
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Over,1.5,1.9
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Under,1.5,1.86
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Keaton Wagler,Over,1.5,1.81
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Keaton Wagler,Under,1.5,1.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Over,3.5,1.92
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Under,3.5,1.84
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Rui Hachimura,Over,1.5,1.55
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Rui Hachimura,Under,1.5,2.38
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Over,1.5,2.12
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Under,1.5,1.69
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Kris Dunn,Over,1.5,2.99
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Kris Dunn,Under,1.5,1.37
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Kobe Sanders,Over,1.5,2.61
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Kobe Sanders,Under,1.5,1.47
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Brook Lopez,Over,1.5,2.28
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,betonlineag,player_threes,Brook Lopez,Under,1.5,1.6
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Over,1.5,2.22
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Under,1.5,1.64
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Over,3.5,1.9
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Under,3.5,1.87
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Over,1.5,1.85
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Under,1.5,1.93
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Rui Hachimura,Over,1.5,1.54
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Rui Hachimura,Under,1.5,2.44
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Darius Garland,Over,2.5,1.88
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Darius Garland,Under,2.5,1.88
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Over,1.5,2.02
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Under,1.5,1.77
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Kris Dunn,Over,1.5,2.86
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Kris Dunn,Under,1.5,1.41
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Over,1.5,1.96
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Under,1.5,1.82
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Keaton Wagler,Over,1.5,1.74
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Keaton Wagler,Under,1.5,2.06
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Derrick Jones,Over,1.5,2.44
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,fanduel,player_threes,Derrick Jones,Under,1.5,1.54
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Ayo Dosunmu,Over,1.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Ayo Dosunmu,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Darius Garland,Over,2.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Darius Garland,Under,2.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Darius Garland,Over,3.5,3.1
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Darius Garland,Under,3.5,1.34
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Derrick Jones,Over,1.5,2.5
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Derrick Jones,Under,1.5,1.5
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Jaden McDaniels,Over,1.5,1.8
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Jaden McDaniels,Under,1.5,1.95
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Jonathan Kuminga,Over,1.5,2.0
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Jonathan Kuminga,Under,1.5,1.77
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Keaton Wagler,Over,1.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Keaton Wagler,Under,1.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Kobe Sanders,Over,1.5,2.55
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Kobe Sanders,Under,1.5,1.48
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Kris Dunn,Over,0.5,1.47
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Kris Dunn,Under,0.5,2.6
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Over,3.5,1.83
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Under,3.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Over,4.5,2.8
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,LaMelo Ball,Under,4.5,1.41
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Rui Hachimura,Over,1.5,1.56
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Rui Hachimura,Under,1.5,2.35
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Rui Hachimura,Over,2.5,2.7
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Rui Hachimura,Under,2.5,1.43
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Terrence Shannon Jr.,Over,1.5,1.91
+2026-10-30T23:53:26Z,16.6,cac1461f5983a88fac612685395aa897,2026-10-31T00:10:00Z,Los Angeles Clippers,Minnesota Timberwolves,bovada,player_threes,Terrence Shannon Jr.,Under,1.5,1.83
