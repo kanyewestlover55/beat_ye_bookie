@@ -26,9 +26,14 @@ this repo holds the code and the data.
 | `build_dataset.py` | Player-game dataset with pre-game-only features (sportsdataverse / ESPN box scores) | Manual |
 | `build_game_lines.py` | Historical totals and spreads matched to ESPN games | Manual |
 | `projection_model.py` | Layer 2: 3PM projection (cross-season features, structured + GBM), validation report | Manual |
+| `layer2_vs_book.py` | Layer 2 vs the book: scores the model's ladder probabilities against bet365 closes and US no-vig closes on this season's games | Manual |
+| `data/injuries/status_changes_<season>.csv` | Official NBA injury report as a change log: one row each time a player is added, changes status (Out, Questionable...) or is removed, with the report time | Injury bot, every 3 hours |
+| `data/injuries/reports_log.csv` | Every injury report time the bot tried: ok / missing / error | Injury bot |
+| `collect_injuries.py` | Injury bot script (reads the NBA's PDF archive via the `nbainjuries` package; catches up on anything missed) | Manual |
+| `.github/workflows/injuries.yml` | Injury bot schedule (every 3 hours) and manual backfill by date range | Manual |
 
 ## Conventions
 
 - One slate = one US game night. The book dates late tips by Swiss time (a Friday US game shows as Saturday 01:10).
-- Capture times are Swiss local time in `odds_log.csv`, UTC in `data/`.
+- Capture times are Swiss local time in `odds_log.csv`, UTC in `data/` (injury files carry both US Eastern and UTC report times).
 - bet365 "3+" is the same bet as US books' "Over 2.5".
