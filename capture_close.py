@@ -22,7 +22,7 @@ API = "https://api.the-odds-api.com/v4/sports/basketball_nba"
 KEY = os.environ["ODDS_API_KEY"]
 REGION = "us"
 PROP_MARKETS = os.environ.get("PROP_MARKETS", "player_threes")  # add ,player_threes_alternate if budget allows
-WINDOW_MIN = 30          # capture games tipping within this many minutes
+WINDOW_MIN = 45          # capture games tipping within this many minutes (widened from 30 on 29 Oct: GitHub skips runs)
 MIN_CREDITS_LEFT = 15    # stop spending if the monthly quota is nearly used
  
 DATA = pathlib.Path("data")
