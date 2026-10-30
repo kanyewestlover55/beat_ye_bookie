@@ -200,8 +200,10 @@ for f in todo:
     append(folder / "threes_closing.csv", [r for r in close_rows if r["market"] != "lines"], CLOSE_COLS)
     append(folder / "lines_closing.csv", [r for r in close_rows if r["market"] == "lines"], CLOSE_COLS)
     players = len({r["player"] for r in close_rows if r["market"] == "ladder"})
-    say(f"  {game}: {len(hist_rows['threes'])} 3PM price points, {len(close_rows)} closes, "
-        f"{players} players" + (f", TRUNCATED: {truncated}" if truncated else ""))
+    n_ou = sum(r["market"] == "ou" for r in hist_rows["threes"])
+    ou_players = len({r["player"] for r in hist_rows["threes"] if r["market"] == "ou"})
+    say(f"  {game}: {len(hist_rows['threes'])} 3PM price points ({n_ou} O/U, {ou_players} O/U players), "
+        f"{len(close_rows)} closes, {players} players" + (f", TRUNCATED: {truncated}" if truncated else ""))
     if close_rows or hist_rows["threes"]:
         done.add(fid)
     time.sleep(1)
