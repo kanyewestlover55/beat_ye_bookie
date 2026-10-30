@@ -126,8 +126,13 @@ def main():
     socket.setdefaulttimeout(60)               # nbainjuries makes requests without a timeout
     os.makedirs(DATA, exist_ok=True)
     log, state = load_log(), load_state(a.mode)
-    done = set(log[log.result.isin(["ok", "missing"])].report_et)   # errors are retried next run
     now = datetime.now(ET).replace(tzinfo=None)
+    # done = read OK, or missing and final. Errors are always retried. In live mode a missing
+    # report is retried for 24 hours, in case the NBA uploads it late.
+    final_missing = log.result == "missing"
+    if a.mode == "live":
+        final_missing &= pd.to_datetime(log.report_et) < now - timedelta(hours=24)
+    done = set(log[(log.result == "ok") | final_missing].report_et)
     if a.mode == "live":                       # look back 3 days; already-logged reports are skipped
         start, end, cap = now - timedelta(days=3), now - timedelta(minutes=20), a.max_minutes or 40
     else:
@@ -164,7 +169,9 @@ def main():
             path = f"{DATA}/status_changes_{season}.csv"
             part.to_csv(path, mode="a", header=not os.path.exists(path), index=False)
     if logrows:
-        pd.concat([log, pd.DataFrame(logrows)]).to_csv(LOG, index=False)
+        (pd.concat([log, pd.DataFrame(logrows)])
+         .drop_duplicates(subset="report_et", keep="last")       # latest result per report time
+         .sort_values("report_et").to_csv(LOG, index=False))
     json.dump(state, open(f"{DATA}/state_{a.mode}.json", "w"))
 
     res = pd.Series([r["result"] for r in logrows]).value_counts().to_dict() if logrows else {}
