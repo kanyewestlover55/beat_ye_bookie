@@ -10,7 +10,7 @@ this repo holds the code and the data.
 1. Read this README.
 2. Download `odds_log.csv` and everything in `data/` from this repo (public, raw.githubusercontent.com).
 3. Rebuild the datasets: `pip install pyarrow lightgbm`, then run `build_dataset.py` and `build_game_lines.py`
-   (both download their own sources), then `projection_model.py` (Layer 2, needs the other two first).
+   (both download their own sources), then `projection_model.py` (Layer 2, needs the other two first), then `absence_model.py`.
 4. Open the Claude Doc for the rulebook, status table and findings log.
 
 ## What's here
@@ -30,6 +30,8 @@ this repo holds the code and the data.
 | `data/injuries/status_changes_<season>.csv` | Official NBA injury report as a change log: one row each time a player is added, changes status (Out, Questionable...) or is removed, with the report time | Injury bot, every 3 hours |
 | `data/injuries/reports_log.csv` | Every injury report time the bot tried: ok / missing / error | Injury bot |
 | `news_test.py` | News test: injury report changes vs bet365 ladder moves and outcomes (Layer 2, 31 Oct) | Manual |
+| `absence_model.py` | Layer 2b: absence features (missing rotation teammates, pair responses), v1 vs v2 vs v3 validation; writes player_games_l2b.parquet | Manual |
+| `absence_vs_book.py` | Absence model vs bet365 on this season, at 11:00 and 20:30 Swiss decision times (run absence_model.py first) | Manual |
 | `collect_injuries.py` | Injury bot script (reads the NBA's PDF archive via the `nbainjuries` package; catches up on anything missed) | Manual |
 | `.github/workflows/injuries.yml` | Injury bot schedule (every 3 hours) and manual backfill by date range | Manual |
 
