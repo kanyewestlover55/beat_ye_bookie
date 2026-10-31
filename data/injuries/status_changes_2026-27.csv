@@ -953,3 +953,33 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-30 21:00,2026-10-31 01:00,2026-10-30,10:00,DEN@PHX,Phoenix Suns,Oso Ighodaro,Available,Questionable,Injury/Illness - Right Oblique Strain,status
 2026-10-30 21:30,2026-10-31 01:30,2026-10-30,10:00,DEN@PHX,Denver Nuggets,Alpha Diallo,Out,Doubtful,Injury/Illness - Right wrist sprain/Personal Reasons,status
 2026-10-30 21:30,2026-10-31 01:30,2026-10-30,10:00,DEN@PHX,Denver Nuggets,Cameron Johnson,Available,Questionable,Injury/Illness - Right Ankle Sprain,status
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Dominick Barlow,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Jaylen Brown,Questionable,,Injury/Illness - Left Patellar Tendinopathy,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Joel Embiid,Out,,Injury/Illness - Right Foot Plantar Fascia Injury Management,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Tacko Fall,Questionable,,Injury/Illness - Left Quadriceps Strain,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Ariel Hukporti,Out,,Injury/Illness - Right Achilles Tendon Rupture / Tear,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,LeBron James,Out,,Injury/Illness - Low Back/Sciatica Management,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Jabari Walker,Questionable,,Injury/Illness - Left Patellar Tendinopathy,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Charlotte Hornets,Michael Ajayi,Out,,G League - Two-Way,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Charlotte Hornets,Kylan Boswell,Out,,G League - Two-Way,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Charlotte Hornets,Kon Knueppel,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Charlotte Hornets,Coby White,Out,,Injury/Illness - Left Calf Strain,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,06:00,PHI@CHA,Charlotte Hornets,Grant Williams,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,08:30,OKC@HOU,Houston Rockets,Steven Adams,Out,,Injury/Illness - Right Soleus Strain,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,08:30,OKC@HOU,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,08:30,OKC@HOU,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,08:30,OKC@HOU,Houston Rockets,Reed Sheppard,Out,,Injury/Illness - Low Back Soreness,new
+2026-10-31 13:00,2026-10-31 17:00,2026-10-31,08:30,OKC@HOU,Houston Rockets,Fred VanVleet,Out,,Injury/Illness - Right Knee Injury Management,new
+2026-10-31 14:00,2026-10-31 18:00,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Robert Williams III,Available,Questionable,Injury/Illness - Left Knee Injury Management,status
+2026-10-31 14:00,2026-10-31 18:00,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Chris Youngblood,Available,Questionable,Injury/Illness - Left Ankle Soreness,status
+2026-10-31 14:00,2026-10-31 18:00,2026-10-31,08:00,MIN@SAS,Minnesota Timberwolves,Donte DiVincenzo,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
+2026-10-31 14:00,2026-10-31 18:00,2026-10-31,08:00,MIN@SAS,Minnesota Timberwolves,Anthony Edwards,Out,,Injury/Illness - Right Knee Arthroscopy,new
+2026-10-31 14:00,2026-10-31 18:00,2026-10-31,08:00,MIN@SAS,Minnesota Timberwolves,Rudy Gobert,Questionable,,Injury/Illness - Low Back Spasms,new
+2026-10-31 14:15,2026-10-31 18:15,2026-10-31,03:00,POR@UTA,Utah Jazz,Lauri Markkanen,Available,Questionable,Injury/Illness - Right Wrist Sprain,status
+2026-10-31 14:15,2026-10-31 18:15,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Meleek Thomas,Probable,Questionable,Injury/Illness - Right Foot Inflammation / Soreness,status
+2026-10-31 14:15,2026-10-31 18:15,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,"Jr., Ernest Udeh",Out,,G League - Two-Way,new
+2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Paolo Banchero,Out,,Injury/Illness - Right Low Grade High Ankle Sprain,new
+2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Jonathan Isaac,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle Injury Recovery,new
+2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially Torn Hamstring,new
+2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Jalen Suggs,Out,,Injury/Illness - Right Knee Contusion / Bone Bruise,new
