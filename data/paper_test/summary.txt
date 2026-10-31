@@ -1,0 +1,6 @@
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-10-31 00:49 UTC
+Bets placed 5, graded 0, void 0, open 5
+All: no graded bets
+1+: no graded bets
+2+: no graded bets
+Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.

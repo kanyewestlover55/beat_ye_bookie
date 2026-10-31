@@ -1,0 +1,9 @@
+--- test 2026-10-31 00:49 UTC
+2026-10-31 00:49 UTC | 7 games, 190 ladder prices | injuries: live report 2026-10-30 20:45 ET, 68 out
+evaluated 57 prices (0 unmatched to a model row); 5 paper bets: {1: 1, 2: 4}
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-10-31 00:49 UTC
+Bets placed 5, graded 0, void 0, open 5
+All: no graded bets
+1+: no graded bets
+2+: no graded bets
+Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
