@@ -1899,3 +1899,75 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-30T22:38:51Z,211.1,761c15cdefb5a94e34f234e11d6e57ad,2026-10-31T02:10:00Z,Los Angeles Lakers,Golden State Warriors,betus,spreads,Los Angeles Lakers,-3.0,1.91
 2026-10-30T22:38:51Z,211.1,761c15cdefb5a94e34f234e11d6e57ad,2026-10-31T02:10:00Z,Los Angeles Lakers,Golden State Warriors,betus,totals,Over,234.0,1.91
 2026-10-30T22:38:51Z,211.1,761c15cdefb5a94e34f234e11d6e57ad,2026-10-31T02:10:00Z,Los Angeles Lakers,Golden State Warriors,betus,totals,Under,234.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,fanduel,spreads,Portland Trail Blazers,-6.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,fanduel,spreads,Utah Jazz,6.5,1.95
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,fanduel,totals,Over,232.5,1.89
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,fanduel,totals,Under,232.5,1.93
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,draftkings,spreads,Portland Trail Blazers,-6.5,1.89
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,draftkings,spreads,Utah Jazz,6.5,1.93
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,draftkings,totals,Over,232.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,draftkings,totals,Under,232.5,1.95
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,lowvig,spreads,Portland Trail Blazers,-6.5,1.9
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,lowvig,spreads,Utah Jazz,6.5,1.99
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,lowvig,totals,Over,233.0,1.93
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,lowvig,totals,Under,233.0,1.93
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betonlineag,spreads,Portland Trail Blazers,-6.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betonlineag,spreads,Utah Jazz,6.5,1.95
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betonlineag,totals,Over,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betonlineag,totals,Under,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betmgm,spreads,Portland Trail Blazers,-6.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betmgm,spreads,Utah Jazz,6.5,1.95
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betmgm,totals,Over,233.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betmgm,totals,Under,233.5,1.85
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betrivers,spreads,Portland Trail Blazers,-6.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betrivers,spreads,Utah Jazz,6.5,1.94
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betrivers,totals,Over,233.5,1.93
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betrivers,totals,Under,233.5,1.88
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,bovada,spreads,Portland Trail Blazers,-6.5,1.87
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,bovada,spreads,Utah Jazz,6.5,1.95
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,bovada,totals,Over,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,bovada,totals,Under,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betus,spreads,Portland Trail Blazers,-6.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betus,spreads,Utah Jazz,6.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betus,totals,Over,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,betus,totals,Under,233.0,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,mybookieag,spreads,Portland Trail Blazers,-6.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,mybookieag,spreads,Utah Jazz,6.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,mybookieag,totals,Over,233.5,1.91
+2026-10-31T19:07:14Z,4.8,d47417c3b1a2cd427cce74c9d00f1046,2026-10-31T19:12:00Z,Portland Trail Blazers,Utah Jazz,mybookieag,totals,Under,233.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,fanduel,spreads,Charlotte Hornets,1.5,1.83
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,fanduel,spreads,Philadelphia 76ers,-1.5,1.98
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,fanduel,totals,Over,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,fanduel,totals,Under,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,mybookieag,spreads,Charlotte Hornets,-1.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,mybookieag,spreads,Philadelphia 76ers,1.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,mybookieag,totals,Over,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,mybookieag,totals,Under,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,draftkings,spreads,Charlotte Hornets,1.5,1.87
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,draftkings,spreads,Philadelphia 76ers,-1.5,1.95
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,draftkings,totals,Over,212.5,1.93
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,draftkings,totals,Under,212.5,1.89
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betmgm,spreads,Charlotte Hornets,-1.5,2.0
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betmgm,spreads,Philadelphia 76ers,1.5,1.83
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betmgm,totals,Over,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betmgm,totals,Under,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betrivers,spreads,Charlotte Hornets,-0.5,1.92
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betrivers,spreads,Philadelphia 76ers,0.5,1.89
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betrivers,totals,Over,212.5,1.88
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betrivers,totals,Under,212.5,1.93
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,bovada,spreads,Charlotte Hornets,1.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,bovada,spreads,Philadelphia 76ers,-1.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,bovada,totals,Over,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,bovada,totals,Under,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,spreads,Charlotte Hornets,0.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,spreads,Philadelphia 76ers,0.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,totals,Over,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,totals,Under,212.5,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,lowvig,spreads,Charlotte Hornets,0.0,1.94
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,lowvig,spreads,Philadelphia 76ers,0.0,1.94
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,lowvig,totals,Over,212.5,1.93
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,lowvig,totals,Under,212.5,1.93
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,spreads,Charlotte Hornets,0.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,spreads,Philadelphia 76ers,0.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,totals,Over,213.0,1.91
+2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,totals,Under,213.0,1.91
