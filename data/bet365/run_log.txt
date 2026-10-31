@@ -136,3 +136,7 @@ Games to collect this run: 10
   DEN Nuggets @ PHX Suns: 971 3PM price points (0 O/U, 0 O/U players), 107 closes, 14 players
   LA Lakers @ GS Warriors: 1577 3PM price points (0 O/U, 0 O/U players), 119 closes, 16 players
 
+2026-10-31T16:39:26Z | board: 467 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 1
+  ORL Magic @ TOR Raptors: 1200 3PM price points (0 O/U, 0 O/U players), 105 closes, 16 players
+
