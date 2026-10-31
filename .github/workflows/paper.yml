@@ -47,6 +47,11 @@ jobs:
           echo "mode: $MODE"
           python3 paper_bot.py "$MODE"
 
+      - name: Evening pick sheet (read-only on the bot's files)
+        if: always()
+        continue-on-error: true
+        run: python3 pick_sheet.py data/paper data/paper_test
+
       - name: Save new data to the repo
         if: always()
         run: |
