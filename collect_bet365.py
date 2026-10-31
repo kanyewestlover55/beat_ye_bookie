@@ -10,9 +10,14 @@ Every run:
 Files (one folder per month, so no file grows too large):
   data/bet365/<YYYY-MM>/threes_history.csv, threes_closing.csv, lines_history.csv
   data/bet365/fixtures.csv, collected.txt, run_log.txt
+  data/bet365/props/<YYYY-MM>/<run>_history.csv.gz, <run>_closing.csv.gz   points / rebounds / assists
+      ladders (added 31 Oct 2026). One new compressed file per run, never rewritten, so the repo stays
+      small; read them all with glob. props_collected.txt lists the games done (older games are backfilled
+      from MoviOdds' history, oldest first, up to MAX_PROP_GAMES per run).
 MoviOdds is an unofficial scraper and may break; screenshots remain the fallback.
 """
 import csv
+import gzip
 import datetime as dt
 import json
 import pathlib
@@ -29,6 +34,12 @@ FIXTURES = ROOT / "fixtures.csv"
 COLLECTED = ROOT / "collected.txt"
 GROUPS = {"181449": "ladder", "181424": "ou", "1453": "lines"}   # pre-match group ids
 MIN_HOURS_AFTER_TIP = 4
+PROP_GROUPS = {"181446": "points", "181448": "rebounds", "181447": "assists"}   # pre-match ladders
+PROPS_DONE = ROOT / "props_collected.txt"
+MAX_PROP_GAMES = 40
+PROP_COLS = ["fixture_id", "kickoff_utc", "market", "player", "threshold", "ts", "odds_dec", "suspended"]
+PROP_CLOSE_COLS = ["fixture_id", "kickoff_utc", "market", "player", "threshold", "close_ts", "close_odds",
+                   "close_basis"]
 NOW = dt.datetime.now(dt.timezone.utc)
 STAMP = NOW.strftime("%Y-%m-%dT%H:%M:%SZ")
 log = []
@@ -209,6 +220,69 @@ for f in todo:
     time.sleep(1)
  
 COLLECTED.write_text("\n".join(sorted(done)) + "\n")
+
+
+# 3. Points, rebounds and assists ladders: same games, compact compressed files, backfilled oldest first
+def write_gz(path, rows, cols):
+    if not rows:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with gzip.open(path, "wt", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(rows)
+
+
+pdone = set(PROPS_DONE.read_text().split()) if PROPS_DONE.exists() else set()
+ptodo = []
+for fid, f in known.items():
+    if fid in pdone:
+        continue
+    ko = f.get("kickoff_utc")
+    if ko and (NOW - dt.datetime.fromisoformat(ko.replace("Z", "+00:00"))).total_seconds() < MIN_HOURS_AFTER_TIP * 3600:
+        continue
+    if not ko and fid not in done:
+        continue
+    ptodo.append(f)
+eligible = len(ptodo)
+ptodo = sorted(ptodo, key=lambda f: f.get("kickoff_utc") or "")[:MAX_PROP_GAMES]
+by_month, close_by_month, counts, empty = {}, {}, {m: 0 for m in PROP_GROUPS.values()}, 0
+for f in ptodo:
+    fid = f["fixture_id"]
+    clo = get("/closing", fi=fid) or {}
+    ko = clo.get("kickoff_utc") or f.get("kickoff_utc") or ""
+    month = (ko or STAMP)[:7]
+    rows, crows = [], []
+    for s in clo.get("selections", []):
+        market = PROP_GROUPS.get(str(s.get("group_id")))
+        pc = s.get("pre_close")
+        if market and pc:
+            player, thr, _ = normalise(s, "ladder")
+            crows.append(dict(fixture_id=fid, kickoff_utc=ko, market=market, player=player, threshold=thr,
+                              close_ts=pc.get("ts"), close_odds=pc.get("odds_dec"),
+                              close_basis=clo.get("pre_close_basis")))
+    for gid, market in PROP_GROUPS.items():
+        h = get("/history", fi=fid, group=gid, limit=50000, **({"to": ko} if ko else {})) or {}
+        for p in h.get("points", []):
+            player, thr, _ = normalise(p, "ladder")
+            rows.append(dict(fixture_id=fid, kickoff_utc=ko, market=market, player=player, threshold=thr,
+                             ts=p.get("ts"), odds_dec=p.get("odds_dec"), suspended=p.get("suspended")))
+            counts[market] += 1
+        time.sleep(1)
+    if rows or crows:
+        by_month.setdefault(month, []).extend(rows)
+        close_by_month.setdefault(month, []).extend(crows)
+        pdone.add(fid)
+    else:
+        empty += 1
+run_id = NOW.strftime("%Y%m%dT%H%M")
+for month, rows in by_month.items():
+    write_gz(ROOT / "props" / month / f"{run_id}_history.csv.gz", rows, PROP_COLS)
+    write_gz(ROOT / "props" / month / f"{run_id}_closing.csv.gz", close_by_month[month], PROP_CLOSE_COLS)
+PROPS_DONE.write_text("\n".join(sorted(pdone)) + "\n")
+say(f"props: {len(ptodo) - empty} games collected ({counts}), {empty} with no prop data"
+    + (f", {eligible - len(ptodo)} more games still to backfill" if eligible > len(ptodo) else ""))
+
 with (ROOT / "run_log.txt").open("a") as fh:
     fh.write("\n".join(log) + "\n\n")
  
