@@ -1,2 +1,13 @@
 --- grade 2026-10-31 14:54 UTC
 no picks yet
+--- picks 2026-10-31 19:55 UTC
+skipping 5 games on later slates (evaluated on their own game day)
+2026-10-31 19:55 UTC | 6 games, 440 ladder prices | injuries: live report 2026-10-31 15:45 ET, 51 out
+evaluated 129 prices (4 unmatched to a model row); 19 paper bets: {1: 7, 2: 12}
+graded 0 bets; 19 still open
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-10-31 19:55 UTC
+Bets placed 19, graded 0, void 0, open 19
+All: no graded bets
+1+: no graded bets
+2+: no graded bets
+Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
