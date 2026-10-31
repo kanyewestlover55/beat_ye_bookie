@@ -900,3 +900,54 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-26 20:30,2026-10-27 00:30,2026-10-26,10:00,GSW@DEN,Golden State Warriors,Gui Santos,Available,Questionable,Injury/Illness - Left Knee Tendinitis,status
 2026-10-26 20:30,2026-10-27 00:30,2026-10-26,10:00,GSW@DEN,Golden State Warriors,Brandon Williams,Available,Probable,Injury/Illness - Left Low Back Soreness,status
 2026-10-26 21:15,2026-10-27 01:15,2026-10-26,10:00,GSW@DEN,Denver Nuggets,Cameron Johnson,Out,Doubtful,Injury/Illness - Right Ankle Sprain,status
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:00,CHA@WAS,Washington Wizards,Reece Beekman,Out,,G League - Two-Way,new
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:00,CHA@WAS,Washington Wizards,Felix Okpara,Out,,G League - Two-Way,new
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:30,CHI@BOS,Chicago Bulls,Tobe Awaka,Available,Questionable,-,status
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:30,CHI@BOS,Chicago Bulls,Jalen Smith,Available,Questionable,-,status
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:30,CHI@BOS,Chicago Bulls,Dailyn Swain,Out,Questionable,Injury/Illness - Right Low Back Soreness,status
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:30,CHI@BOS,Chicago Bulls,Patrick Williams,Available,Questionable,-,status
+2026-10-30 17:45,2026-10-30 21:45,2026-10-30,07:30,NYK@PHI,Philadelphia 76ers,Jaylen Brown,Out,Doubtful,Injury/Illness - Left Patellar,status
+2026-10-30 18:00,2026-10-30 22:00,2026-10-30,07:30,DET@BKN,Brooklyn Nets,Noah Clowney,Available,Questionable,Injury/Illness - Illness,status
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,RayJ Dennis,Doubtful,,G League - Two-Way,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Zuby Ejiofor,Doubtful,,G League - On Assignment,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Keshon Gilbert,Doubtful,,G League - Two-Way,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Mouhamed Gueye,Out,,Injury/Illness - Left Foot Fracture,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Jock Landale,Available,,Injury/Illness - Nasal Fracture,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Henri Veesaar,Out,,Injury/Illness - Right ACL Tear,new
+2026-10-30 18:00,2026-10-30 22:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Jalen Wilson,Doubtful,,G League - Two-Way,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-30,07:00,CHA@WAS,Washington Wizards,Tre Johnson,Available,Questionable,Injury/Illness - Right Achilles Soreness / Tightness,status
+2026-10-30 18:15,2026-10-30 22:15,2026-10-30,08:00,IND@MIA,Miami Heat,Simone Fontecchio,Available,Probable,Injury/Illness - Illness,status
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Alex Caruso,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Chet Holmgren,Out,,Injury/Illness - Right Knee Patellar Tendinitis,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Thomas Sorber,Out,,Injury/Illness - Right Knee Surgery,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Nikola Topic,Out,,Injury/Illness - Low back surgery,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Cason Wallace,Out,,Injury/Illness - Left Shoulder Labral Tear,new
+2026-10-30 18:15,2026-10-30 22:15,2026-10-31,08:30,OKC@HOU,Oklahoma City Thunder,Jalen Williams,Out,,Injury/Illness - Left Ankle Surgery,new
+2026-10-30 18:30,2026-10-30 22:30,2026-10-30,07:30,NYK@PHI,New York Knicks,Karl-Anthony Towns,Available,Probable,Injury/Illness - Left Wrist Sprain,status
+2026-10-30 18:30,2026-10-30 22:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Ty Jerome,Questionable,,Injury/Illness - Upper Back Soreness,new
+2026-10-30 18:30,2026-10-30 22:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Scotty Pippen Jr.,Questionable,,Injury/Illness - Low Back Soreness,new
+2026-10-30 18:30,2026-10-30 22:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Quinten Post,Doubtful,,Injury/Illness - Right Ankle Sprain,new
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,HOU@DAL,Houston Rockets,Alperen Sengun,Out,Questionable,Injury/Illness - Low Back Soreness,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,HOU@DAL,Dallas Mavericks,Santi Aldama,Out,Doubtful,Injury/Illness - Right Knee Surgery,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,HOU@DAL,Dallas Mavericks,Tarik Biberovic,Out,Doubtful,Injury/Illness - Right Heel Bursitis,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,HOU@DAL,Dallas Mavericks,Naji Marshall,Available,Probable,Injury/Illness - Illness,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,IND@MIA,Indiana Pacers,Andrew Nembhard,Available,Probable,Injury/Illness - Neck Stiffness / Soreness,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,IND@MIA,Indiana Pacers,Aaron Nesmith,Available,Probable,Injury/Illness - Left Hamstring Strain,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,IND@MIA,Indiana Pacers,Obi Toppin,Out,Questionable,Injury/Illness - Low Back Soreness,status
+2026-10-30 18:45,2026-10-30 22:45,2026-10-30,08:00,LAC@MIN,LA Clippers,Rui Hachimura,Available,Probable,Injury/Illness - Left Quad Soreness,status
+2026-10-30 19:00,2026-10-30 23:00,2026-10-30,07:00,CHA@WAS,Charlotte Hornets,Dennis Schroder,Available,Probable,Injury/Illness - Right Foot Inflammation / Soreness,status
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Trey Alexander,Out,,G League - Two-Way,new
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Kobe Bufkin,Out,,G League - Two-Way,new
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Harrison Ingram,Out,,G League - Two-Way,new
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Jaren Jackson Jr.,Out,,Injury/Illness - Right Knee MCL Tear,new
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Lauri Markkanen,Questionable,,Injury/Illness - Right Wrist Sprain,new
+2026-10-30 19:00,2026-10-30 23:00,2026-10-31,03:00,POR@UTA,Utah Jazz,Jusuf Nurkic,Out,,Injury/Illness - Right Foot 2nd Plantar Plate Tear,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-30,08:00,HOU@DAL,Houston Rockets,Marcus Smart,Available,Questionable,Injury/Illness - Left Forearm Strain,status
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Jayson Kent,Out,,G League - Two-Way,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Ja Morant,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Shaedon Sharpe,Out,,Injury/Illness - Right Meniscus Surgery,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,John Tonje,Out,,G League - Two-Way,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Robert Williams III,Questionable,,Injury/Illness - Left Knee Injury Management,new
+2026-10-30 19:15,2026-10-30 23:15,2026-10-31,03:00,POR@UTA,Portland Trail Blazers,Chris Youngblood,Questionable,,Injury/Illness - Left Ankle Soreness,new
+2026-10-30 20:45,2026-10-31 00:45,2026-10-30,10:00,LAL@GSW,Golden State Warriors,Gui Santos,Available,Questionable,Injury/Illness - Left Knee Tendinitis,status
+2026-10-30 21:00,2026-10-31 01:00,2026-10-30,10:00,DEN@PHX,Phoenix Suns,Oso Ighodaro,Available,Questionable,Injury/Illness - Right Oblique Strain,status
