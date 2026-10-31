@@ -1,0 +1,61 @@
+{
+ "name": "v3_frozen",
+ "frozen_utc": "2026-10-31 00:35",
+ "features": [
+  "min_ewm5",
+  "min_ewm20",
+  "fg3a_ewm5",
+  "fg3a_ewm20",
+  "rate_ewm5",
+  "rate_ewm20",
+  "start_ewm5",
+  "start_ewm20",
+  "pct_reg",
+  "att_hist",
+  "last_min",
+  "last_start",
+  "rest_days",
+  "home",
+  "games_prior",
+  "career_games",
+  "opp_fg3a_factor",
+  "total",
+  "team_implied",
+  "team_fav_by",
+  "abs_spread",
+  "abs_min",
+  "abs_fg3a",
+  "abs_pts",
+  "abs_start",
+  "abs_min_pos",
+  "back_min",
+  "pair_min",
+  "pair_3pa",
+  "pair_n"
+ ],
+ "nb_size_r": 15.991423153231462,
+ "train": "2023-24 + 2024-25 + 2025-26 before 1 Feb 2026, career_games >= 5",
+ "train_rows": 70633,
+ "seasons_loaded": [
+  2023,
+  2024,
+  2025,
+  2026,
+  2027
+ ],
+ "rule": {
+  "rungs": [
+   1,
+   2
+  ],
+  "bet_if": "model probability >= 1/odds (expected value >= 0)",
+  "stake_units": 1,
+  "decision_utc": "19:30",
+  "known_out": "Out or Doubtful on the latest injury report at decision time"
+ },
+ "libs": {
+  "lightgbm": "4.7.0",
+  "pandas": "2.3.3"
+ },
+ "model_sha256": "4da075828d1917d8"
+}
