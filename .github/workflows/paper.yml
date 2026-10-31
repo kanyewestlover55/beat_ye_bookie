@@ -1,0 +1,63 @@
+name: Paper trading (frozen v3)
+
+on:
+  schedule:
+    - cron: "30 19 * * *"   # picks: 19:30 UTC = 20:30 Swiss (all winter)
+    - cron: "20 14 * * *"   # grading: results, closes, report
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "test = trial picks in data/paper_test (safe); grade; report"
+        default: "test"
+        type: choice
+        options: [test, grade, report]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Install packages
+        run: pip install pandas==2.3.3 lightgbm==4.7.0 pyarrow scipy nbainjuries
+
+      - name: Run
+        run: |
+          MODE="${{ inputs.mode }}"
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "30 19 * * *" ]; then MODE=picks; else MODE=grade; fi
+          fi
+          echo "mode: $MODE"
+          python3 paper_bot.py "$MODE"
+
+      - name: Save new data to the repo
+        if: always()
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add data/paper data/paper_test 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "paper trading $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            echo "Push failed (attempt $i), retrying in 30 seconds"
+            sleep 30
+          done
+          exit 1
