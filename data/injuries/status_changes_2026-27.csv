@@ -983,3 +983,33 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle Injury Recovery,new
 2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially Torn Hamstring,new
 2026-10-31 14:30,2026-10-31 18:30,2026-11-01,03:30,BOS@ORL,Orlando Magic,Jalen Suggs,Out,,Injury/Illness - Right Knee Contusion / Bone Bruise,new
+2026-10-31 15:00,2026-10-31 19:00,2026-10-31,08:00,MIN@SAS,San Antonio Spurs,Stephon Castle,Questionable,,Injury/Illness - Migraine,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Jimmy Butler III,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Stephen Curry,Out,,Injury/Illness - Right Knee Injury Management,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Draymond Green,Out,,Injury/Illness - Bilateral Low Back Injury Management,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Moses Moody,Out,,Injury/Illness - Left Patellar Tendon Repair / Surgery,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Kristaps Porzingis,Out,,Not With Team,new
+2026-10-31 15:45,2026-10-31 19:45,2026-11-01,08:30,LAC@GSW,Golden State Warriors,Gui Santos,Probable,,Injury/Illness - Left Knee Tendinitis,new
+2026-10-31 16:30,2026-10-31 20:30,2026-11-01,03:30,BOS@ORL,Boston Celtics,Devin Carter,Out,,Injury/Illness - Illness,new
+2026-10-31 16:30,2026-10-31 20:30,2026-11-01,03:30,BOS@ORL,Boston Celtics,Mitchell Robinson,Questionable,,Rest,new
+2026-10-31 17:00,2026-10-31 21:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,RayJ Dennis,Out,Doubtful,G League - Two-Way,status
+2026-10-31 17:00,2026-10-31 21:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Zuby Ejiofor,Out,Doubtful,G League - On Assignment,status
+2026-10-31 17:00,2026-10-31 21:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Keshon Gilbert,Out,Doubtful,G League - Two-Way,status
+2026-10-31 17:00,2026-10-31 21:00,2026-10-31,07:00,ATL@NOP,Atlanta Hawks,Jalen Wilson,Out,Doubtful,G League - Two-Way,status
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Tyler Bilodeau,Out,,G League - Two-Way,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Mikel Brown Jr.,Out,,"Injury/Illness - Back, Injury Management",new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Egor Demin,Out,,Injury/Illness - Right Bone Bruise,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Joshua Jefferson,Out,,G League - On Assignment,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Grant Nelson,Out,,G League - Two-Way,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Brooklyn Nets,Ben Saraf,Out,,G League - On Assignment,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Johnny Furphy,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Tyrese Haliburton,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,T.J. McConnell,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Aaron Nesmith,Probable,,Injury/Illness - Left Hamstring Strain,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Ben Sheppard,Out,,Injury/Illness - Left Meniscus Surgery,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Obi Toppin,Questionable,,Injury/Illness - Low Back Soreness,new
+2026-10-31 17:00,2026-10-31 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Ivica Zubac,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-10-31 17:15,2026-10-31 21:15,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Jaylen Brown,Available,Questionable,Injury/Illness - Left Patellar Tendinopathy,status
+2026-10-31 17:30,2026-10-31 21:30,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Tacko Fall,Available,Questionable,Injury/Illness - Left Quadriceps Strain,status
+2026-10-31 17:30,2026-10-31 21:30,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Jabari Walker,Available,Questionable,Injury/Illness - Left Patellar Tendinopathy,status
+2026-10-31 17:30,2026-10-31 21:30,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Dejounte Murray,Out,,Personal Reasons,new
