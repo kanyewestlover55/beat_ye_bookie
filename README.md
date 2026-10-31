@@ -36,6 +36,7 @@ this repo holds the code and the data.
 | `models/v3_frozen.txt`, `models/v3_frozen.json` | The frozen v3 model and its locked rules (features, rungs, bet rule, decision time). Never retrained during the forward test | Manual, once |
 | `data/paper/picks.csv` | One row per paper bet, graded in place: odds, model and implied probability, result, CLV vs bet365 close and vs US fair close, P/L | Paper bot |
 | `data/paper/candidates_<YYYY-MM>.csv`, `summary.txt`, `run_log.txt` | Every price the model evaluated; the running report; run messages | Paper bot |
+| `pick_sheet.py` → `data/paper/tonight.md` | Evening pick sheet, written after each paper run: tonight's picks by game with Swiss tip times, odds seen and minimum odds still worth taking. Read-only on the bot's files | Paper bot |
 | `.github/workflows/paper.yml` | Paper bot schedule: picks 19:30 UTC, grading 14:20 UTC; manual "test" mode writes to data/paper_test only | Manual |
 | `data/bet365/props/<YYYY-MM>/<run>_history.csv.gz`, `<run>_closing.csv.gz` | bet365 points, rebounds and assists ladders (from 31 Oct; older games backfilled). Compressed, one new file per run; read all with glob. `props_collected.txt` lists games done | bet365 collector |
 | `projected_starters.py` | Research for v4: projects each team's starting five from box scores (last game's starters minus outs, gaps filled from history or by position) and tests it as a model feature. Run without arguments for lineup accuracy, with `b` for the model test (needs player_games_l2b.parquet from absence_model.py) | Manual |
