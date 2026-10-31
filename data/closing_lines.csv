@@ -1971,3 +1971,183 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,spreads,Philadelphia 76ers,0.0,1.91
 2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,totals,Over,213.0,1.91
 2026-10-31T19:07:14Z,182.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betus,totals,Under,213.0,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,spreads,Atlanta Hawks,-4.5,1.89
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,spreads,New Orleans Pelicans,4.5,1.93
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,totals,Over,240.5,1.93
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,totals,Under,240.5,1.89
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,mybookieag,spreads,Atlanta Hawks,-4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,mybookieag,spreads,New Orleans Pelicans,4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,mybookieag,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,mybookieag,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,spreads,Atlanta Hawks,-4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,spreads,New Orleans Pelicans,4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,lowvig,spreads,Atlanta Hawks,-4.5,1.93
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,lowvig,spreads,New Orleans Pelicans,4.5,1.95
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,lowvig,totals,Over,240.5,1.93
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,lowvig,totals,Under,240.5,1.93
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,spreads,Atlanta Hawks,-4.5,1.9
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,spreads,New Orleans Pelicans,4.5,1.92
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,spreads,Atlanta Hawks,-4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,spreads,New Orleans Pelicans,4.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,spreads,Atlanta Hawks,-4.5,1.89
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,spreads,New Orleans Pelicans,4.5,1.92
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,totals,Over,240.5,1.89
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,totals,Under,240.5,1.92
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,spreads,Atlanta Hawks,-4.5,1.87
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,spreads,New Orleans Pelicans,4.5,1.95
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betus,spreads,Atlanta Hawks,-4.5,1.87
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betus,spreads,New Orleans Pelicans,4.5,1.95
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betus,totals,Over,240.5,1.91
+2026-10-31T21:52:12Z,77.8,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betus,totals,Under,240.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,fanduel,spreads,Cleveland Cavaliers,-9.5,1.93
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,fanduel,spreads,Milwaukee Bucks,9.5,1.89
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,fanduel,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,fanduel,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,draftkings,spreads,Cleveland Cavaliers,-9.5,1.93
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,draftkings,spreads,Milwaukee Bucks,9.5,1.89
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,draftkings,totals,Over,235.5,1.93
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,draftkings,totals,Under,235.5,1.89
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betonlineag,spreads,Cleveland Cavaliers,-9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betonlineag,spreads,Milwaukee Bucks,9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betonlineag,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betonlineag,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,lowvig,spreads,Cleveland Cavaliers,-9.0,1.94
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,lowvig,spreads,Milwaukee Bucks,9.0,1.94
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,lowvig,totals,Over,235.5,1.93
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,lowvig,totals,Under,235.5,1.93
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betmgm,spreads,Cleveland Cavaliers,-9.5,1.95
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betmgm,spreads,Milwaukee Bucks,9.5,1.87
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betmgm,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betmgm,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,mybookieag,spreads,Cleveland Cavaliers,-9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,mybookieag,spreads,Milwaukee Bucks,9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,mybookieag,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,mybookieag,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betrivers,spreads,Cleveland Cavaliers,-9.5,1.94
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betrivers,spreads,Milwaukee Bucks,9.5,1.87
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betrivers,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betrivers,totals,Under,235.5,1.89
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,bovada,spreads,Cleveland Cavaliers,-9.0,1.87
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,bovada,spreads,Milwaukee Bucks,9.0,1.95
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,bovada,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,bovada,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betus,spreads,Cleveland Cavaliers,-9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betus,spreads,Milwaukee Bucks,9.0,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betus,totals,Over,235.5,1.91
+2026-10-31T21:52:12Z,137.8,6d7e1e0af6d568f4435d35a1763a3622,2026-11-01T00:10:00Z,Cleveland Cavaliers,Milwaukee Bucks,betus,totals,Under,235.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,fanduel,spreads,Memphis Grizzlies,-8.5,1.87
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,fanduel,spreads,Sacramento Kings,8.5,1.95
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,fanduel,totals,Over,230.5,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,fanduel,totals,Under,230.5,1.89
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,draftkings,spreads,Memphis Grizzlies,-8.5,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,draftkings,spreads,Sacramento Kings,8.5,1.89
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,draftkings,totals,Over,229.5,1.87
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,draftkings,totals,Under,229.5,1.95
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betonlineag,spreads,Memphis Grizzlies,-8.5,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betonlineag,spreads,Sacramento Kings,8.5,1.89
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betonlineag,totals,Over,230.0,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betonlineag,totals,Under,230.0,1.88
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,lowvig,spreads,Memphis Grizzlies,-8.5,1.96
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,lowvig,spreads,Sacramento Kings,8.5,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,lowvig,totals,Over,230.0,1.96
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,lowvig,totals,Under,230.0,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betmgm,spreads,Memphis Grizzlies,-8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betmgm,spreads,Sacramento Kings,8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betmgm,totals,Over,230.5,1.95
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betmgm,totals,Under,230.5,1.87
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betrivers,spreads,Memphis Grizzlies,-9.5,1.95
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betrivers,spreads,Sacramento Kings,9.5,1.85
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betrivers,totals,Over,230.5,1.88
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betrivers,totals,Under,230.5,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,bovada,spreads,Memphis Grizzlies,-8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,bovada,spreads,Sacramento Kings,8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,bovada,totals,Over,229.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,bovada,totals,Under,229.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betus,spreads,Memphis Grizzlies,-8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betus,spreads,Sacramento Kings,8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betus,totals,Over,230.0,1.93
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,betus,totals,Under,230.0,1.88
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,mybookieag,spreads,Memphis Grizzlies,-8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,mybookieag,spreads,Sacramento Kings,8.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,mybookieag,totals,Over,230.5,1.91
+2026-10-31T21:52:12Z,137.8,863ae1092be42c6b563b2c4f099a3eb3,2026-11-01T00:10:00Z,Sacramento Kings,Memphis Grizzlies,mybookieag,totals,Under,230.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,fanduel,spreads,Minnesota Timberwolves,11.5,1.94
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,fanduel,spreads,San Antonio Spurs,-11.5,1.88
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,fanduel,totals,Over,227.5,1.88
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,fanduel,totals,Under,227.5,1.94
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,mybookieag,spreads,Minnesota Timberwolves,12.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,mybookieag,spreads,San Antonio Spurs,-12.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,mybookieag,totals,Over,228.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,mybookieag,totals,Under,228.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betonlineag,spreads,Minnesota Timberwolves,12.0,1.89
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betonlineag,spreads,San Antonio Spurs,-12.0,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betonlineag,totals,Over,228.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betonlineag,totals,Under,228.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,lowvig,spreads,Minnesota Timberwolves,12.0,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,lowvig,spreads,San Antonio Spurs,-12.0,1.96
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,lowvig,totals,Over,228.0,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,lowvig,totals,Under,228.0,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betmgm,spreads,Minnesota Timberwolves,12.5,1.87
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betmgm,spreads,San Antonio Spurs,-12.5,1.95
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betmgm,totals,Over,227.5,1.85
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betmgm,totals,Under,227.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,draftkings,spreads,Minnesota Timberwolves,12.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,draftkings,spreads,San Antonio Spurs,-12.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,draftkings,totals,Over,228.5,1.95
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,draftkings,totals,Under,228.5,1.87
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betrivers,spreads,Minnesota Timberwolves,12.5,1.88
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betrivers,spreads,San Antonio Spurs,-12.5,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betrivers,totals,Over,228.5,1.93
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betrivers,totals,Under,228.5,1.88
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,bovada,spreads,Minnesota Timberwolves,12.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,bovada,spreads,San Antonio Spurs,-12.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,bovada,totals,Over,227.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,bovada,totals,Under,227.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betus,spreads,Minnesota Timberwolves,11.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betus,spreads,San Antonio Spurs,-11.5,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betus,totals,Over,228.0,1.91
+2026-10-31T21:52:12Z,137.8,06a03fb0ce0f81a970c6000fb71fdc6d,2026-11-01T00:10:00Z,Minnesota Timberwolves,San Antonio Spurs,betus,totals,Under,228.0,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,fanduel,spreads,Houston Rockets,-2.5,1.89
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,fanduel,spreads,Oklahoma City Thunder,2.5,1.93
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,fanduel,totals,Over,218.5,1.87
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,fanduel,totals,Under,218.5,1.95
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,mybookieag,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,mybookieag,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,mybookieag,totals,Over,219.0,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,mybookieag,totals,Under,219.0,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betrivers,spreads,Houston Rockets,-2.5,1.89
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betrivers,spreads,Oklahoma City Thunder,2.5,1.92
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betrivers,totals,Over,218.5,1.87
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betrivers,totals,Under,218.5,1.94
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,draftkings,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,draftkings,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,draftkings,totals,Over,219.5,1.95
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,draftkings,totals,Under,219.5,1.87
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betmgm,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betmgm,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betmgm,totals,Over,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betmgm,totals,Under,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,lowvig,spreads,Houston Rockets,-2.5,1.94
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,lowvig,spreads,Oklahoma City Thunder,2.5,1.94
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,lowvig,totals,Over,219.5,1.93
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,lowvig,totals,Under,219.5,1.93
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betonlineag,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betonlineag,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betonlineag,totals,Over,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betonlineag,totals,Under,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,bovada,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,bovada,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,bovada,totals,Over,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,bovada,totals,Under,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,spreads,Houston Rockets,-2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,spreads,Oklahoma City Thunder,2.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,totals,Over,219.5,1.91
+2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,totals,Under,219.5,1.91
