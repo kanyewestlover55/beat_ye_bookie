@@ -207,6 +207,14 @@ def picks():
         return
     to_abbr = team_maps()
     games["slate"] = pd.to_datetime(games.kickoff_utc).dt.tz_convert(ET).dt.date
+    today = NOW.tz_convert(ET).date()
+    later = games[games.slate != today]
+    if len(later):
+        say(f"skipping {len(later)} games on later slates (evaluated on their own game day)")
+    games = games[games.slate == today]
+    if games.empty:
+        say("no games on today's slate left to evaluate")
+        return
     outs, src = set(), ""
     for slate in games.slate.unique():
         o, src = injury_outs(slate, to_abbr)
