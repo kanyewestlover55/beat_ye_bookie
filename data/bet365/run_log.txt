@@ -140,3 +140,6 @@ Games to collect this run: 10
 Games to collect this run: 1
   ORL Magic @ TOR Raptors: 1200 3PM price points (0 O/U, 0 O/U players), 105 closes, 16 players
 
+2026-10-31T21:37:44Z | board: 255 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+
