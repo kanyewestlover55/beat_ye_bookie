@@ -29,6 +29,7 @@ this repo holds the code and the data.
 | `layer2_vs_book.py` | Layer 2 vs the book: scores the model's ladder probabilities against bet365 closes and US no-vig closes on this season's games | Manual |
 | `data/injuries/status_changes_<season>.csv` | Official NBA injury report as a change log: one row each time a player is added, changes status (Out, Questionable...) or is removed, with the report time | Injury bot, every 3 hours |
 | `data/injuries/reports_log.csv` | Every injury report time the bot tried: ok / missing / error | Injury bot |
+| `news_test.py` | News test: injury report changes vs bet365 ladder moves and outcomes (Layer 2, 31 Oct) | Manual |
 | `collect_injuries.py` | Injury bot script (reads the NBA's PDF archive via the `nbainjuries` package; catches up on anything missed) | Manual |
 | `.github/workflows/injuries.yml` | Injury bot schedule (every 3 hours) and manual backfill by date range | Manual |
 
