@@ -39,6 +39,7 @@ this repo holds the code and the data.
 | `.github/workflows/paper.yml` | Paper bot schedule: picks 19:30 UTC, grading 14:20 UTC; manual "test" mode writes to data/paper_test only | Manual |
 | `data/bet365/props/<YYYY-MM>/<run>_history.csv.gz`, `<run>_closing.csv.gz` | bet365 points, rebounds and assists ladders (from 31 Oct; older games backfilled). Compressed, one new file per run; read all with glob. `props_collected.txt` lists games done | bet365 collector |
 | `projected_starters.py` | Research for v4: projects each team's starting five from box scores (last game's starters minus outs, gaps filled from history or by position) and tests it as a model feature. Run without arguments for lineup accuracy, with `b` for the model test (needs player_games_l2b.parquet from absence_model.py) | Manual |
+| `simulate_bankroll.py` | Stage 2 of the testing roadmap: Monte Carlo of a season of the frozen strategy's bets under different true edges and unit sizes (drawdowns, chance of halving the bankroll, bets needed to prove an edge). Needs absence_vs_bet365.csv from absence_vs_book.py | Manual |
 | `collect_injuries.py` | Injury bot script (reads the NBA's PDF archive via the `nbainjuries` package; catches up on anything missed) | Manual |
 | `.github/workflows/injuries.yml` | Injury bot schedule (every 3 hours) and manual backfill by date range | Manual |
 
