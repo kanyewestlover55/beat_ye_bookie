@@ -32,6 +32,11 @@ this repo holds the code and the data.
 | `news_test.py` | News test: injury report changes vs bet365 ladder moves and outcomes (Layer 2, 31 Oct) | Manual |
 | `absence_model.py` | Layer 2b: absence features (missing rotation teammates, pair responses), v1 vs v2 vs v3 validation; writes player_games_l2b.parquet | Manual |
 | `absence_vs_book.py` | Absence model vs bet365 on this season, at 11:00 and 20:30 Swiss decision times (run absence_model.py first) | Manual |
+| `paper_bot.py` | Paper-trading bot: 20:30 Swiss picks from the frozen v3 model and live bet365 ladders, next-day grading (result, bet365 close, US fair close), running report | Paper bot |
+| `models/v3_frozen.txt`, `models/v3_frozen.json` | The frozen v3 model and its locked rules (features, rungs, bet rule, decision time). Never retrained during the forward test | Manual, once |
+| `data/paper/picks.csv` | One row per paper bet, graded in place: odds, model and implied probability, result, CLV vs bet365 close and vs US fair close, P/L | Paper bot |
+| `data/paper/candidates_<YYYY-MM>.csv`, `summary.txt`, `run_log.txt` | Every price the model evaluated; the running report; run messages | Paper bot |
+| `.github/workflows/paper.yml` | Paper bot schedule: picks 19:30 UTC, grading 14:20 UTC; manual "test" mode writes to data/paper_test only | Manual |
 | `collect_injuries.py` | Injury bot script (reads the NBA's PDF archive via the `nbainjuries` package; catches up on anything missed) | Manual |
 | `.github/workflows/injuries.yml` | Injury bot schedule (every 3 hours) and manual backfill by date range | Manual |
 
