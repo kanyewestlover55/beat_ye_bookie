@@ -6747,3 +6747,121 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-10-31T21:52:12Z,17.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,player_threes,Grayson Allen,Under,2.5,1.91
 2026-10-31T21:52:12Z,17.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.58
 2026-10-31T21:52:12Z,17.8,067d97a124c10ea2d206546384500c5e,2026-10-31T22:10:00Z,Philadelphia 76ers,Charlotte Hornets,betonlineag,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.48
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Aaron Wiggins,Over,2.5,2.64
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Aaron Wiggins,Under,2.5,1.47
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Jeremiah Fears,Over,1.5,2.22
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Jeremiah Fears,Under,1.5,1.64
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Over,2.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Trey Murphy III,Under,2.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Over,1.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Saddiq Bey,Under,1.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Nickeil Alexander-Walker,Over,2.5,1.62
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Nickeil Alexander-Walker,Under,2.5,2.24
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,C.J. McCollum,Over,2.5,2.38
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,C.J. McCollum,Under,2.5,1.56
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Jalen Johnson,Over,1.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Jalen Johnson,Under,1.5,1.9
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Onyeka Okongwu,Over,1.5,2.02
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,fanduel,player_threes,Onyeka Okongwu,Under,1.5,1.77
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Nickeil Alexander-Walker,Over,2.5,1.58
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Nickeil Alexander-Walker,Under,2.5,2.31
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Over,2.5,1.91
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Trey Murphy III,Under,2.5,1.84
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,C.J. McCollum,Over,2.5,2.3
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,C.J. McCollum,Under,2.5,1.58
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Aaron Wiggins,Over,2.5,2.43
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Aaron Wiggins,Under,2.5,1.53
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Over,1.5,1.79
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Saddiq Bey,Under,1.5,1.96
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Jalen Johnson,Over,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Jalen Johnson,Under,1.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Onyeka Okongwu,Over,1.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Onyeka Okongwu,Under,1.5,1.86
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Luguentz Dort,Over,1.5,1.93
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Luguentz Dort,Under,1.5,1.81
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Over,1.5,2.13
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,draftkings,player_threes,Jeremiah Fears,Under,1.5,1.67
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Onyeka Okongwu,Over,1.5,1.93
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Onyeka Okongwu,Under,1.5,1.83
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Over,2.5,1.97
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Trey Murphy III,Under,2.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Jalen Johnson,Over,1.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Jalen Johnson,Under,1.5,1.88
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Over,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Saddiq Bey,Under,1.5,1.97
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Over,1.5,2.17
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Jeremiah Fears,Under,1.5,1.66
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,C.J. McCollum,Over,2.5,2.32
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,C.J. McCollum,Under,2.5,1.58
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Aaron Wiggins,Over,2.5,2.61
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Aaron Wiggins,Under,2.5,1.47
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Luguentz Dort,Over,1.5,1.97
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Luguentz Dort,Under,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Nickeil Alexander-Walker,Over,2.5,1.62
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Nickeil Alexander-Walker,Under,2.5,2.24
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Dyson Daniels,Over,0.5,2.85
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Dyson Daniels,Under,0.5,1.4
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Herb Jones,Over,1.5,2.74
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betonlineag,player_threes,Herb Jones,Under,1.5,1.43
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Jeremiah Fears,Over,1.5,2.0
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Jeremiah Fears,Under,1.5,1.74
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,C.J. McCollum,Over,2.5,2.2
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,C.J. McCollum,Under,2.5,1.62
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Over,2.5,1.77
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Trey Murphy III,Under,2.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Over,1.5,1.71
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Saddiq Bey,Under,1.5,2.05
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Onyeka Okongwu,Over,1.5,1.83
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Onyeka Okongwu,Under,1.5,1.91
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Luguentz Dort,Over,1.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Luguentz Dort,Under,1.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Aaron Wiggins,Over,2.5,2.55
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Aaron Wiggins,Under,2.5,1.48
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Nickeil Alexander-Walker,Over,3.5,2.45
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Nickeil Alexander-Walker,Under,3.5,1.5
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Jalen Johnson,Over,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betmgm,player_threes,Jalen Johnson,Under,1.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Herb Jones,Over,1.5,2.65
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Herb Jones,Under,1.5,1.43
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Onyeka Okongwu,Over,1.5,2.12
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Onyeka Okongwu,Under,1.5,1.65
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Luguentz Dort,Over,1.5,2.17
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Luguentz Dort,Under,1.5,1.63
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Nickeil Alexander-Walker,Over,3.5,2.3
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Nickeil Alexander-Walker,Under,3.5,1.56
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Over,2.5,1.94
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Trey Murphy III,Under,2.5,1.78
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Over,1.5,2.05
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Jeremiah Fears,Under,1.5,1.71
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Jalen Johnson,Over,1.5,1.91
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Jalen Johnson,Under,1.5,1.81
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,C.J. McCollum,Over,2.5,2.38
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,C.J. McCollum,Under,2.5,1.51
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Over,1.5,1.81
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Saddiq Bey,Under,1.5,1.91
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Aaron Wiggins,Over,1.5,1.61
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,betrivers,player_threes,Aaron Wiggins,Under,1.5,2.2
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Aaron Wiggins,Over,1.5,1.48
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Aaron Wiggins,Under,1.5,2.55
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Aaron Wiggins,Over,2.5,2.45
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Aaron Wiggins,Under,2.5,1.53
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,C.J. McCollum,Over,1.5,1.42
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,C.J. McCollum,Under,1.5,2.75
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,C.J. McCollum,Over,2.5,2.3
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,C.J. McCollum,Under,2.5,1.59
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Jalen Johnson,Over,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Jalen Johnson,Under,1.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Over,1.5,2.15
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Jeremiah Fears,Under,1.5,1.67
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Luguentz Dort,Over,1.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Luguentz Dort,Under,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Nickeil Alexander-Walker,Over,2.5,1.59
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Nickeil Alexander-Walker,Under,2.5,2.3
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Nickeil Alexander-Walker,Over,3.5,2.45
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Nickeil Alexander-Walker,Under,3.5,1.53
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Onyeka Okongwu,Over,1.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Onyeka Okongwu,Under,1.5,1.87
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Saddiq Bey,Over,1.5,1.8
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Saddiq Bey,Under,1.5,1.95
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Over,2.5,1.91
+2026-10-31T22:35:53Z,34.1,77270837bc694d198c10f42937690d75,2026-10-31T23:10:00Z,Atlanta Hawks,New Orleans Pelicans,bovada,player_threes,Trey Murphy III,Under,2.5,1.83
