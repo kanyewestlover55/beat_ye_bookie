@@ -2223,3 +2223,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,spreads,Indiana Pacers,-3.5,1.87
 2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,totals,Over,229.5,1.87
 2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,totals,Under,229.5,1.95
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,spreads,Golden State Warriors,-2.5,1.96
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,spreads,Los Angeles Clippers,2.5,1.85
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,totals,Over,220.5,1.88
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,totals,Under,220.5,1.94
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,spreads,Golden State Warriors,-2.5,1.98
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,spreads,Los Angeles Clippers,2.5,1.85
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,totals,Over,220.5,1.89
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,totals,Under,220.5,1.93
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,mybookieag,spreads,Golden State Warriors,-2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,mybookieag,spreads,Los Angeles Clippers,2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,mybookieag,totals,Over,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,mybookieag,totals,Under,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,spreads,Golden State Warriors,-2.5,1.95
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,spreads,Los Angeles Clippers,2.5,1.85
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,totals,Over,221.5,1.93
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,totals,Under,221.5,1.88
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,spreads,Golden State Warriors,-2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,spreads,Los Angeles Clippers,2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,totals,Over,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,totals,Under,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,lowvig,spreads,Golden State Warriors,-2.0,1.94
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,lowvig,spreads,Los Angeles Clippers,2.0,1.94
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,lowvig,totals,Over,220.5,1.93
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,lowvig,totals,Under,220.5,1.93
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,spreads,Golden State Warriors,-2.5,1.98
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,spreads,Los Angeles Clippers,2.5,1.85
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,totals,Over,221.5,1.95
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,totals,Under,221.5,1.87
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,spreads,Golden State Warriors,-2.0,1.87
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,spreads,Los Angeles Clippers,2.0,1.95
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,totals,Over,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,totals,Under,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,spreads,Golden State Warriors,-2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,spreads,Los Angeles Clippers,2.0,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,totals,Over,220.5,1.91
+2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,totals,Under,220.5,1.91
