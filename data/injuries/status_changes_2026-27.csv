@@ -1013,3 +1013,22 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-31 17:30,2026-10-31 21:30,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Tacko Fall,Available,Questionable,Injury/Illness - Left Quadriceps Strain,status
 2026-10-31 17:30,2026-10-31 21:30,2026-10-31,06:00,PHI@CHA,Philadelphia 76ers,Jabari Walker,Available,Questionable,Injury/Illness - Left Patellar Tendinopathy,status
 2026-10-31 17:30,2026-10-31 21:30,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Dejounte Murray,Out,,Personal Reasons,new
+2026-10-31 18:15,2026-10-31 22:15,2026-10-31,08:00,MIN@SAS,Minnesota Timberwolves,Rudy Gobert,Out,Questionable,Injury/Illness - Low Back Spasms,status
+2026-10-31 18:15,2026-10-31 22:15,2026-11-01,09:00,TOR@LAL,Toronto Raptors,Nate Bittle,Out,,Injury/Illness - Right Avulsion Fracture,new
+2026-10-31 18:15,2026-10-31 22:15,2026-11-01,09:00,TOR@LAL,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-10-31 18:15,2026-10-31 22:15,2026-11-01,09:00,TOR@LAL,Toronto Raptors,Malachi Smith,Out,,G League - Two-Way,new
+2026-10-31 18:45,2026-10-31 22:45,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Malik Dia,Out,Questionable,G League - Two-Way,status
+2026-10-31 18:45,2026-10-31 22:45,2026-10-31,07:00,ATL@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Out,Questionable,G League - Two-Way,status
+2026-10-31 19:00,2026-10-31 23:00,2026-10-31,08:00,MIN@SAS,San Antonio Spurs,Stephon Castle,Available,Questionable,-,status
+2026-10-31 19:15,2026-10-31 23:15,2026-10-31,08:00,CLE@MIL,Cleveland Cavaliers,Meleek Thomas,Available,Probable,Injury/Illness - Right Foot Inflammation / Soreness,status
+2026-10-31 19:30,2026-10-31 23:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Ty Jerome,Out,Questionable,Injury/Illness - Upper Back Soreness,status
+2026-10-31 19:30,2026-10-31 23:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Scotty Pippen Jr.,Out,Questionable,Injury/Illness - Low Back Soreness,status
+2026-10-31 19:30,2026-10-31 23:30,2026-10-31,08:00,SAC@MEM,Memphis Grizzlies,Quinten Post,Out,Doubtful,Injury/Illness - Right Ankle Sprain,status
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,08:30,LAC@GSW,LA Clippers,Bradley Beal,Out,,Injury/Illness - Right Knee Injury Management,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,08:30,LAC@GSW,LA Clippers,Brandon Ingram,Out,,Injury/Illness - Right Heel Surgery,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,08:30,LAC@GSW,LA Clippers,Jordan Miller,Out,,Injury/Illness - Left Rotator Cuff Surgery,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,08:30,LAC@GSW,LA Clippers,Yanic Konan Niederhauser,Out,,Injury/Illness - Right Lisfranc Surgery,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,08:30,LAC@GSW,LA Clippers,Max Strus,Out,,Injury/Illness - Right Plantar Fascia Tear,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Walker Kessler,Available,,Injury/Illness - Left Finger Splint,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Adou Thiero,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-10-31 20:00,2026-11-01 00:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Ziaire Williams,Questionable,,Injury/Illness - Left Foot / Heel Injury Management,new
