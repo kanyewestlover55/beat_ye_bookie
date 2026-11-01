@@ -154,3 +154,7 @@ Games to collect this run: 7
   OKC Thunder @ HOU Rockets: 492 3PM price points (0 O/U, 0 O/U players), 91 closes, 13 players
 props: 40 games collected ({'points': 73554, 'rebounds': 57040, 'assists': 41922}), 0 with no prop data, 45 more games still to backfill
 
+2026-11-01T16:39:42Z | board: 285 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 40 games collected ({'points': 37996, 'rebounds': 27278, 'assists': 19817}), 0 with no prop data, 5 more games still to backfill
+
