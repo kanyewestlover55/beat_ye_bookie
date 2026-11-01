@@ -143,3 +143,14 @@ Games to collect this run: 1
 2026-10-31T21:37:44Z | board: 255 basketball matches, 0 new NBA fixtures recorded
 Games to collect this run: 0
 
+2026-11-01T10:41:46Z | board: 334 basketball matches, 4 new NBA fixtures recorded
+Games to collect this run: 7
+  POR Trail Blazers @ UTA Jazz: 735 3PM price points (0 O/U, 0 O/U players), 87 closes, 11 players
+  PHI 76ers @ CHA Hornets: 508 3PM price points (0 O/U, 0 O/U players), 92 closes, 12 players
+  ATL Hawks @ NO Pelicans: 727 3PM price points (0 O/U, 0 O/U players), 103 closes, 16 players
+  SAC Kings @ MEM Grizzlies: 513 3PM price points (0 O/U, 0 O/U players), 66 closes, 9 players
+  CLE Cavaliers @ MIL Bucks: 824 3PM price points (0 O/U, 0 O/U players), 108 closes, 15 players
+  MIN Timberwolves @ SA Spurs: 930 3PM price points (0 O/U, 0 O/U players), 94 closes, 13 players
+  OKC Thunder @ HOU Rockets: 492 3PM price points (0 O/U, 0 O/U players), 91 closes, 13 players
+props: 40 games collected ({'points': 73554, 'rebounds': 57040, 'assists': 41922}), 0 with no prop data, 45 more games still to backfill
+
