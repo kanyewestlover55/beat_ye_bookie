@@ -1033,3 +1033,25 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-10-31 20:00,2026-11-01 00:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Adou Thiero,Out,,Injury/Illness - Left Knee Injury Management,new
 2026-10-31 20:00,2026-11-01 00:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Ziaire Williams,Questionable,,Injury/Illness - Left Foot / Heel Injury Management,new
 2026-11-01 10:15,2026-11-01 15:15,2026-11-01,03:30,BOS@ORL,Boston Celtics,Mitchell Robinson,Out,Questionable,Rest,status
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Malik Dia,Doubtful,,G League - Two-Way,new
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Yves Missi,Out,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Trey Murphy III,Probable,,Injury/Illness - Bilateral Patella Tendinopathy,new
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Jaron Pierre Jr.,Doubtful,,G League - Two-Way,new
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Jordan Poole,Out,,Injury/Illness - Left Ankle Tendinopathy,new
+2026-11-01 15:00,2026-11-01 20:00,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Julian Reese,Probable,,G League - Two-Way,new
+2026-11-01 15:30,2026-11-01 20:30,2026-11-01,05:00,BKN@IND,Indiana Pacers,Obi Toppin,Out,Questionable,Injury/Illness - Low Back Soreness,status
+2026-11-01 15:30,2026-11-01 20:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Steven Adams,Out,,Injury/Illness - Right Soleus Strain,new
+2026-11-01 15:30,2026-11-01 20:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Clint Capela,Questionable,,Injury/Illness - Right Ankle Sprain,new
+2026-11-01 15:30,2026-11-01 20:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-11-01 15:30,2026-11-01 20:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-11-01 15:30,2026-11-01 20:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Reed Sheppard,Questionable,,Injury/Illness - Low Back Strain,new
+2026-11-01 16:00,2026-11-01 21:00,2026-11-01,05:00,BKN@IND,Indiana Pacers,Aaron Nesmith,Available,Probable,Injury/Illness - Left Hamstring Strain,status
+2026-11-01 16:00,2026-11-01 21:00,2026-11-01,09:00,TOR@LAL,Los Angeles Lakers,Ziaire Williams,Out,Questionable,Injury/Illness - Left Foot / Heel Injury Management,status
+2026-11-01 16:00,2026-11-01 21:00,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Tobe Awaka,Probable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-01 16:00,2026-11-01 21:00,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Nic Claxton,Doubtful,,Injury/Illness - Left Hamstring Strain,new
+2026-11-01 16:00,2026-11-01 21:00,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Jalen Smith,Probable,,Injury/Illness - Left Finger Sprain,new
+2026-11-01 16:30,2026-11-01 21:30,2026-11-02,07:30,WAS@ORL,Washington Wizards,Justin Champagnie,Out,,Injury/Illness - Right Foot Surgery,new
+2026-11-01 16:30,2026-11-01 21:30,2026-11-02,07:30,WAS@ORL,Washington Wizards,Anthony Gill,Questionable,,Injury/Illness - Low Back Spasms,new
+2026-11-01 16:30,2026-11-01 21:30,2026-11-02,07:30,WAS@ORL,Washington Wizards,Alex Sarr,Questionable,,Injury/Illness - Left Knee Soreness,new
+2026-11-01 16:30,2026-11-01 21:30,2026-11-02,07:30,WAS@ORL,Washington Wizards,Tristan Vukcevic,Out,,Injury/Illness - Left Hip Impingement,new
+2026-11-01 16:30,2026-11-01 21:30,2026-11-02,07:30,WAS@ORL,Washington Wizards,Jamir Watkins,Out,,Injury/Illness - Left ACL Repair / Surgery,new
