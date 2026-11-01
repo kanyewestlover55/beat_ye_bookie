@@ -158,3 +158,7 @@ props: 40 games collected ({'points': 73554, 'rebounds': 57040, 'assists': 41922
 Games to collect this run: 0
 props: 40 games collected ({'points': 37996, 'rebounds': 27278, 'assists': 19817}), 0 with no prop data, 5 more games still to backfill
 
+2026-11-01T21:38:47Z | board: 155 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 5 games collected ({'points': 4286, 'rebounds': 3185, 'assists': 2330}), 0 with no prop data
+
