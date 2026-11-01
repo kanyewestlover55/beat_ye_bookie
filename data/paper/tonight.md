@@ -1,73 +1,50 @@
-# Paper picks, Sat 31 Oct
+# Paper picks, Sun 01 Nov
 
-Decided 20:55 Swiss · 6 games · 133 prices checked · **19 bets** · injuries: live report 2026-10-31 15:45 ET
+Decided 20:56 Swiss · 4 games · 103 prices checked · **20 bets** · injuries: live report 2026-11-01 14:45 ET
 
-## PHI 76ers @ CHA Hornets
-Tip Sat 23:10 Swiss · prices about 114 min old when read
-
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Jaylen Brown | 1+ threes | 1.22 | 1.22 | 82% | +1% |
-| Jaylen Brown | 2+ threes | 1.95 | 1.89 | 53% | +4% |
-
-Teammates out (known at decision time): Joel Embiid, LeBron James
-
-## ATL Hawks @ NO Pelicans
-Tip Sun 00:10 Swiss · prices about 18 min old when read
+## BKN Nets @ IND Pacers
+Tip Sun 23:00 Swiss · prices about 11 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Herbert Jones | 1+ threes | 1.56 | 1.38 | 73% | +13% |
-| Herbert Jones | 2+ threes | 3.60 | 2.59 | 39% | +39% |
-| Jeremiah Fears | 1+ threes | 1.33 | 1.29 | 78% | +4% |
-| Jeremiah Fears | 2+ threes | 2.50 | 2.17 | 46% | +16% |
-| Trey Murphy III | 1+ threes | 1.09 | 1.09 | 92% | +1% |
-| Trey Murphy III | 2+ threes | 1.43 | 1.36 | 74% | +5% |
+| Aaron Nesmith | 1+ threes | 1.15 | 1.12 | 90% | +4% |
+| Aaron Nesmith | 2+ threes | 1.67 | 1.46 | 68% | +14% |
+| Andrew Nembhard | 2+ threes | 1.50 | 1.48 | 68% | +2% |
+| Jarace Walker | 1+ threes | 1.20 | 1.15 | 88% | +5% |
+| Jarace Walker | 2+ threes | 1.95 | 1.59 | 63% | +23% |
+| Jay Huff | 1+ threes | 1.34 | 1.27 | 79% | +6% |
+| Jay Huff | 2+ threes | 2.40 | 2.09 | 48% | +15% |
+| Nolan Traore | 1+ threes | 1.37 | 1.33 | 75% | +3% |
+| Nolan Traore | 2+ threes | 2.70 | 2.37 | 42% | +14% |
+| Obi Toppin | 1+ threes | 1.20 | 1.19 | 84% | +1% |
+| Obi Toppin | 2+ threes | 1.89 | 1.76 | 57% | +8% |
+| Pascal Siakam | 1+ threes | 1.25 | 1.21 | 83% | +3% |
+| Pascal Siakam | 2+ threes | 2.10 | 1.86 | 54% | +13% |
 
-Teammates out (known at decision time): Jordan Poole, Yves Missi
+Teammates out (known at decision time): Ben Saraf, Ben Sheppard, Egor Demin, Ivica Zubac, Mikel Brown Jr., Tyrese Haliburton
 
-## CLE Cavaliers @ MIL Bucks
-Tip Sun 01:10 Swiss · prices about 18 min old when read
-
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| AJ Green | 2+ threes | 1.59 | 1.52 | 66% | +5% |
-| Evan Mobley | 2+ threes | 2.35 | 2.24 | 45% | +5% |
-| Jaime Jaquez Jr. | 2+ threes | 2.60 | 2.47 | 41% | +6% |
-| Kel'el Ware | 1+ threes | 1.62 | 1.53 | 66% | +7% |
-| Kel'el Ware | 2+ threes | 3.80 | 3.32 | 30% | +14% |
-
-Teammates out (known at decision time): Jaylon Tyson
-
-## MIN Timberwolves @ SA Spurs
-Tip Sun 01:10 Swiss · prices about 18 min old when read
+## LA Clippers @ GS Warriors
+Tip Mon 02:30 Swiss · prices about 11 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Ayo Dosunmu | 2+ threes | 2.05 | 1.99 | 50% | +3% |
-| De'Aaron Fox | 2+ threes | 2.22 | 2.17 | 46% | +3% |
-| LaMelo Ball | 2+ threes | 1.14 | 1.13 | 89% | +2% |
+| Georges Niang | 1+ threes | 1.22 | 1.22 | 82% | +1% |
+| Georges Niang | 2+ threes | 2.00 | 1.88 | 53% | +7% |
 
-Teammates out (known at decision time): Anthony Edwards
+Teammates out (known at decision time): Draymond Green, Stephen Curry
 
-## SAC Kings @ MEM Grizzlies
-Tip Sun 01:10 Swiss · prices about 18 min old when read
-
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Domantas Sabonis | 1+ threes | 5.75 | 3.88 | 26% | +48% |
-
-Teammates out (known at decision time): Keegan Murray
-
-## OKC Thunder @ HOU Rockets
-Tip Sun 01:40 Swiss · prices about 18 min old when read
+## TOR Raptors @ LA Lakers
+Tip Mon 03:00 Swiss · prices about 11 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Kenrich Williams | 1+ threes | 1.45 | 1.37 | 73% | +7% |
-| Kenrich Williams | 2+ threes | 2.95 | 2.54 | 39% | +16% |
+| Collin Sexton | 1+ threes | 1.37 | 1.37 | 73% | +0% |
+| Collin Sexton | 2+ threes | 2.55 | 2.54 | 39% | +1% |
+| Jamal Shead | 2+ threes | 3.65 | 3.52 | 28% | +4% |
+| RJ Barrett | 1+ threes | 1.22 | 1.22 | 82% | +0% |
+| RJ Barrett | 2+ threes | 1.95 | 1.89 | 53% | +4% |
 
-Teammates out (known at decision time): Alex Caruso, Cason Wallace, Chet Holmgren, Jalen Williams
+Teammates out (known at decision time): Kawhi Leonard
 
 ---
 **Odds seen:** bet365's price on the feed when the bot ran (can lag the app by up to an hour).  
