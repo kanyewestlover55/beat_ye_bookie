@@ -2151,3 +2151,75 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,spreads,Oklahoma City Thunder,2.5,1.91
 2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,totals,Over,219.5,1.91
 2026-10-31T21:52:12Z,167.8,c30d3bdf126e98ced5b9389db8617926,2026-11-01T00:40:00Z,Oklahoma City Thunder,Houston Rockets,betus,totals,Under,219.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,draftkings,spreads,Boston Celtics,-6.5,1.87
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,draftkings,spreads,Orlando Magic,6.5,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,draftkings,totals,Over,221.5,1.89
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,draftkings,totals,Under,221.5,1.93
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,mybookieag,spreads,Boston Celtics,-7.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,mybookieag,spreads,Orlando Magic,7.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,mybookieag,totals,Over,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,mybookieag,totals,Under,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betonlineag,spreads,Boston Celtics,-7.0,1.87
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betonlineag,spreads,Orlando Magic,7.0,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betonlineag,totals,Over,222.5,1.93
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betonlineag,totals,Under,222.5,1.89
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,lowvig,spreads,Boston Celtics,-7.0,1.9
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,lowvig,spreads,Orlando Magic,7.0,1.99
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,lowvig,totals,Over,222.5,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,lowvig,totals,Under,222.5,1.92
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betmgm,spreads,Boston Celtics,-7.5,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betmgm,spreads,Orlando Magic,7.5,1.87
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betmgm,totals,Over,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betmgm,totals,Under,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betus,spreads,Boston Celtics,-7.0,1.87
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betus,spreads,Orlando Magic,7.0,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betus,totals,Over,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betus,totals,Under,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,bovada,spreads,Boston Celtics,-7.0,1.87
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,bovada,spreads,Orlando Magic,7.0,1.95
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,bovada,totals,Over,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,bovada,totals,Under,222.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,fanduel,spreads,Boston Celtics,-7.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,fanduel,spreads,Orlando Magic,7.5,1.91
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,fanduel,totals,Over,222.5,1.94
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,fanduel,totals,Under,222.5,1.88
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betrivers,spreads,Boston Celtics,-7.5,1.88
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betrivers,spreads,Orlando Magic,7.5,1.93
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betrivers,totals,Over,221.5,1.88
+2026-11-01T20:35:53Z,4.1,e8559eaac12af915cfe6597644620c13,2026-11-01T20:40:00Z,Boston Celtics,Orlando Magic,betrivers,totals,Under,221.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,draftkings,spreads,Brooklyn Nets,3.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,draftkings,spreads,Indiana Pacers,-3.5,1.89
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,draftkings,totals,Over,230.5,1.89
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,draftkings,totals,Under,230.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betmgm,spreads,Brooklyn Nets,3.5,1.95
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betmgm,spreads,Indiana Pacers,-3.5,1.87
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betmgm,totals,Over,229.5,1.87
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betmgm,totals,Under,229.5,1.95
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betus,spreads,Brooklyn Nets,3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betus,spreads,Indiana Pacers,-3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betus,totals,Over,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betus,totals,Under,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,lowvig,spreads,Brooklyn Nets,3.5,1.94
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,lowvig,spreads,Indiana Pacers,-3.5,1.94
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,lowvig,totals,Over,229.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,lowvig,totals,Under,229.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betonlineag,spreads,Brooklyn Nets,3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betonlineag,spreads,Indiana Pacers,-3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betonlineag,totals,Over,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betonlineag,totals,Under,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,bovada,spreads,Brooklyn Nets,4.0,1.87
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,bovada,spreads,Indiana Pacers,-4.0,1.95
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,bovada,totals,Over,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,bovada,totals,Under,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,mybookieag,spreads,Brooklyn Nets,3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,mybookieag,spreads,Indiana Pacers,-3.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,mybookieag,totals,Over,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,mybookieag,totals,Under,229.5,1.91
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betrivers,spreads,Brooklyn Nets,3.5,1.95
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betrivers,spreads,Indiana Pacers,-3.5,1.85
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betrivers,totals,Over,230.5,1.93
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,betrivers,totals,Under,230.5,1.88
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,spreads,Brooklyn Nets,3.5,1.95
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,spreads,Indiana Pacers,-3.5,1.87
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,totals,Over,229.5,1.87
+2026-11-01T20:35:53Z,94.1,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,totals,Under,229.5,1.95
