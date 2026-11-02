@@ -1155,3 +1155,34 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Jaron Pierre Jr.,Out,Doubtful,G League - Two-Way,status
 2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Julian Reese,Available,Probable,G League - Two-Way,status
 2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,SAC@DAL,Dallas Mavericks,Kyrie Irving,Doubtful,Questionable,Injury/Illness - Left Knee Injury Management,status
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:00,MIL@MIN,Minnesota Timberwolves,LaMelo Ball,Questionable,,Injury/Illness - Right Wrist Contusion,new
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:00,MIL@MIN,Minnesota Timberwolves,Terrence Shannon Jr,Questionable,,Injury/Illness - Left Hip Contusion,new
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:00,SAC@DAL,Sacramento Kings,Dylan Cardwell,Probable,Questionable,Injury/Illness - Left Calf Strain,status
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:30,BOS@HOU,Boston Celtics,Devin Carter,Out,,Injury/Illness - Illness,new
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:30,BOS@HOU,Boston Celtics,Paul George,Out,,Rest,new
+2026-11-02 14:00,2026-11-02 19:00,2026-11-02,08:30,BOS@HOU,Houston Rockets,Clint Capela,Out,Questionable,Injury/Illness - Right Ankle Sprain,status
+2026-11-02 15:00,2026-11-02 20:00,2026-11-02,10:00,MIA@LAL,Miami Heat,Tre Donaldson,Available,Out,G League - Two-Way,status
+2026-11-02 15:00,2026-11-02 20:00,2026-11-02,10:00,MIA@LAL,Miami Heat,Vladislav Goldin,Available,Out,G League - Two-Way,status
+2026-11-02 15:00,2026-11-02 20:00,2026-11-02,10:00,MIA@LAL,Miami Heat,Tim Hardaway Jr.,Available,Questionable,Personal Reasons,status
+2026-11-02 15:15,2026-11-02 20:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Nate Bittle,Out,,Injury/Illness - Right Avulsion Fracture,new
+2026-11-02 15:15,2026-11-02 20:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-02 15:15,2026-11-02 20:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Jakob Poeltl,Questionable,,Injury/Illness - Left Shoulder Bursitis,new
+2026-11-02 15:15,2026-11-02 20:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Malachi Smith,Out,,G League - Two-Way,new
+2026-11-02 15:30,2026-11-02 20:30,2026-11-02,08:00,SAC@DAL,Sacramento Kings,Dylan Cardwell,Questionable,Probable,Injury/Illness - Left Calf Strain,status
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,MIA@LAL,Los Angeles Lakers,Walker Kessler,Available,,Injury/Illness - Left Finger Splint,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,MIA@LAL,Los Angeles Lakers,Adou Thiero,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Jimmy Butler III,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Al Horford,Out,,Injury/Illness - Bilateral Low Back Injury Management,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Moses Moody,Out,,Injury/Illness - Left Patellar Tendon Repair / Surgery,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Kristaps Porzingis,Out,,Not With Team,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Gui Santos,Out,,Injury/Illness - Left Knee Tendinitis,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Brandon Williams,Questionable,,Injury/Illness - Left Quadriceps Contusion,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Scottie Barnes,Questionable,,Injury/Illness - Left Hip Soreness / Tightness,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Bradley Beal,Out,,Injury/Illness - Right Knee Injury Management,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Rui Hachimura,Out,,Injury/Illness - Left Quadriceps Soreness,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Brandon Ingram,Out,,Injury/Illness - Right Heel Surgery,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Derrick Jones Jr.,Out,,Injury/Illness - Right Knee Soreness,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Jordan Miller,Out,,Injury/Illness - Left Rotator Cuff Surgery,new
+2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Yanic Konan Niederhauser,Out,,Injury/Illness - Right Lisfranc Surgery,new
+2026-11-02 16:30,2026-11-02 21:30,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Keshon Gilbert,Out,Doubtful,G League - Two-Way,status
+2026-11-02 16:30,2026-11-02 21:30,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Jalen Wilson,Out,Doubtful,G League - Two-Way,status
