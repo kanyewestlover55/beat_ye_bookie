@@ -162,3 +162,11 @@ props: 40 games collected ({'points': 37996, 'rebounds': 27278, 'assists': 19817
 Games to collect this run: 0
 props: 5 games collected ({'points': 4286, 'rebounds': 3185, 'assists': 2330}), 0 with no prop data
 
+2026-11-02T11:00:58Z | board: 205 basketball matches, 15 new NBA fixtures recorded
+Games to collect this run: 4
+  BOS Celtics @ ORL Magic: 1060 3PM price points (0 O/U, 0 O/U players), 100 closes, 13 players
+  BKN Nets @ IND Pacers: 1628 3PM price points (0 O/U, 0 O/U players), 101 closes, 15 players
+  LA Clippers @ GS Warriors: 3625 3PM price points (0 O/U, 0 O/U players), 93 closes, 13 players
+  TOR Raptors @ LA Lakers: 4229 3PM price points (0 O/U, 0 O/U players), 90 closes, 13 players
+props: 4 games collected ({'points': 11014, 'rebounds': 9609, 'assists': 7126}), 0 with no prop data
+
