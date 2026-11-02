@@ -1121,3 +1121,37 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-01 20:15,2026-11-02 01:15,2026-11-02,10:00,PHX@GSW,Phoenix Suns,Mark Williams,Out,,Injury/Illness - Left Shoulder Surgery,new
 2026-11-01 20:45,2026-11-02 01:45,2026-11-01,09:00,TOR@LAL,Toronto Raptors,Jakob Poeltl,Out,,Injury/Illness - Left Shoulder Bursitis,new
 2026-11-01 21:15,2026-11-02 02:15,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Kingston Flemings,Out,,League Suspension,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Paolo Banchero,Out,,Injury/Illness - Right High Ankle Sprain,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Anthony Black,Out,,Injury/Illness - Right Ankle Injury Management,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Jonathan Isaac,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle Injury Recovery,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially Torn Hamstring,new
+2026-11-02 12:00,2026-11-02 17:00,2026-11-02,07:30,WAS@ORL,Orlando Magic,Jalen Suggs,Out,,Injury/Illness - Right Knee Contusion / Bone Bruise,new
+2026-11-02 12:30,2026-11-02 17:30,2026-11-02,07:30,DET@CHA,Detroit Pistons,Elijah Harkless,Out,Questionable,G League - Two-Way,status
+2026-11-02 12:30,2026-11-02 17:30,2026-11-02,07:30,DET@CHA,Detroit Pistons,Isaiah Joe,Out,Questionable,Injury/Illness - Right Hip Contusion,status
+2026-11-02 12:30,2026-11-02 17:30,2026-11-02,07:30,DET@CHA,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-11-02 12:45,2026-11-02 17:45,2026-11-02,07:30,BKN@NYK,Brooklyn Nets,Tyler Bilodeau,Out,,G League - Two-Way,new
+2026-11-02 12:45,2026-11-02 17:45,2026-11-02,07:30,BKN@NYK,Brooklyn Nets,Egor Demin,Out,,Injury/Illness - Right Bone Bruise,new
+2026-11-02 12:45,2026-11-02 17:45,2026-11-02,07:30,BKN@NYK,Brooklyn Nets,Joshua Jefferson,Out,,G League - On Assignment,new
+2026-11-02 12:45,2026-11-02 17:45,2026-11-02,07:30,BKN@NYK,Brooklyn Nets,Grant Nelson,Out,,G League - Two-Way,new
+2026-11-02 12:45,2026-11-02 17:45,2026-11-02,07:30,BKN@NYK,Brooklyn Nets,Ben Saraf,Out,,G League - On Assignment,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Johnny Furphy,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Tyrese Haliburton,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,T.J. McConnell,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Larry Nance Jr.,Doubtful,,Injury/Illness - Illness,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Andrew Nembhard,Out,,Injury/Illness - Cervical Injury Management,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Aaron Nesmith,Out,,Injury/Illness - Left Hamstring Injury Management,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Ben Sheppard,Out,,Injury/Illness - Left Meniscus Surgery,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Pascal Siakam,Out,,Rest,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Obi Toppin,Questionable,,Injury/Illness - Lumbar Sprain,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Ivica Zubac,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,WAS@ORL,Washington Wizards,Reece Beekman,Out,,Injury/Illness - Right AC Joint Injury,new
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,WAS@ORL,Washington Wizards,Anthony Gill,Out,Questionable,Injury/Illness - Low Back Spasms,status
+2026-11-02 13:00,2026-11-02 18:00,2026-11-02,07:30,WAS@ORL,Washington Wizards,Alex Sarr,Out,Questionable,Injury/Illness - Left Knee Soreness,status
+2026-11-02 13:30,2026-11-02 18:30,2026-11-02,08:30,UTA@SAS,Utah Jazz,Kobe Bufkin,Questionable,Out,G League - Two-Way,status
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Malik Dia,Out,Doubtful,G League - Two-Way,status
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Trey Murphy III,Available,Probable,Injury/Illness - Bilateral Patella Tendinopathy,status
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Dejounte Murray,Questionable,,Personal Reasons,new
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Jaron Pierre Jr.,Out,Doubtful,G League - Two-Way,status
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Julian Reese,Available,Probable,G League - Two-Way,status
+2026-11-02 13:45,2026-11-02 18:45,2026-11-02,08:00,SAC@DAL,Dallas Mavericks,Kyrie Irving,Doubtful,Questionable,Injury/Illness - Left Knee Injury Management,status
