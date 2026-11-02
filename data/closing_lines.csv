@@ -2259,3 +2259,37 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,spreads,Los Angeles Clippers,2.0,1.91
 2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,totals,Over,220.5,1.91
 2026-11-01T21:52:49Z,227.2,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betus,totals,Under,220.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,spreads,Los Angeles Lakers,-3.5,1.95
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,spreads,Toronto Raptors,3.5,1.87
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,totals,Over,223.5,1.93
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,totals,Under,223.5,1.89
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,lowvig,spreads,Los Angeles Lakers,-3.5,1.97
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,lowvig,spreads,Toronto Raptors,3.5,1.92
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,lowvig,totals,Over,223.5,1.93
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,lowvig,totals,Under,223.5,1.93
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,spreads,Los Angeles Lakers,-3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,spreads,Toronto Raptors,3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,totals,Over,223.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,totals,Under,223.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,totals,Over,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,totals,Under,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,spreads,Los Angeles Lakers,-3.5,1.93
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,spreads,Toronto Raptors,3.5,1.88
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,totals,Over,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,totals,Under,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,mybookieag,spreads,Los Angeles Lakers,-3.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,mybookieag,spreads,Toronto Raptors,3.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,mybookieag,totals,Over,224.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,mybookieag,totals,Under,224.0,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betus,spreads,Los Angeles Lakers,-3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betus,spreads,Toronto Raptors,3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betus,totals,Over,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betus,totals,Under,223.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,spreads,Los Angeles Lakers,-3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,spreads,Toronto Raptors,3.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,totals,Over,224.5,1.95
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,totals,Under,224.5,1.87
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,spreads,Los Angeles Lakers,-3.5,1.96
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,spreads,Toronto Raptors,3.5,1.85
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,totals,Over,223.5,1.93
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,totals,Under,223.5,1.88

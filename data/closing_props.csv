@@ -7657,3 +7657,269 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-01T21:52:49Z,17.2,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,player_threes,Keon Ellis,Under,1.5,1.51
 2026-11-01T21:52:49Z,17.2,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,player_threes,Aaron Nesmith,Over,1.5,1.68
 2026-11-01T21:52:49Z,17.2,fc3e945a5be88d3f933456bc512c956d,2026-11-01T22:10:00Z,Brooklyn Nets,Indiana Pacers,fanduel,player_threes,Aaron Nesmith,Under,1.5,2.14
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,De'Anthony Melton,Over,1.5,1.72
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,De'Anthony Melton,Under,1.5,2.08
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Darius Garland,Over,2.5,1.72
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Darius Garland,Under,2.5,2.08
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Kris Dunn,Over,1.5,3.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Kris Dunn,Under,1.5,1.38
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Yaxel Lendeborg,Over,1.5,1.71
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Yaxel Lendeborg,Under,1.5,2.1
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Georges Niang,Over,1.5,1.82
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Georges Niang,Under,1.5,1.96
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Brandin Podziemski,Over,2.5,2.22
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Brandin Podziemski,Under,2.5,1.64
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Derrick Jones,Over,1.5,2.24
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Derrick Jones,Under,1.5,1.63
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Rui Hachimura,Over,2.5,2.44
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Rui Hachimura,Under,2.5,1.54
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Keaton Wagler,Over,1.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,fanduel,player_threes,Keaton Wagler,Under,1.5,2.06
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Darius Garland,Over,2.5,1.64
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Darius Garland,Under,2.5,2.18
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brandin Podziemski,Over,2.5,2.25
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brandin Podziemski,Under,2.5,1.6
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Rui Hachimura,Over,2.5,2.37
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Rui Hachimura,Under,2.5,1.55
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Keaton Wagler,Over,1.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Keaton Wagler,Under,1.5,2.04
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Yaxel Lendeborg,Over,1.5,1.78
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Yaxel Lendeborg,Under,1.5,1.98
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Georges Niang,Over,1.5,1.79
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Georges Niang,Under,1.5,1.96
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,De'Anthony Melton,Over,1.5,1.79
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,De'Anthony Melton,Under,1.5,1.96
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Derrick Jones,Over,1.5,2.13
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Derrick Jones,Under,1.5,1.67
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brook Lopez,Over,1.5,2.32
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brook Lopez,Under,1.5,1.57
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Kris Dunn,Over,1.5,2.52
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Kris Dunn,Under,1.5,1.49
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brandon Williams,Over,0.5,1.51
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Brandon Williams,Under,0.5,2.47
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Gui Santos,Over,0.5,1.71
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,draftkings,player_threes,Gui Santos,Under,0.5,2.07
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Brook Lopez,Over,1.5,2.23
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Brook Lopez,Under,1.5,1.6
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Georges Niang,Over,1.5,1.94
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Georges Niang,Under,1.5,1.78
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Yaxel Lendeborg,Over,1.5,1.72
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Yaxel Lendeborg,Under,1.5,2.02
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Kris Dunn,Over,1.5,2.65
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Kris Dunn,Under,1.5,1.43
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Darius Garland,Over,2.5,1.66
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Darius Garland,Under,2.5,2.12
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Derrick Jones,Over,1.5,2.2
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Derrick Jones,Under,1.5,1.62
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Keaton Wagler,Over,1.5,1.67
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Keaton Wagler,Under,1.5,2.1
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Rui Hachimura,Over,2.5,2.35
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Rui Hachimura,Under,2.5,1.54
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,De'Anthony Melton,Over,1.5,1.85
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,De'Anthony Melton,Under,1.5,1.87
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Gui Santos,Over,0.5,1.5
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Gui Santos,Under,0.5,2.45
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Brandin Podziemski,Over,2.5,2.2
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betrivers,player_threes,Brandin Podziemski,Under,2.5,1.6
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Derrick Jones,Over,1.5,2.22
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Derrick Jones,Under,1.5,1.63
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brandin Podziemski,Over,2.5,2.2
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brandin Podziemski,Under,2.5,1.64
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,De'Anthony Melton,Over,1.5,1.79
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,De'Anthony Melton,Under,1.5,1.98
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Gui Santos,Over,0.5,1.65
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Gui Santos,Under,0.5,2.19
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Darius Garland,Over,2.5,1.83
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Darius Garland,Under,2.5,1.93
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Yaxel Lendeborg,Over,1.5,1.72
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Yaxel Lendeborg,Under,1.5,2.07
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Keaton Wagler,Over,1.5,1.77
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Keaton Wagler,Under,1.5,2.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brook Lopez,Over,1.5,2.3
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brook Lopez,Under,1.5,1.59
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Georges Niang,Over,1.5,2.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Georges Niang,Under,1.5,1.77
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Kris Dunn,Over,1.5,2.78
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Kris Dunn,Under,1.5,1.42
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Rui Hachimura,Over,2.5,2.41
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Rui Hachimura,Under,2.5,1.54
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brandon Williams,Over,0.5,1.53
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Brandon Williams,Under,0.5,2.44
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Al Horford,Over,0.5,1.57
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betonlineag,player_threes,Al Horford,Under,0.5,2.35
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Keaton Wagler,Over,1.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Keaton Wagler,Under,1.5,2.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Darius Garland,Over,2.5,1.71
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Darius Garland,Under,2.5,2.05
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Brandin Podziemski,Over,2.5,2.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Brandin Podziemski,Under,2.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Kris Dunn,Over,1.5,2.75
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Kris Dunn,Under,1.5,1.43
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Derrick Jones,Over,1.5,2.25
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Derrick Jones,Under,1.5,1.61
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Brook Lopez,Over,1.5,2.3
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Brook Lopez,Under,1.5,1.57
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,De'Anthony Melton,Over,1.5,1.87
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,De'Anthony Melton,Under,1.5,1.87
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Gui Santos,Over,0.5,1.57
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Gui Santos,Under,0.5,2.3
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Georges Niang,Over,1.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,betmgm,player_threes,Georges Niang,Under,1.5,2.0
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brandin Podziemski,Over,1.5,1.41
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brandin Podziemski,Under,1.5,2.8
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brandin Podziemski,Over,2.5,2.25
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brandin Podziemski,Under,2.5,1.61
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brook Lopez,Over,1.5,2.35
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Brook Lopez,Under,1.5,1.56
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Darius Garland,Over,2.5,1.62
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Darius Garland,Under,2.5,2.2
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Darius Garland,Over,3.5,2.55
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Darius Garland,Under,3.5,1.48
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,De'Anthony Melton,Over,1.5,1.8
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,De'Anthony Melton,Under,1.5,1.95
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Derrick Jones,Over,1.5,2.15
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Derrick Jones,Under,1.5,1.67
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Georges Niang,Over,1.5,1.8
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Georges Niang,Under,1.5,1.95
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Gui Santos,Over,0.5,1.69
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Gui Santos,Under,0.5,2.1
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Keaton Wagler,Over,1.5,1.74
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Keaton Wagler,Under,1.5,2.05
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Kris Dunn,Over,1.5,2.5
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Kris Dunn,Under,1.5,1.5
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Rui Hachimura,Over,1.5,1.45
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Rui Hachimura,Under,1.5,2.65
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Rui Hachimura,Over,2.5,2.35
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Rui Hachimura,Under,2.5,1.56
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Yaxel Lendeborg,Over,1.5,1.77
+2026-11-02T01:32:38Z,7.4,094b083ace229ca31ff360a80e35a1a8,2026-11-02T01:40:00Z,Los Angeles Clippers,Golden State Warriors,bovada,player_threes,Yaxel Lendeborg,Under,1.5,2.0
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Luka Doncic,Over,4.5,2.07
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Luka Doncic,Under,4.5,1.7
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Immanuel Quickley,Over,2.5,1.88
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Immanuel Quickley,Under,2.5,1.86
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Ja'Kobe Walter,Over,2.5,2.08
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Ja'Kobe Walter,Under,2.5,1.7
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Austin Reaves,Over,2.5,2.44
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Austin Reaves,Under,2.5,1.52
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,R.J. Barrett,Over,1.5,1.95
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,R.J. Barrett,Under,1.5,1.8
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Matisse Thybulle,Over,1.5,2.23
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Matisse Thybulle,Under,1.5,1.61
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Sandro Mamukelashvili,Over,1.5,2.64
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Sandro Mamukelashvili,Under,1.5,1.46
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Collin Sexton,Over,1.5,2.67
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Collin Sexton,Under,1.5,1.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Scottie Barnes,Over,0.5,1.47
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Scottie Barnes,Under,0.5,2.6
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Jake LaRavia,Over,0.5,1.53
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Jake LaRavia,Under,0.5,2.42
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Collin Murray-Boyles,Over,0.5,2.34
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,draftkings,player_threes,Collin Murray-Boyles,Under,0.5,1.56
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Austin Reaves,Over,1.5,1.48
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Austin Reaves,Under,1.5,2.55
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Austin Reaves,Over,2.5,2.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Austin Reaves,Under,2.5,1.53
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Murray-Boyles,Over,0.5,2.35
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Murray-Boyles,Under,0.5,1.56
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Sexton,Over,0.5,1.36
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Sexton,Under,0.5,3.0
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Sexton,Over,1.5,2.7
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Collin Sexton,Under,1.5,1.43
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Immanuel Quickley,Over,2.5,1.87
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Immanuel Quickley,Under,2.5,1.87
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Ja'Kobe Walter,Over,1.5,1.36
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Ja'Kobe Walter,Under,1.5,3.05
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Ja'Kobe Walter,Over,2.5,2.1
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Ja'Kobe Walter,Under,2.5,1.69
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Jake LaRavia,Over,0.5,1.53
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Jake LaRavia,Under,0.5,2.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Luka Doncic,Over,3.5,1.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Luka Doncic,Under,3.5,2.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Luka Doncic,Over,4.5,2.1
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Luka Doncic,Under,4.5,1.69
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Matisse Thybulle,Over,1.5,2.25
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Matisse Thybulle,Under,1.5,1.61
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,R.J. Barrett,Over,1.5,1.95
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,R.J. Barrett,Under,1.5,1.8
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Sandro Mamukelashvili,Over,0.5,1.36
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Sandro Mamukelashvili,Under,0.5,3.0
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Sandro Mamukelashvili,Over,1.5,2.75
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Sandro Mamukelashvili,Under,1.5,1.42
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Scottie Barnes,Over,0.5,1.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,bovada,player_threes,Scottie Barnes,Under,0.5,2.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Luka Doncic,Over,4.5,2.1
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Luka Doncic,Under,4.5,1.67
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Austin Reaves,Over,2.5,2.4
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Austin Reaves,Under,2.5,1.53
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Immanuel Quickley,Over,2.5,1.91
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Immanuel Quickley,Under,2.5,1.83
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Ja'Kobe Walter,Over,2.5,2.05
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Ja'Kobe Walter,Under,2.5,1.71
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,R.J. Barrett,Over,1.5,1.9
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,R.J. Barrett,Under,1.5,1.83
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Collin Murray-Boyles,Over,0.5,2.15
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Collin Murray-Boyles,Under,0.5,1.65
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Collin Sexton,Over,0.5,1.36
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Collin Sexton,Under,0.5,3.0
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Sandro Mamukelashvili,Over,0.5,1.43
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Sandro Mamukelashvili,Under,0.5,2.75
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Jake LaRavia,Over,0.5,1.57
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betmgm,player_threes,Jake LaRavia,Under,0.5,2.3
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Austin Reaves,Over,2.5,2.46
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Austin Reaves,Under,2.5,1.52
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,R.J. Barrett,Over,1.5,1.94
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,R.J. Barrett,Under,1.5,1.82
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Scottie Barnes,Over,0.5,1.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Scottie Barnes,Under,0.5,2.53
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Luka Doncic,Over,4.5,2.03
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Luka Doncic,Under,4.5,1.75
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Immanuel Quickley,Over,2.5,1.9
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Immanuel Quickley,Under,2.5,1.86
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Collin Murray-Boyles,Over,0.5,2.52
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Collin Murray-Boyles,Under,0.5,1.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Ja'Kobe Walter,Over,2.5,2.1
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Ja'Kobe Walter,Under,2.5,1.7
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Collin Sexton,Over,1.5,2.58
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Collin Sexton,Under,1.5,1.48
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Sandro Mamukelashvili,Over,1.5,2.67
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Sandro Mamukelashvili,Under,1.5,1.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Matisse Thybulle,Over,1.5,2.18
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Matisse Thybulle,Under,1.5,1.65
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Jake LaRavia,Over,0.5,1.57
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betonlineag,player_threes,Jake LaRavia,Under,0.5,2.34
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Matisse Thybulle,Over,1.5,2.24
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Matisse Thybulle,Under,1.5,1.63
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Immanuel Quickley,Over,2.5,1.88
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Immanuel Quickley,Under,2.5,1.88
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,R.J. Barrett,Over,1.5,1.96
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,R.J. Barrett,Under,1.5,1.82
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Luka Doncic,Over,4.5,2.04
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Luka Doncic,Under,4.5,1.76
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Scottie Barnes,Over,1.5,3.0
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Scottie Barnes,Under,1.5,1.38
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Austin Reaves,Over,2.5,2.46
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Austin Reaves,Under,2.5,1.54
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Sandro Mamukelashvili,Over,1.5,2.68
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Sandro Mamukelashvili,Under,1.5,1.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Ja'Kobe Walter,Over,2.5,2.06
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,fanduel,player_threes,Ja'Kobe Walter,Under,2.5,1.74
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Austin Reaves,Over,2.5,2.45
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Austin Reaves,Under,2.5,1.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Immanuel Quickley,Over,2.5,1.96
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Immanuel Quickley,Under,2.5,1.76
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Matisse Thybulle,Over,1.5,2.33
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Matisse Thybulle,Under,1.5,1.55
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Collin Murray-Boyles,Over,0.5,2.08
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Collin Murray-Boyles,Under,0.5,1.68
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,R.J. Barrett,Over,1.5,1.88
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,R.J. Barrett,Under,1.5,1.83
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Collin Sexton,Over,1.5,2.6
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Collin Sexton,Under,1.5,1.44
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Scottie Barnes,Over,0.5,1.49
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Scottie Barnes,Under,0.5,2.48
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Ja'Kobe Walter,Over,2.5,2.23
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Ja'Kobe Walter,Under,2.5,1.6
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Sandro Mamukelashvili,Over,1.5,2.5
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Sandro Mamukelashvili,Under,1.5,1.48
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Luka Doncic,Over,4.5,2.08
+2026-11-02T01:32:38Z,37.4,31fc89cbf3846e545e8e41a543a71d24,2026-11-02T02:10:00Z,Toronto Raptors,Los Angeles Lakers,betrivers,player_threes,Luka Doncic,Under,4.5,1.68
