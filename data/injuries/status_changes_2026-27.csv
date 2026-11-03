@@ -1208,3 +1208,11 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-02 19:30,2026-11-03 00:30,2026-11-02,07:30,CHI@PHI,Philadelphia 76ers,Joel Embiid,Available,Questionable,Injury/Illness - Right Foot Plantar Fascia Injury Management,status
 2026-11-02 19:30,2026-11-03 00:30,2026-11-02,08:00,MIL@MIN,Minnesota Timberwolves,LaMelo Ball,Available,Questionable,Injury/Illness - Right Wrist Contusion,status
 2026-11-02 19:30,2026-11-03 00:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Reed Sheppard,Available,Questionable,Injury/Illness - Low Back Strain,status
+2026-11-02 20:30,2026-11-03 01:30,2026-11-02,10:00,PHX@GSW,Golden State Warriors,Brandon Williams,Out,Questionable,Injury/Illness - Left Quadriceps Contusion,status
+2026-11-02 21:15,2026-11-03 02:15,2026-11-02,09:00,POR@DEN,Denver Nuggets,Alpha Diallo,Available,Questionable,Injury/Illness - Right Wrist Sprain,status
+2026-11-02 21:15,2026-11-03 02:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Scottie Barnes,Probable,Questionable,Injury/Illness - Left Hip Soreness / Tightness,status
+2026-11-02 21:15,2026-11-03 02:15,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Jakob Poeltl,Doubtful,Questionable,Injury/Illness - Left Shoulder Bursitis,status
+2026-11-02 21:30,2026-11-03 02:30,2026-11-02,10:00,PHX@GSW,Phoenix Suns,Duop Reath,Out,,G League - Two-Way,new
+2026-11-02 21:30,2026-11-03 02:30,2026-11-02,10:00,PHX@GSW,Phoenix Suns,Pat Spencer,Out,,G League - Two-Way,new
+2026-11-02 21:30,2026-11-03 02:30,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Scottie Barnes,Available,Probable,Injury/Illness - Left Hip Soreness / Tightness,status
+2026-11-02 21:30,2026-11-03 02:30,2026-11-02,10:00,TOR@LAC,Toronto Raptors,Jakob Poeltl,Out,Doubtful,Injury/Illness - Left Shoulder Bursitis,status
