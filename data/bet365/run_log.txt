@@ -178,3 +178,22 @@ props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no
 Games to collect this run: 0
 props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
 
+2026-11-03T10:56:36Z | board: 139 basketball matches, 4 new NBA fixtures recorded
+Games to collect this run: 15
+  OKC Thunder @ CLE Cavaliers: 7031 3PM price points (0 O/U, 0 O/U players), 91 closes, 13 players
+  DET Pistons @ CHA Hornets: 6213 3PM price points (0 O/U, 0 O/U players), 105 closes, 15 players
+  ATL Hawks @ IND Pacers: 6798 3PM price points (0 O/U, 0 O/U players), 98 closes, 13 players
+  BKN Nets @ NY Knicks: 8375 3PM price points (0 O/U, 0 O/U players), 108 closes, 16 players
+  WAS Wizards @ ORL Magic: 5867 3PM price points (0 O/U, 0 O/U players), 91 closes, 13 players
+  CHI Bulls @ PHI 76ers: 7056 3PM price points (0 O/U, 0 O/U players), 87 closes, 12 players
+  SAC Kings @ DAL Mavericks: 6328 3PM price points (0 O/U, 0 O/U players), 86 closes, 12 players
+  NO Pelicans @ MEM Grizzlies: 9005 3PM price points (0 O/U, 0 O/U players), 108 closes, 17 players
+  MIL Bucks @ MIN Timberwolves: 6111 3PM price points (0 O/U, 0 O/U players), 101 closes, 14 players
+  BOS Celtics @ HOU Rockets: 5506 3PM price points (0 O/U, 0 O/U players), 100 closes, 13 players
+  UTA Jazz @ SA Spurs: 7541 3PM price points (0 O/U, 0 O/U players), 100 closes, 14 players
+  POR Trail Blazers @ DEN Nuggets: 7772 3PM price points (0 O/U, 0 O/U players), 102 closes, 14 players
+  PHX Suns @ GS Warriors: 5701 3PM price points (0 O/U, 0 O/U players), 102 closes, 14 players
+  TOR Raptors @ LA Clippers: 7249 3PM price points (0 O/U, 0 O/U players), 103 closes, 14 players
+  MIA Heat @ LA Lakers: 8444 3PM price points (0 O/U, 0 O/U players), 97 closes, 14 players
+props: 15 games collected ({'points': 107172, 'rebounds': 85756, 'assists': 61218}), 0 with no prop data
+
