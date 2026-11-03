@@ -197,3 +197,7 @@ Games to collect this run: 15
   MIA Heat @ LA Lakers: 8444 3PM price points (0 O/U, 0 O/U players), 97 closes, 14 players
 props: 15 games collected ({'points': 107172, 'rebounds': 85756, 'assists': 61218}), 0 with no prop data
 
+2026-11-03T16:57:41Z | board: 223 basketball matches, 1 new NBA fixtures recorded
+Games to collect this run: 0
+props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
+
