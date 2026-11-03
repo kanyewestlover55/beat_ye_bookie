@@ -1186,3 +1186,25 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-02 16:00,2026-11-02 21:00,2026-11-02,10:00,TOR@LAC,LA Clippers,Yanic Konan Niederhauser,Out,,Injury/Illness - Right Lisfranc Surgery,new
 2026-11-02 16:30,2026-11-02 21:30,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Keshon Gilbert,Out,Doubtful,G League - Two-Way,status
 2026-11-02 16:30,2026-11-02 21:30,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Jalen Wilson,Out,Doubtful,G League - Two-Way,status
+2026-11-02 17:30,2026-11-02 22:30,2026-11-02,08:00,NOP@MEM,New Orleans Pelicans,Dejounte Murray,Out,Questionable,Personal Reasons,status
+2026-11-02 17:45,2026-11-02 22:45,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Tobe Awaka,Available,Probable,-,status
+2026-11-02 17:45,2026-11-02 22:45,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Nic Claxton,Out,Doubtful,Injury/Illness - Left Hamstring Strain,status
+2026-11-02 17:45,2026-11-02 22:45,2026-11-02,07:30,CHI@PHI,Chicago Bulls,Jalen Smith,Available,Probable,-,status
+2026-11-02 17:45,2026-11-02 22:45,2026-11-02,08:00,SAC@DAL,Sacramento Kings,Dylan Cardwell,Doubtful,Questionable,Injury/Illness - Left Calf Strain,status
+2026-11-02 18:00,2026-11-02 23:00,2026-11-02,07:30,ATL@IND,Atlanta Hawks,Jalen Johnson,Out,Questionable,Injury/Illness - Left Ankle Sprain,status
+2026-11-02 18:00,2026-11-02 23:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Larry Nance Jr.,Out,Doubtful,Injury/Illness - Illness,status
+2026-11-02 18:00,2026-11-02 23:00,2026-11-02,07:30,ATL@IND,Indiana Pacers,Obi Toppin,Out,Questionable,Injury/Illness - Lumbar Sprain,status
+2026-11-02 18:15,2026-11-02 23:15,2026-11-02,07:30,BKN@NYK,New York Knicks,Jose Alvarado,Available,Questionable,Injury/Illness - Left Ankle Sprain,status
+2026-11-02 18:30,2026-11-02 23:30,2026-11-02,08:00,MIL@MIN,Minnesota Timberwolves,Terrence Shannon Jr,Out,Questionable,Injury/Illness - Left Hip Contusion,status
+2026-11-02 18:30,2026-11-02 23:30,2026-11-02,08:00,SAC@DAL,Sacramento Kings,Dylan Cardwell,Out,Doubtful,Injury/Illness - Left Calf Strain,status
+2026-11-02 18:30,2026-11-02 23:30,2026-11-02,08:30,UTA@SAS,Utah Jazz,Kobe Bufkin,Available,Questionable,G League - Two-Way,status
+2026-11-02 18:45,2026-11-02 23:45,2026-11-02,07:00,OKC@CLE,Cleveland Cavaliers,Peyton Watson,Out,Questionable,Injury/Illness - Right Hamstring Tightness / Soreness,status
+2026-11-02 18:45,2026-11-02 23:45,2026-11-02,08:00,SAC@DAL,Dallas Mavericks,Santi Aldama,Out,Doubtful,Injury/Illness - Right Knee Surgery,status
+2026-11-02 18:45,2026-11-02 23:45,2026-11-02,08:00,SAC@DAL,Dallas Mavericks,Kyrie Irving,Out,Doubtful,Injury/Illness - Left Knee Injury Management,status
+2026-11-02 19:00,2026-11-03 00:00,2026-11-02,08:00,SAC@DAL,Sacramento Kings,Zach LaVine,Available,Questionable,-,status
+2026-11-02 19:15,2026-11-03 00:15,2026-11-02,08:00,NOP@MEM,Memphis Grizzlies,Scotty Pippen Jr.,Out,Doubtful,Injury/Illness - Low Back Soreness,status
+2026-11-02 19:15,2026-11-03 00:15,2026-11-02,08:00,NOP@MEM,Memphis Grizzlies,Quinten Post,Out,Questionable,Injury/Illness - Right Ankle Sprain,status
+2026-11-02 19:15,2026-11-03 00:15,2026-11-02,08:00,NOP@MEM,Memphis Grizzlies,Javon Small,Out,,G League - Two-Way,new
+2026-11-02 19:30,2026-11-03 00:30,2026-11-02,07:30,CHI@PHI,Philadelphia 76ers,Joel Embiid,Available,Questionable,Injury/Illness - Right Foot Plantar Fascia Injury Management,status
+2026-11-02 19:30,2026-11-03 00:30,2026-11-02,08:00,MIL@MIN,Minnesota Timberwolves,LaMelo Ball,Available,Questionable,Injury/Illness - Right Wrist Contusion,status
+2026-11-02 19:30,2026-11-03 00:30,2026-11-02,08:30,BOS@HOU,Houston Rockets,Reed Sheppard,Available,Questionable,Injury/Illness - Low Back Strain,status
