@@ -9209,3 +9209,605 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-04T23:17:58Z,42.0,91df86557819598ca270ba35410cfcfa,2026-11-05T00:00:00Z,Philadelphia 76ers,Detroit Pistons,betonlineag,player_threes,Anfernee Simons,Under,1.5,2.3
 2026-11-04T23:17:58Z,42.0,91df86557819598ca270ba35410cfcfa,2026-11-05T00:00:00Z,Philadelphia 76ers,Detroit Pistons,betonlineag,player_threes,Javonte Green,Over,0.5,1.44
 2026-11-04T23:17:58Z,42.0,91df86557819598ca270ba35410cfcfa,2026-11-05T00:00:00Z,Philadelphia 76ers,Detroit Pistons,betonlineag,player_threes,Javonte Green,Under,0.5,2.69
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Kyshawn George,Over,1.5,1.68
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Kyshawn George,Under,1.5,2.14
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,AJ Dybantsa,Over,1.5,2.24
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,AJ Dybantsa,Under,1.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,C.J. McCollum,Over,1.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,C.J. McCollum,Under,1.5,2.44
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Trae Young,Over,2.5,2.46
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Trae Young,Under,2.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Aaron Wiggins,Over,2.5,2.36
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Aaron Wiggins,Under,2.5,1.57
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Luguentz Dort,Over,1.5,1.72
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Luguentz Dort,Under,1.5,2.08
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Nickeil Alexander-Walker,Over,3.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Nickeil Alexander-Walker,Under,3.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Onyeka Okongwu,Over,1.5,1.76
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,fanduel,player_threes,Onyeka Okongwu,Under,1.5,2.04
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Nickeil Alexander-Walker,Over,3.5,2.2
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Nickeil Alexander-Walker,Under,3.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Aaron Wiggins,Over,2.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Aaron Wiggins,Under,2.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Trae Young,Over,1.5,1.55
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Trae Young,Under,1.5,2.37
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,C.J. McCollum,Over,1.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,C.J. McCollum,Under,1.5,2.35
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Luguentz Dort,Over,1.5,1.7
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Luguentz Dort,Under,1.5,2.09
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Kyshawn George,Over,1.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Kyshawn George,Under,1.5,2.03
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Onyeka Okongwu,Over,1.5,1.75
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Onyeka Okongwu,Under,1.5,2.01
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,AJ Dybantsa,Over,1.5,2.18
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,AJ Dybantsa,Under,1.5,1.64
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Tre Johnson,Over,1.5,2.35
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Tre Johnson,Under,1.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Kingston Flemings,Over,0.5,1.49
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Kingston Flemings,Under,0.5,2.55
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Alex Sarr,Over,0.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Alex Sarr,Under,0.5,2.2
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Anthony Davis,Over,0.5,1.85
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Anthony Davis,Under,0.5,1.9
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Bilal Coulibaly,Over,0.5,1.88
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Bilal Coulibaly,Under,0.5,1.87
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Dyson Daniels,Over,0.5,2.27
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,draftkings,player_threes,Dyson Daniels,Under,0.5,1.6
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Kyshawn George,Over,1.5,1.67
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Kyshawn George,Under,1.5,2.1
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,AJ Dybantsa,Over,1.5,2.0
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,AJ Dybantsa,Under,1.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Trae Young,Over,2.5,2.35
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Trae Young,Under,2.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Nickeil Alexander-Walker,Over,3.5,2.15
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Nickeil Alexander-Walker,Under,3.5,1.65
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Alex Sarr,Over,0.5,1.57
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Alex Sarr,Under,0.5,2.3
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Tre Johnson,Over,1.5,2.35
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Tre Johnson,Under,1.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Bilal Coulibaly,Over,0.5,1.71
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Bilal Coulibaly,Under,0.5,2.05
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,C.J. McCollum,Over,1.5,1.61
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,C.J. McCollum,Under,1.5,2.25
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Kingston Flemings,Over,0.5,1.45
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betmgm,player_threes,Kingston Flemings,Under,0.5,2.6
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Trae Young,Over,2.5,2.48
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Trae Young,Under,2.5,1.49
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Luguentz Dort,Over,1.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Luguentz Dort,Under,1.5,2.17
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Kingston Flemings,Over,0.5,1.53
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Kingston Flemings,Under,0.5,2.38
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,AJ Dybantsa,Over,1.5,2.0
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,AJ Dybantsa,Under,1.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Tre Johnson,Over,1.5,2.17
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Tre Johnson,Under,1.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Anthony Davis,Over,0.5,1.71
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Anthony Davis,Under,0.5,2.04
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Onyeka Okongwu,Over,1.5,1.78
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Onyeka Okongwu,Under,1.5,1.94
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Aaron Wiggins,Over,2.5,2.17
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Aaron Wiggins,Under,2.5,1.62
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Kyshawn George,Over,1.5,1.67
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Kyshawn George,Under,1.5,2.1
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Nickeil Alexander-Walker,Over,2.5,1.68
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Nickeil Alexander-Walker,Under,2.5,2.08
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Alex Sarr,Over,0.5,1.62
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betrivers,player_threes,Alex Sarr,Under,0.5,2.2
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Aaron Wiggins,Over,1.5,1.45
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Aaron Wiggins,Under,1.5,2.65
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Aaron Wiggins,Over,2.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Aaron Wiggins,Under,2.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,AJ Dybantsa,Over,1.5,2.2
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,AJ Dybantsa,Under,1.5,1.62
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Alex Sarr,Over,0.5,1.62
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Alex Sarr,Under,0.5,2.2
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Anthony Davis,Over,0.5,2.05
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Anthony Davis,Under,0.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Bilal Coulibaly,Over,0.5,1.95
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Bilal Coulibaly,Under,0.5,1.8
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,C.J. McCollum,Over,1.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,C.J. McCollum,Under,1.5,2.35
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,C.J. McCollum,Over,2.5,2.7
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,C.J. McCollum,Under,2.5,1.43
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Dyson Daniels,Over,0.5,2.3
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Dyson Daniels,Under,0.5,1.59
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Kingston Flemings,Over,0.5,1.53
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Kingston Flemings,Under,0.5,2.45
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Kyshawn George,Over,1.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Kyshawn George,Under,1.5,2.05
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Luguentz Dort,Over,1.5,1.69
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Luguentz Dort,Under,1.5,2.1
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Luguentz Dort,Over,2.5,3.1
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Luguentz Dort,Under,2.5,1.34
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Nickeil Alexander-Walker,Over,2.5,1.5
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Nickeil Alexander-Walker,Under,2.5,2.5
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Nickeil Alexander-Walker,Over,3.5,2.25
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Nickeil Alexander-Walker,Under,3.5,1.61
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Onyeka Okongwu,Over,1.5,1.74
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Onyeka Okongwu,Under,1.5,2.05
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Trae Young,Over,1.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Trae Young,Under,1.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Trae Young,Over,2.5,2.65
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Trae Young,Under,2.5,1.45
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Tre Johnson,Over,1.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,bovada,player_threes,Tre Johnson,Under,1.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Kyshawn George,Over,1.5,1.7
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Kyshawn George,Under,1.5,2.1
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Onyeka Okongwu,Over,1.5,1.73
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Onyeka Okongwu,Under,1.5,2.06
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Nickeil Alexander-Walker,Over,3.5,2.28
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Nickeil Alexander-Walker,Under,3.5,1.6
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Tre Johnson,Over,1.5,2.36
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Tre Johnson,Under,1.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Alex Sarr,Over,0.5,1.63
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Alex Sarr,Under,0.5,2.22
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Aaron Wiggins,Over,2.5,2.4
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Aaron Wiggins,Under,2.5,1.54
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Anthony Davis,Over,0.5,1.77
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Anthony Davis,Under,0.5,2.0
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Luguentz Dort,Over,1.5,1.71
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Luguentz Dort,Under,1.5,2.08
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Trae Young,Over,2.5,2.36
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Trae Young,Under,2.5,1.56
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,AJ Dybantsa,Over,1.5,2.13
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,AJ Dybantsa,Under,1.5,1.68
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Dyson Daniels,Over,0.5,2.46
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Dyson Daniels,Under,0.5,1.52
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Bilal Coulibaly,Over,0.5,1.82
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Bilal Coulibaly,Under,0.5,1.94
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,C.J. McCollum,Over,1.5,1.57
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,C.J. McCollum,Under,1.5,2.34
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Kingston Flemings,Over,0.5,1.55
+2026-11-04T23:57:27Z,12.5,05200821a78e4f6db8131cff1652550f,2026-11-05T00:10:00Z,Atlanta Hawks,Washington Wizards,betonlineag,player_threes,Kingston Flemings,Under,0.5,2.38
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Grayson Allen,Over,2.5,2.3
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Grayson Allen,Under,2.5,1.6
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Brandon Miller,Over,3.5,2.02
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Brandon Miller,Under,3.5,1.77
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Kon Knueppel,Over,2.5,2.24
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Kon Knueppel,Under,2.5,1.63
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Naz Reid,Over,2.5,2.38
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Naz Reid,Under,2.5,1.56
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Julius Randle,Over,1.5,2.0
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Julius Randle,Under,1.5,1.78
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Over,2.5,1.77
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Under,2.5,2.02
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Mikel Brown Jr.,Over,1.5,1.72
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Mikel Brown Jr.,Under,1.5,2.08
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Nolan Traore,Over,1.5,2.26
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Nolan Traore,Under,1.5,1.62
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Coby White,Over,1.5,1.68
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,fanduel,player_threes,Coby White,Under,1.5,2.14
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Brandon Miller,Over,3.5,2.01
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Brandon Miller,Under,3.5,1.75
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Over,2.5,1.66
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Under,2.5,2.16
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Kon Knueppel,Over,2.5,2.17
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Kon Knueppel,Under,2.5,1.65
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Naz Reid,Over,2.5,2.31
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Naz Reid,Under,2.5,1.57
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Grayson Allen,Over,2.5,2.39
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Grayson Allen,Under,2.5,1.54
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Coby White,Over,1.5,1.66
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Coby White,Under,1.5,2.15
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Mikel Brown Jr.,Over,1.5,1.7
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Mikel Brown Jr.,Under,1.5,2.09
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Julius Randle,Over,1.5,1.89
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Julius Randle,Under,1.5,1.85
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Nolan Traore,Over,1.5,2.21
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Nolan Traore,Under,1.5,1.62
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Noah Clowney,Over,0.5,1.45
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Noah Clowney,Under,0.5,2.67
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Moritz Wagner,Over,0.5,1.58
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,draftkings,player_threes,Moritz Wagner,Under,0.5,2.31
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Grayson Allen,Over,2.5,2.25
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Grayson Allen,Under,2.5,1.57
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Dennis Schroder,Over,0.5,1.6
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Dennis Schroder,Under,0.5,2.23
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Noah Clowney,Over,0.5,1.49
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Noah Clowney,Under,0.5,2.48
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Moritz Wagner,Over,0.5,1.54
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Moritz Wagner,Under,0.5,2.35
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Brandon Miller,Over,3.5,2.07
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Brandon Miller,Under,3.5,1.7
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Nolan Traore,Over,1.5,2.3
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Nolan Traore,Under,1.5,1.56
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Julius Randle,Over,1.5,2.0
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Julius Randle,Under,1.5,1.73
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Coby White,Over,1.5,1.73
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Coby White,Under,1.5,2.02
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Mikel Brown Jr.,Over,1.5,1.68
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Mikel Brown Jr.,Under,1.5,2.08
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Over,2.5,1.68
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Under,2.5,2.08
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Naz Reid,Over,2.5,2.33
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Naz Reid,Under,2.5,1.55
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Kon Knueppel,Over,2.5,2.25
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betrivers,player_threes,Kon Knueppel,Under,2.5,1.57
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Julius Randle,Over,1.5,2.0
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Julius Randle,Under,1.5,1.74
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Naz Reid,Over,2.5,2.2
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Naz Reid,Under,2.5,1.62
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Kon Knueppel,Over,2.5,2.15
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Kon Knueppel,Under,2.5,1.65
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Brandon Miller,Over,3.5,1.95
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Brandon Miller,Under,3.5,1.8
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Coby White,Over,1.5,1.71
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Coby White,Under,1.5,2.05
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Over,2.5,1.69
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Under,2.5,2.05
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Nolan Traore,Over,1.5,2.05
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Nolan Traore,Under,1.5,1.71
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Grayson Allen,Over,2.5,2.4
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Grayson Allen,Under,2.5,1.53
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Mikel Brown Jr.,Over,1.5,1.71
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Mikel Brown Jr.,Under,1.5,2.05
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Moritz Wagner,Over,0.5,1.53
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Moritz Wagner,Under,0.5,2.4
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Noah Clowney,Over,0.5,1.48
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betmgm,player_threes,Noah Clowney,Under,0.5,2.55
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Brandon Miller,Over,2.5,1.4
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Brandon Miller,Under,2.5,2.85
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Brandon Miller,Over,3.5,2.0
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Brandon Miller,Under,3.5,1.77
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Coby White,Over,1.5,1.67
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Coby White,Under,1.5,2.15
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Coby White,Over,2.5,2.9
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Coby White,Under,2.5,1.38
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Grayson Allen,Over,1.5,1.45
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Grayson Allen,Under,1.5,2.65
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Grayson Allen,Over,2.5,2.4
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Grayson Allen,Under,2.5,1.54
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Julius Randle,Over,1.5,1.91
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Julius Randle,Under,1.5,1.83
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Kon Knueppel,Over,1.5,1.4
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Kon Knueppel,Under,1.5,2.85
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Kon Knueppel,Over,2.5,2.2
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Kon Knueppel,Under,2.5,1.62
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,2.5,1.67
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,2.5,2.15
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,3.5,2.6
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,3.5,1.47
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Over,1.5,1.69
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Under,1.5,2.1
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Over,2.5,3.1
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Under,2.5,1.34
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Moritz Wagner,Over,0.5,1.59
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Moritz Wagner,Under,0.5,2.3
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Naz Reid,Over,1.5,1.42
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Naz Reid,Under,1.5,2.75
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Naz Reid,Over,2.5,2.3
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Naz Reid,Under,2.5,1.59
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Noah Clowney,Over,0.5,1.43
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Noah Clowney,Under,0.5,2.7
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Noah Clowney,Over,1.5,3.05
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Noah Clowney,Under,1.5,1.36
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Nolan Traore,Over,1.5,2.2
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,bovada,player_threes,Nolan Traore,Under,1.5,1.62
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Over,2.5,1.71
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Under,2.5,2.08
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Over,1.5,2.1
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Under,1.5,1.7
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Brandon Miller,Over,3.5,2.17
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Brandon Miller,Under,3.5,1.66
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Naz Reid,Over,2.5,2.3
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Naz Reid,Under,2.5,1.59
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Kon Knueppel,Over,2.5,2.18
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Kon Knueppel,Under,2.5,1.65
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Coby White,Over,1.5,1.68
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Coby White,Under,1.5,2.14
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Grayson Allen,Over,2.5,2.36
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Grayson Allen,Under,2.5,1.56
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Dennis Schroder,Over,0.5,1.61
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Dennis Schroder,Under,0.5,2.26
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Nolan Traore,Over,1.5,2.32
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Nolan Traore,Under,1.5,1.58
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Mikel Brown Jr.,Over,1.5,1.72
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Mikel Brown Jr.,Under,1.5,2.07
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Moritz Wagner,Over,0.5,1.7
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Moritz Wagner,Under,0.5,2.1
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Noah Clowney,Over,0.5,1.51
+2026-11-04T23:57:27Z,32.5,6b33f8632d4dd100cba8453db82213fa,2026-11-05T00:30:00Z,Charlotte Hornets,Brooklyn Nets,betonlineag,player_threes,Noah Clowney,Under,0.5,2.49
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Paul George,Over,3.5,2.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Paul George,Under,3.5,1.69
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Payton Pritchard,Over,2.5,1.59
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Payton Pritchard,Under,2.5,2.28
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Tyler Herro,Over,2.5,1.84
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Tyler Herro,Under,2.5,1.91
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Derrick White,Over,2.5,2.02
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Derrick White,Under,2.5,1.75
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Sam Hauser,Over,2.5,2.38
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Sam Hauser,Under,2.5,1.55
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Baylor Scheierman,Over,1.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Baylor Scheierman,Under,1.5,2.35
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,A.J. Green,Over,1.5,1.68
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,A.J. Green,Under,1.5,2.11
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Myles Turner,Over,1.5,2.07
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Myles Turner,Under,1.5,1.71
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Brayden Burries,Over,1.5,2.24
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Brayden Burries,Under,1.5,1.61
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Ryan Rollins,Over,1.5,2.36
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Ryan Rollins,Under,1.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Jaime Jaquez Jr,Over,1.5,2.55
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Jaime Jaquez Jr,Under,1.5,1.49
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Kyle Kuzma,Over,0.5,1.49
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Kyle Kuzma,Under,0.5,2.54
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Kel'el Ware,Over,0.5,1.61
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Kel'el Ware,Under,0.5,2.25
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Hugo Gonzalez,Over,0.5,1.66
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,draftkings,player_threes,Hugo Gonzalez,Under,0.5,2.15
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Payton Pritchard,Over,2.5,1.71
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Payton Pritchard,Under,2.5,2.08
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,A.J. Green,Over,1.5,1.66
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,A.J. Green,Under,1.5,2.16
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Ryan Rollins,Over,1.5,2.18
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Ryan Rollins,Under,1.5,1.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Derrick White,Over,2.5,2.06
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Derrick White,Under,2.5,1.73
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Kel'el Ware,Over,0.5,1.67
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Kel'el Ware,Under,0.5,2.15
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Myles Turner,Over,1.5,2.03
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Myles Turner,Under,1.5,1.75
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Tyler Herro,Over,2.5,1.79
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Tyler Herro,Under,2.5,1.98
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Brayden Burries,Over,1.5,2.24
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Brayden Burries,Under,1.5,1.62
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Kyle Kuzma,Over,1.5,2.78
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Kyle Kuzma,Under,1.5,1.42
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Paul George,Over,3.5,2.24
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Paul George,Under,3.5,1.62
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Baylor Scheierman,Over,1.5,1.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Baylor Scheierman,Under,1.5,2.18
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Sam Hauser,Over,2.5,2.36
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Sam Hauser,Under,2.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Jaime Jaquez Jr,Over,1.5,2.52
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Jaime Jaquez Jr,Under,1.5,1.5
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Hugo Gonzalez,Over,0.5,1.64
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betonlineag,player_threes,Hugo Gonzalez,Under,0.5,2.21
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Derrick White,Over,2.5,2.05
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Derrick White,Under,2.5,1.69
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Paul George,Over,2.5,1.57
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Paul George,Under,2.5,2.3
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Myles Turner,Over,1.5,2.05
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Myles Turner,Under,1.5,1.71
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Brayden Burries,Over,1.5,2.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Brayden Burries,Under,1.5,1.67
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Payton Pritchard,Over,2.5,1.8
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Payton Pritchard,Under,2.5,1.95
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kyle Kuzma,Over,1.5,2.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kyle Kuzma,Under,1.5,1.44
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Jaime Jaquez Jr,Over,0.5,1.45
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Jaime Jaquez Jr,Under,0.5,2.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Tyler Herro,Over,2.5,1.74
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Tyler Herro,Under,2.5,2.0
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Baylor Scheierman,Over,1.5,1.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Baylor Scheierman,Under,1.5,2.15
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Sam Hauser,Over,2.5,2.3
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Sam Hauser,Under,2.5,1.57
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,A.J. Green,Over,1.5,1.62
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,A.J. Green,Under,1.5,2.2
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Ryan Rollins,Over,1.5,2.0
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Ryan Rollins,Under,1.5,1.74
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kel'el Ware,Over,0.5,1.48
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kel'el Ware,Under,0.5,2.55
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kasparas Jakucionis,Over,0.5,1.5
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betmgm,player_threes,Kasparas Jakucionis,Under,0.5,2.5
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Paul George,Over,3.5,2.28
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Paul George,Under,3.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Baylor Scheierman,Over,1.5,1.6
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Baylor Scheierman,Under,1.5,2.23
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Brayden Burries,Over,1.5,2.35
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Brayden Burries,Under,1.5,1.54
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Kyle Kuzma,Over,1.5,2.8
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Kyle Kuzma,Under,1.5,1.4
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Kel'el Ware,Over,0.5,1.57
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Kel'el Ware,Under,0.5,2.28
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Tyler Herro,Over,2.5,1.85
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Tyler Herro,Under,2.5,1.87
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Payton Pritchard,Over,2.5,1.77
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Payton Pritchard,Under,2.5,1.94
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Jaime Jaquez Jr,Over,0.5,1.42
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Jaime Jaquez Jr,Under,0.5,2.7
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Sam Hauser,Over,2.5,2.3
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Sam Hauser,Under,2.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Derrick White,Over,2.5,1.93
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Derrick White,Under,2.5,1.78
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Ryan Rollins,Over,1.5,2.08
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Ryan Rollins,Under,1.5,1.68
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Myles Turner,Over,1.5,2.05
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,Myles Turner,Under,1.5,1.7
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,A.J. Green,Over,1.5,1.61
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,betrivers,player_threes,A.J. Green,Under,1.5,2.2
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Jaime Jaquez Jr,Over,1.5,2.54
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Jaime Jaquez Jr,Under,1.5,1.49
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Ryan Rollins,Over,1.5,2.24
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Ryan Rollins,Under,1.5,1.62
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Kyle Kuzma,Over,1.5,2.86
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Kyle Kuzma,Under,1.5,1.41
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Myles Turner,Over,1.5,2.08
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Myles Turner,Under,1.5,1.72
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Tyler Herro,Over,2.5,1.82
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Tyler Herro,Under,2.5,1.96
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Brayden Burries,Over,1.5,2.34
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Brayden Burries,Under,1.5,1.58
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Paul George,Over,3.5,2.16
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,Paul George,Under,3.5,1.68
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,A.J. Green,Over,1.5,1.68
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,fanduel,player_threes,A.J. Green,Under,1.5,2.14
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,A.J. Green,Over,1.5,1.69
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,A.J. Green,Under,1.5,2.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,A.J. Green,Over,2.5,3.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,A.J. Green,Under,2.5,1.34
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Baylor Scheierman,Over,1.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Baylor Scheierman,Under,1.5,2.35
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Baylor Scheierman,Over,2.5,2.7
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Baylor Scheierman,Under,2.5,1.43
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Brayden Burries,Over,1.5,2.25
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Brayden Burries,Under,1.5,1.61
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Derrick White,Over,2.5,2.05
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Derrick White,Under,2.5,1.74
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Hugo Gonzalez,Over,0.5,1.67
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Hugo Gonzalez,Under,0.5,2.15
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Jaime Jaquez Jr,Over,1.5,2.55
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Jaime Jaquez Jr,Under,1.5,1.48
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Kel'el Ware,Over,0.5,1.61
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Kel'el Ware,Under,0.5,2.25
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Kyle Kuzma,Over,0.5,1.48
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Kyle Kuzma,Under,0.5,2.55
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Myles Turner,Over,1.5,2.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Myles Turner,Under,1.5,1.69
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Paul George,Over,2.5,1.43
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Paul George,Under,2.5,2.7
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Paul George,Over,3.5,2.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Paul George,Under,3.5,1.69
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Payton Pritchard,Over,2.5,1.59
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Payton Pritchard,Under,2.5,2.3
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Payton Pritchard,Over,3.5,2.45
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Payton Pritchard,Under,3.5,1.53
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Ryan Rollins,Over,1.5,2.35
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Ryan Rollins,Under,1.5,1.56
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Sam Hauser,Over,1.5,1.45
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Sam Hauser,Under,1.5,2.65
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Sam Hauser,Over,2.5,2.4
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Sam Hauser,Under,2.5,1.54
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Tyler Herro,Over,2.5,1.83
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Tyler Herro,Under,2.5,1.91
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Tyler Herro,Over,3.5,3.1
+2026-11-04T23:57:27Z,42.5,1cb12166c3eda270d40cc65b9b34459a,2026-11-05T00:40:00Z,Milwaukee Bucks,Boston Celtics,bovada,player_threes,Tyler Herro,Under,3.5,1.34
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Jalen Brunson,Over,2.5,2.09
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Jalen Brunson,Under,2.5,1.69
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Norman Powell,Over,2.5,2.12
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Norman Powell,Under,2.5,1.68
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,OG Anunoby,Over,2.5,2.31
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,OG Anunoby,Under,2.5,1.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Landry Shamet,Over,2.5,2.35
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Landry Shamet,Under,2.5,1.56
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Caleb Wilson,Over,1.5,1.55
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Caleb Wilson,Under,1.5,2.36
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Miles McBride,Over,1.5,1.63
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Miles McBride,Under,1.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Jalen Smith,Over,1.5,1.86
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Jalen Smith,Under,1.5,1.88
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Matas Buzelis,Over,1.5,1.88
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Matas Buzelis,Under,1.5,1.85
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Karl-Anthony Towns,Over,1.5,2.09
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Karl-Anthony Towns,Under,1.5,1.69
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Mikal Bridges,Over,1.5,2.17
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Mikal Bridges,Under,1.5,1.65
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Josh Giddey,Over,1.5,2.4
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,draftkings,player_threes,Josh Giddey,Under,1.5,1.54
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Jalen Brunson,Over,2.5,2.1
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Jalen Brunson,Under,2.5,1.7
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Mikal Bridges,Over,1.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Mikal Bridges,Under,1.5,1.64
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Josh Giddey,Over,1.5,2.36
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Josh Giddey,Under,1.5,1.56
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,OG Anunoby,Over,2.5,2.34
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,OG Anunoby,Under,2.5,1.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Matas Buzelis,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Matas Buzelis,Under,1.5,1.89
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Jalen Smith,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Jalen Smith,Under,1.5,1.89
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Karl-Anthony Towns,Over,1.5,2.07
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Karl-Anthony Towns,Under,1.5,1.72
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Caleb Wilson,Over,1.5,1.55
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Caleb Wilson,Under,1.5,2.38
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Norman Powell,Over,2.5,2.12
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Norman Powell,Under,2.5,1.69
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Landry Shamet,Over,1.5,1.48
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Landry Shamet,Under,1.5,2.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Miles McBride,Over,1.5,1.65
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betonlineag,player_threes,Miles McBride,Under,1.5,2.18
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Mikal Bridges,Over,1.5,2.25
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Mikal Bridges,Under,1.5,1.61
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,OG Anunoby,Over,2.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,OG Anunoby,Under,2.5,1.62
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Norman Powell,Over,2.5,2.05
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Norman Powell,Under,2.5,1.71
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Caleb Wilson,Over,1.5,1.48
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Caleb Wilson,Under,1.5,2.55
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Matas Buzelis,Over,1.5,1.83
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Matas Buzelis,Under,1.5,1.9
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Josh Giddey,Over,1.5,2.3
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Josh Giddey,Under,1.5,1.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Karl-Anthony Towns,Over,1.5,2.05
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Karl-Anthony Towns,Under,1.5,1.71
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Jalen Brunson,Over,2.5,2.0
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Jalen Brunson,Under,2.5,1.74
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Jalen Smith,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Jalen Smith,Under,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Miles McBride,Over,1.5,1.65
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betmgm,player_threes,Miles McBride,Under,1.5,2.15
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Landry Shamet,Over,2.5,2.35
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Landry Shamet,Under,2.5,1.54
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Jalen Smith,Over,1.5,1.83
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Jalen Smith,Under,1.5,1.88
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,OG Anunoby,Over,2.5,2.45
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,OG Anunoby,Under,2.5,1.5
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Mikal Bridges,Over,1.5,2.25
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Mikal Bridges,Under,1.5,1.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Miles McBride,Over,1.5,1.6
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Miles McBride,Under,1.5,2.23
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Matas Buzelis,Over,1.5,1.82
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Matas Buzelis,Under,1.5,1.89
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Caleb Wilson,Over,1.5,1.51
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Caleb Wilson,Under,1.5,2.38
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Josh Giddey,Over,1.5,2.38
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Josh Giddey,Under,1.5,1.51
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Jalen Brunson,Over,2.5,2.02
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Jalen Brunson,Under,2.5,1.73
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Karl-Anthony Towns,Over,1.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Karl-Anthony Towns,Under,1.5,1.6
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Norman Powell,Over,2.5,2.1
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,betrivers,player_threes,Norman Powell,Under,2.5,1.66
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Jalen Smith,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Jalen Smith,Under,1.5,1.9
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Norman Powell,Over,2.5,2.12
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Norman Powell,Under,2.5,1.7
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Caleb Wilson,Over,1.5,1.56
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Caleb Wilson,Under,1.5,2.4
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Jalen Brunson,Over,2.5,2.16
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Jalen Brunson,Under,2.5,1.68
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,OG Anunoby,Over,2.5,2.36
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,OG Anunoby,Under,2.5,1.57
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Matas Buzelis,Over,1.5,1.83
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Matas Buzelis,Under,1.5,1.96
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Josh Giddey,Over,1.5,2.42
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Josh Giddey,Under,1.5,1.54
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Karl-Anthony Towns,Over,1.5,2.12
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Karl-Anthony Towns,Under,1.5,1.7
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Mikal Bridges,Over,1.5,2.24
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,fanduel,player_threes,Mikal Bridges,Under,1.5,1.62
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Caleb Wilson,Over,1.5,1.56
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Caleb Wilson,Under,1.5,2.35
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Caleb Wilson,Over,2.5,2.7
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Caleb Wilson,Under,2.5,1.43
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Brunson,Over,1.5,1.36
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Brunson,Under,1.5,3.05
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Brunson,Over,2.5,2.1
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Brunson,Under,2.5,1.69
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Smith,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Jalen Smith,Under,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Josh Giddey,Over,1.5,2.4
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Josh Giddey,Under,1.5,1.54
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Karl-Anthony Towns,Over,1.5,2.1
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Karl-Anthony Towns,Under,1.5,1.69
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Landry Shamet,Over,1.5,1.45
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Landry Shamet,Under,1.5,2.65
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Landry Shamet,Over,2.5,2.35
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Landry Shamet,Under,2.5,1.56
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Matas Buzelis,Over,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Matas Buzelis,Under,1.5,1.87
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Mikal Bridges,Over,1.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Mikal Bridges,Under,1.5,1.62
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Miles McBride,Over,1.5,1.62
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Miles McBride,Under,1.5,2.2
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Miles McBride,Over,2.5,2.9
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Miles McBride,Under,2.5,1.38
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Norman Powell,Over,1.5,1.36
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Norman Powell,Under,1.5,3.0
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Norman Powell,Over,2.5,2.15
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,Norman Powell,Under,2.5,1.67
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,OG Anunoby,Over,1.5,1.42
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,OG Anunoby,Under,1.5,2.75
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,OG Anunoby,Over,2.5,2.3
+2026-11-04T23:57:27Z,42.5,87d2b814c3f0d3691e9cebbf2de76295,2026-11-05T00:40:00Z,Chicago Bulls,New York Knicks,bovada,player_threes,OG Anunoby,Under,2.5,1.59

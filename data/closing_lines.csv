@@ -3301,3 +3301,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-04T23:17:58Z,232.0,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Los Angeles Lakers,Sacramento Kings,betus,spreads,Sacramento Kings,12.0,1.91
 2026-11-04T23:17:58Z,232.0,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Los Angeles Lakers,Sacramento Kings,betus,totals,Over,233.5,1.91
 2026-11-04T23:17:58Z,232.0,29988f1011d7738962e13e0a0beb693f,2026-11-05T03:10:00Z,Los Angeles Lakers,Sacramento Kings,betus,totals,Under,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,fanduel,spreads,Los Angeles Clippers,5.5,1.93
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,fanduel,spreads,Miami Heat,-5.5,1.89
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,fanduel,totals,Over,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,fanduel,totals,Under,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,lowvig,spreads,Los Angeles Clippers,5.5,1.99
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,lowvig,spreads,Miami Heat,-5.5,1.9
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,lowvig,totals,Over,233.5,1.96
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,lowvig,totals,Under,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betonlineag,spreads,Los Angeles Clippers,5.5,1.95
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betonlineag,spreads,Miami Heat,-5.5,1.87
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betonlineag,totals,Over,233.5,1.93
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betonlineag,totals,Under,233.5,1.88
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,draftkings,spreads,Los Angeles Clippers,5.5,1.95
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,draftkings,spreads,Miami Heat,-5.5,1.87
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,draftkings,totals,Over,233.5,1.93
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,draftkings,totals,Under,233.5,1.89
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,bovada,spreads,Los Angeles Clippers,6.0,1.87
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,bovada,spreads,Miami Heat,-6.0,1.95
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,bovada,totals,Over,233.0,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,bovada,totals,Under,233.0,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betrivers,spreads,Los Angeles Clippers,6.5,1.87
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betrivers,spreads,Miami Heat,-6.5,1.94
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betrivers,totals,Over,232.5,1.88
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betrivers,totals,Under,232.5,1.93
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betmgm,spreads,Los Angeles Clippers,5.5,1.95
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betmgm,spreads,Miami Heat,-5.5,1.87
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betmgm,totals,Over,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betmgm,totals,Under,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,mybookieag,spreads,Los Angeles Clippers,5.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,mybookieag,spreads,Miami Heat,-5.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,mybookieag,totals,Over,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,mybookieag,totals,Under,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,spreads,Los Angeles Clippers,5.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,spreads,Miami Heat,-5.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,totals,Over,233.5,1.91
+2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,totals,Under,233.5,1.91
