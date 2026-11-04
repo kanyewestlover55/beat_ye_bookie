@@ -1335,3 +1335,15 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-03 20:00,2026-11-04 01:00,2026-11-04,10:30,MIA@LAC,Miami Heat,Giannis Antetokounmpo,Probable,,Injury/Illness - Right Wrist Sprain,new
 2026-11-03 20:00,2026-11-04 01:00,2026-11-04,10:30,MIA@LAC,Miami Heat,Myron Gardner,Questionable,,Injury/Illness - Right Quadriceps Contusion,new
 2026-11-03 20:00,2026-11-04 01:00,2026-11-04,10:30,MIA@LAC,Miami Heat,Dru Smith,Available,,Injury/Illness - Facial Laceration,new
+2026-11-04 12:30,2026-11-04 17:30,2026-11-04,07:00,ATL@WAS,Atlanta Hawks,RayJ Dennis,Doubtful,Questionable,G League - Two-Way,status
+2026-11-04 12:30,2026-11-04 17:30,2026-11-04,07:00,ATL@WAS,Washington Wizards,Bilal Coulibaly,Questionable,,Injury/Illness - Illness,new
+2026-11-04 12:30,2026-11-04 17:30,2026-11-04,07:00,PHI@DET,Detroit Pistons,Elijah Harkless,Out,Questionable,G League - Two-Way,status
+2026-11-04 12:30,2026-11-04 17:30,2026-11-04,07:00,PHI@DET,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-11-04 12:45,2026-11-04 17:45,2026-11-04,07:30,MIL@BOS,Milwaukee Bucks,Kam Jones,Questionable,,Injury/Illness - Right Ankle Sprain,new
+2026-11-04 12:45,2026-11-04 17:45,2026-11-04,07:30,MIL@BOS,Boston Celtics,Jayson Tatum,Out,Questionable,Rest,status
+2026-11-04 13:00,2026-11-04 18:00,2026-11-04,07:30,CHA@BKN,Charlotte Hornets,Kon Knueppel,Available,Probable,Injury/Illness - Left Hamstring Strain,status
+2026-11-04 13:00,2026-11-04 18:00,2026-11-04,07:30,CHI@NYK,New York Knicks,Josh Hart,Out,Questionable,Injury/Illness - Right Ankle Soreness,status
+2026-11-04 13:15,2026-11-04 18:15,2026-11-04,08:30,MIN@HOU,Minnesota Timberwolves,Terrence Shannon Jr,Out,Questionable,Injury/Illness - Left Hip Contusion,status
+2026-11-04 13:30,2026-11-04 18:30,2026-11-04,08:00,UTA@NOP,New Orleans Pelicans,Trey Murphy III,Questionable,Probable,Injury/Illness - Bilateral Patella Tendinopathy,status
+2026-11-04 13:30,2026-11-04 18:30,2026-11-04,08:00,UTA@NOP,New Orleans Pelicans,Julian Reese,Available,Probable,G League - Two-Way,status
+2026-11-04 13:30,2026-11-04 18:30,2026-11-04,08:30,MIN@HOU,Houston Rockets,Clint Capela,Out,Questionable,Injury/Illness - Right Ankle Sprain,status
