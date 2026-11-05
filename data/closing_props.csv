@@ -10291,3 +10291,379 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-05T00:59:19Z,30.7,b2557f74f4d7675ed3b76a4a064e0bc9,2026-11-05T01:30:00Z,Minnesota Timberwolves,Houston Rockets,betonlineag,player_threes,Marcus Smart,Under,1.5,1.57
 2026-11-05T00:59:19Z,30.7,b2557f74f4d7675ed3b76a4a064e0bc9,2026-11-05T01:30:00Z,Minnesota Timberwolves,Houston Rockets,betonlineag,player_threes,Bones Hyland,Over,1.5,1.93
 2026-11-05T00:59:19Z,30.7,b2557f74f4d7675ed3b76a4a064e0bc9,2026-11-05T01:30:00Z,Minnesota Timberwolves,Houston Rockets,betonlineag,player_threes,Bones Hyland,Under,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Cameron Johnson,Over,1.5,1.61
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Cameron Johnson,Under,1.5,2.25
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Ja'Kobe Walter,Over,2.5,1.95
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Ja'Kobe Walter,Under,2.5,1.8
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Jamal Murray,Over,3.5,2.2
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Jamal Murray,Under,3.5,1.62
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,R.J. Barrett,Over,1.5,1.71
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,R.J. Barrett,Under,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Christian Braun,Over,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Christian Braun,Under,1.5,1.71
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Nikola Jokic,Over,1.5,1.91
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Nikola Jokic,Under,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Immanuel Quickley,Over,2.5,1.67
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Immanuel Quickley,Under,2.5,2.1
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Aaron Gordon,Over,1.5,1.91
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betmgm,player_threes,Aaron Gordon,Under,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Jamal Shead,Over,0.5,1.51
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Jamal Shead,Under,0.5,2.43
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Jamal Murray,Over,3.5,2.15
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Jamal Murray,Under,3.5,1.64
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Christian Braun,Over,1.5,2.18
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Christian Braun,Under,1.5,1.61
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Nikola Jokic,Over,1.5,1.93
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Nikola Jokic,Under,1.5,1.79
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Aaron Gordon,Over,1.5,1.88
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Aaron Gordon,Under,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Ja'Kobe Walter,Over,2.5,2.0
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Ja'Kobe Walter,Under,2.5,1.73
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Immanuel Quickley,Over,2.5,1.73
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Immanuel Quickley,Under,2.5,2.0
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,R.J. Barrett,Over,1.5,1.72
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,R.J. Barrett,Under,1.5,2.04
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Cameron Johnson,Over,1.5,1.6
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Cameron Johnson,Under,1.5,2.23
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Scottie Barnes,Over,0.5,1.57
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betrivers,player_threes,Scottie Barnes,Under,0.5,2.25
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Nikola Jokic,Over,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Nikola Jokic,Under,1.5,1.74
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Jamal Murray,Over,2.5,1.62
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Jamal Murray,Under,2.5,2.23
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Scottie Barnes,Over,0.5,1.55
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Scottie Barnes,Under,0.5,2.39
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Aaron Gordon,Over,1.5,1.87
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Aaron Gordon,Under,1.5,1.89
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Christian Braun,Over,1.5,2.2
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Christian Braun,Under,1.5,1.64
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,R.J. Barrett,Over,1.5,1.77
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,R.J. Barrett,Under,1.5,2.0
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Ja'Kobe Walter,Over,2.5,1.99
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Ja'Kobe Walter,Under,2.5,1.78
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Immanuel Quickley,Over,2.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Immanuel Quickley,Under,2.5,1.93
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Cameron Johnson,Over,1.5,1.61
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Cameron Johnson,Under,1.5,2.25
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Collin Murray-Boyles,Over,0.5,1.68
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Collin Murray-Boyles,Under,0.5,2.13
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Jamal Shead,Over,0.5,1.6
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,betonlineag,player_threes,Jamal Shead,Under,0.5,2.28
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Jamal Murray,Over,2.5,1.65
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Jamal Murray,Under,2.5,2.16
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Immanuel Quickley,Over,2.5,1.66
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Immanuel Quickley,Under,2.5,2.14
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Ja'Kobe Walter,Over,2.5,1.92
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Ja'Kobe Walter,Under,2.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Cameron Johnson,Over,1.5,1.67
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Cameron Johnson,Under,1.5,2.14
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,R.J. Barrett,Over,1.5,1.71
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,R.J. Barrett,Under,1.5,2.06
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Aaron Gordon,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Aaron Gordon,Under,1.5,1.92
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Nikola Jokic,Over,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Nikola Jokic,Under,1.5,1.72
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Christian Braun,Over,1.5,2.28
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Christian Braun,Under,1.5,1.59
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Scottie Barnes,Over,0.5,1.52
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,draftkings,player_threes,Scottie Barnes,Under,0.5,2.46
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Aaron Gordon,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Aaron Gordon,Under,1.5,1.91
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Cameron Johnson,Over,1.5,1.67
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Cameron Johnson,Under,1.5,2.15
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Cameron Johnson,Over,2.5,2.9
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Cameron Johnson,Under,2.5,1.38
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Christian Braun,Over,1.5,2.3
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Christian Braun,Under,1.5,1.59
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Immanuel Quickley,Over,2.5,1.67
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Immanuel Quickley,Under,2.5,2.15
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Immanuel Quickley,Over,3.5,2.6
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Immanuel Quickley,Under,3.5,1.47
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Ja'Kobe Walter,Over,2.5,1.91
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Ja'Kobe Walter,Under,2.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Jamal Murray,Over,2.5,1.67
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Jamal Murray,Under,2.5,2.15
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Jamal Murray,Over,3.5,2.6
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Jamal Murray,Under,3.5,1.47
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Nikola Jokic,Over,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Nikola Jokic,Under,1.5,1.74
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,R.J. Barrett,Over,1.5,1.74
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,R.J. Barrett,Under,1.5,2.05
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Scottie Barnes,Over,0.5,1.53
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,bovada,player_threes,Scottie Barnes,Under,0.5,2.45
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Jamal Murray,Over,2.5,1.54
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Jamal Murray,Under,2.5,2.42
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Immanuel Quickley,Over,2.5,1.78
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Immanuel Quickley,Under,2.5,2.0
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Ja'Kobe Walter,Over,2.5,2.08
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Ja'Kobe Walter,Under,2.5,1.72
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,R.J. Barrett,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,R.J. Barrett,Under,1.5,1.94
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Cameron Johnson,Over,1.5,1.57
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Cameron Johnson,Under,1.5,2.36
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Nikola Jokic,Over,1.5,2.02
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Nikola Jokic,Under,1.5,1.77
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Aaron Gordon,Over,1.5,1.9
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Aaron Gordon,Under,1.5,1.87
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Christian Braun,Over,1.5,2.24
+2026-11-05T02:09:00Z,3.0,50bdc20ea9ea3c88d4bfa261b9b2307e,2026-11-05T02:12:00Z,Toronto Raptors,Denver Nuggets,fanduel,player_threes,Christian Braun,Under,1.5,1.63
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Damian Lillard,Over,3.5,2.23
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Damian Lillard,Under,3.5,1.6
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Jalen Green,Over,1.5,1.63
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Jalen Green,Under,1.5,2.16
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Scoot Henderson,Over,1.5,1.76
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Scoot Henderson,Under,1.5,1.96
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Toumani Camara,Over,2.5,1.89
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Toumani Camara,Under,2.5,1.82
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Jrue Holiday,Over,1.5,1.57
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Jrue Holiday,Under,1.5,2.25
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Donovan Clingan,Over,0.5,1.54
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Donovan Clingan,Under,0.5,2.35
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Collin Gillespie,Over,1.5,1.55
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Collin Gillespie,Under,1.5,2.33
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Miles Bridges,Over,1.5,1.63
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Miles Bridges,Under,1.5,2.17
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Dillon Brooks,Over,1.5,1.63
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Dillon Brooks,Under,1.5,2.16
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Devin Booker,Over,1.5,1.87
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Devin Booker,Under,1.5,1.85
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Deni Avdija,Over,1.5,1.78
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betrivers,player_threes,Deni Avdija,Under,1.5,1.94
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Devin Booker,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Devin Booker,Under,1.5,1.91
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Scoot Henderson,Over,1.5,1.71
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Scoot Henderson,Under,1.5,2.05
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Toumani Camara,Over,2.5,1.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Toumani Camara,Under,2.5,1.85
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Deni Avdija,Over,1.5,1.8
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Deni Avdija,Under,1.5,1.95
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Jalen Green,Over,1.5,1.65
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Jalen Green,Under,1.5,2.15
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Dillon Brooks,Over,1.5,1.61
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Dillon Brooks,Under,1.5,2.25
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Miles Bridges,Over,1.5,1.69
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Miles Bridges,Under,1.5,2.05
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Damian Lillard,Over,3.5,2.3
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Damian Lillard,Under,3.5,1.57
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Collin Gillespie,Over,2.5,2.35
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Collin Gillespie,Under,2.5,1.54
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Jrue Holiday,Over,1.5,1.61
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betmgm,player_threes,Jrue Holiday,Under,1.5,2.25
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Toumani Camara,Over,2.5,1.91
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Toumani Camara,Under,2.5,1.85
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Scoot Henderson,Over,1.5,1.74
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Scoot Henderson,Under,1.5,2.04
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Devin Booker,Over,1.5,1.86
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Devin Booker,Under,1.5,1.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Deni Avdija,Over,1.5,1.8
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Deni Avdija,Under,1.5,1.97
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Jrue Holiday,Over,1.5,1.59
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Jrue Holiday,Under,1.5,2.29
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Dillon Brooks,Over,1.5,1.59
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Dillon Brooks,Under,1.5,2.29
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Jalen Green,Over,1.5,1.6
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Jalen Green,Under,1.5,2.28
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Miles Bridges,Over,1.5,1.66
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Miles Bridges,Under,1.5,2.16
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Collin Gillespie,Over,2.5,2.44
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Collin Gillespie,Under,2.5,1.53
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Damian Lillard,Over,3.5,2.34
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Damian Lillard,Under,3.5,1.57
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Khaman Maluach,Over,0.5,3.5
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Khaman Maluach,Under,0.5,1.28
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Donovan Clingan,Over,1.5,3.04
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,betonlineag,player_threes,Donovan Clingan,Under,1.5,1.36
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Damian Lillard,Over,2.5,1.57
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Damian Lillard,Under,2.5,2.33
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Toumani Camara,Over,2.5,1.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Toumani Camara,Under,2.5,1.84
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Collin Gillespie,Over,2.5,2.29
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Collin Gillespie,Under,2.5,1.58
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Dillon Brooks,Over,1.5,1.54
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Dillon Brooks,Under,1.5,2.4
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Jrue Holiday,Over,1.5,1.58
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Jrue Holiday,Under,1.5,2.3
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Miles Bridges,Over,1.5,1.65
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Miles Bridges,Under,1.5,2.18
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Jalen Green,Over,1.5,1.65
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Jalen Green,Under,1.5,2.17
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Scoot Henderson,Over,1.5,1.69
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Scoot Henderson,Under,1.5,2.1
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Deni Avdija,Over,1.5,1.77
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Deni Avdija,Under,1.5,1.99
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Devin Booker,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,draftkings,player_threes,Devin Booker,Under,1.5,1.92
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Collin Gillespie,Over,1.5,1.42
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Collin Gillespie,Under,1.5,2.75
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Collin Gillespie,Over,2.5,2.3
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Collin Gillespie,Under,2.5,1.59
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Damian Lillard,Over,2.5,1.56
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Damian Lillard,Under,2.5,2.35
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Damian Lillard,Over,3.5,2.4
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Damian Lillard,Under,3.5,1.54
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Deni Avdija,Over,1.5,1.77
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Deni Avdija,Under,1.5,2.0
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Devin Booker,Over,1.5,1.83
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Devin Booker,Under,1.5,1.91
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Dillon Brooks,Over,1.5,1.54
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Dillon Brooks,Under,1.5,2.4
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Dillon Brooks,Over,2.5,2.65
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Dillon Brooks,Under,2.5,1.45
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jalen Green,Over,1.5,1.62
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jalen Green,Under,1.5,2.2
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jalen Green,Over,2.5,2.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jalen Green,Under,2.5,1.38
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jrue Holiday,Over,1.5,1.59
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jrue Holiday,Under,1.5,2.3
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jrue Holiday,Over,2.5,2.75
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Jrue Holiday,Under,2.5,1.42
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Miles Bridges,Over,1.5,1.62
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Miles Bridges,Under,1.5,2.2
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Miles Bridges,Over,2.5,2.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Miles Bridges,Under,2.5,1.38
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Scoot Henderson,Over,1.5,1.69
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Scoot Henderson,Under,1.5,2.1
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Scoot Henderson,Over,2.5,3.1
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Scoot Henderson,Under,2.5,1.34
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Toumani Camara,Over,2.5,1.91
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,bovada,player_threes,Toumani Camara,Under,2.5,1.83
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Damian Lillard,Over,3.5,2.38
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Damian Lillard,Under,3.5,1.56
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Jalen Green,Over,1.5,1.67
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Jalen Green,Under,1.5,2.18
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Toumani Camara,Over,2.5,1.87
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Toumani Camara,Under,2.5,1.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Scoot Henderson,Over,1.5,1.77
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Scoot Henderson,Under,1.5,2.02
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Deni Avdija,Over,1.5,1.78
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Deni Avdija,Under,1.5,2.0
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Miles Bridges,Over,1.5,1.68
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Miles Bridges,Under,1.5,2.16
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Collin Gillespie,Over,2.5,2.62
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Collin Gillespie,Under,2.5,1.48
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Dillon Brooks,Over,1.5,1.62
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Dillon Brooks,Under,1.5,2.24
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Devin Booker,Over,1.5,1.9
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Devin Booker,Under,1.5,1.87
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Jrue Holiday,Over,2.5,2.58
+2026-11-05T02:09:00Z,3.0,d3d91c40111aca301d41c9cdb9d64608,2026-11-05T02:14:00Z,Portland Trail Blazers,Phoenix Suns,fanduel,player_threes,Jrue Holiday,Under,2.5,1.49
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Julian Champagnie,Over,2.5,2.22
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Julian Champagnie,Under,2.5,1.64
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Cooper Flagg,Over,1.5,2.04
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Cooper Flagg,Under,1.5,1.76
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Kyrie Irving,Over,2.5,1.78
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Kyrie Irving,Under,2.5,2.0
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,P.J. Washington,Over,1.5,1.8
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,P.J. Washington,Under,1.5,1.98
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,De'Aaron Fox,Over,1.5,2.16
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,De'Aaron Fox,Under,1.5,1.68
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Victor Wembanyama,Over,1.5,1.54
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Victor Wembanyama,Under,1.5,2.42
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Devin Vassell,Over,1.5,1.62
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Devin Vassell,Under,1.5,2.26
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Stephon Castle,Over,1.5,2.04
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Stephon Castle,Under,1.5,1.76
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Dylan Harper,Over,1.5,2.54
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,fanduel,player_threes,Dylan Harper,Under,1.5,1.5
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Zaccharie Risacher,Over,1.5,2.63
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Zaccharie Risacher,Under,1.5,1.43
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Kyrie Irving,Over,2.5,1.91
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Kyrie Irving,Under,2.5,1.81
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Dylan Harper,Over,1.5,2.5
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Dylan Harper,Under,1.5,1.48
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Devin Vassell,Over,1.5,1.66
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Devin Vassell,Under,1.5,2.12
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,De'Aaron Fox,Over,1.5,2.23
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,De'Aaron Fox,Under,1.5,1.6
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Julian Champagnie,Over,2.5,2.25
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Julian Champagnie,Under,2.5,1.57
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Victor Wembanyama,Over,1.5,1.65
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Victor Wembanyama,Under,1.5,2.14
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Stephon Castle,Over,1.5,2.02
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Stephon Castle,Under,1.5,1.73
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Cooper Flagg,Over,1.5,2.02
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,Cooper Flagg,Under,1.5,1.73
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,P.J. Washington,Over,1.5,1.81
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betrivers,player_threes,P.J. Washington,Under,1.5,1.91
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Julian Champagnie,Over,2.5,2.23
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Julian Champagnie,Under,2.5,1.61
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Victor Wembanyama,Over,1.5,1.52
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Victor Wembanyama,Under,1.5,2.44
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Devin Vassell,Over,1.5,1.56
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Devin Vassell,Under,1.5,2.34
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Stephon Castle,Over,1.5,2.03
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Stephon Castle,Under,1.5,1.74
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,De'Aaron Fox,Over,1.5,2.1
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,De'Aaron Fox,Under,1.5,1.69
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Dylan Harper,Over,1.5,2.33
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,draftkings,player_threes,Dylan Harper,Under,1.5,1.57
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Julian Champagnie,Over,2.5,2.15
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Julian Champagnie,Under,2.5,1.65
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,P.J. Washington,Over,1.5,1.8
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,P.J. Washington,Under,1.5,1.95
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Devin Vassell,Over,1.5,1.61
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Devin Vassell,Under,1.5,2.25
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Kyrie Irving,Over,2.5,1.67
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Kyrie Irving,Under,2.5,2.1
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Dylan Harper,Over,1.5,2.35
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Dylan Harper,Under,1.5,1.54
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,De'Aaron Fox,Over,1.5,2.2
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,De'Aaron Fox,Under,1.5,1.62
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Victor Wembanyama,Over,1.5,1.53
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Victor Wembanyama,Under,1.5,2.4
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Cooper Flagg,Over,1.5,2.0
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,player_threes,Cooper Flagg,Under,1.5,1.74
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Cooper Flagg,Over,1.5,2.15
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Cooper Flagg,Under,1.5,1.67
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Over,1.5,2.1
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Under,1.5,1.69
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Devin Vassell,Over,1.5,1.56
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Devin Vassell,Under,1.5,2.35
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Devin Vassell,Over,2.5,2.7
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Devin Vassell,Under,2.5,1.43
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Dylan Harper,Over,1.5,2.35
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Dylan Harper,Under,1.5,1.56
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Over,1.5,1.41
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Under,1.5,2.8
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Over,2.5,2.25
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Under,2.5,1.61
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Kyrie Irving,Over,2.5,1.77
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Kyrie Irving,Under,2.5,2.0
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Kyrie Irving,Over,3.5,2.9
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Kyrie Irving,Under,3.5,1.38
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,P.J. Washington,Over,1.5,1.8
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,P.J. Washington,Under,1.5,1.95
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Stephon Castle,Over,1.5,2.05
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Stephon Castle,Under,1.5,1.74
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Over,1.5,1.53
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Under,1.5,2.45
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Over,2.5,2.55
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Under,2.5,1.48
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Zaccharie Risacher,Over,0.5,1.45
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,bovada,player_threes,Zaccharie Risacher,Under,0.5,2.65
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Victor Wembanyama,Over,1.5,1.55
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Victor Wembanyama,Under,1.5,2.38
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Devin Vassell,Over,1.5,1.61
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Devin Vassell,Under,1.5,2.25
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Julian Champagnie,Over,2.5,2.2
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Julian Champagnie,Under,2.5,1.64
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Kyrie Irving,Over,2.5,1.83
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Kyrie Irving,Under,2.5,1.93
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,P.J. Washington,Over,1.5,1.82
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,P.J. Washington,Under,1.5,1.94
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Stephon Castle,Over,1.5,1.98
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Stephon Castle,Under,1.5,1.79
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,De'Aaron Fox,Over,1.5,2.15
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,De'Aaron Fox,Under,1.5,1.67
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Cooper Flagg,Over,1.5,2.09
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Cooper Flagg,Under,1.5,1.71
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Dylan Harper,Over,1.5,2.41
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Dylan Harper,Under,1.5,1.54
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Keldon Johnson,Over,0.5,1.87
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Keldon Johnson,Under,0.5,1.89
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Caleb Martin,Over,0.5,1.74
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Caleb Martin,Under,0.5,2.05
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Naji Marshall,Over,0.5,1.77
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Naji Marshall,Under,0.5,2.01
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Zaccharie Risacher,Over,0.5,1.48
+2026-11-05T02:09:00Z,21.0,6b25f3932db93d4c5ad7658def2645bf,2026-11-05T02:30:00Z,Dallas Mavericks,San Antonio Spurs,betonlineag,player_threes,Zaccharie Risacher,Under,0.5,2.57
