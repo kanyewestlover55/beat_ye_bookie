@@ -245,3 +245,7 @@ Games to collect this run: 2
   MIA Heat @ GS Warriors: 2593 3PM price points (0 O/U, 0 O/U players), 108 closes, 15 players
 props: 2 games collected ({'points': 4967, 'rebounds': 3706, 'assists': 2658}), 0 with no prop data
 
+2026-11-06T16:54:30Z | board: 493 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
+
