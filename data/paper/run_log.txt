@@ -102,3 +102,11 @@ All: 170 bets | P/L +1.67u, ROI +1.0% (±7.2) | hit 0.600 vs implied 0.590 | fai
 1+: 71 bets | P/L +0.83u, ROI +1.2% (±7.3) | hit 0.761 vs implied 0.733 | fair CLV -3.5% on 17 (24% beat) | bet365 CLV +1.3% on 71 (52% beat)
 2+: 99 bets | P/L +0.84u, ROI +0.9% (±11.3) | hit 0.485 vs implied 0.488 | fair CLV -4.5% on 71 (21% beat) | bet365 CLV +1.3% on 99 (33% beat)
 Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
+--- grade 2026-11-06 15:07 UTC
+graded 4 bets; 0 still open
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-11-06 15:07 UTC
+Bets placed 178, graded 174, void 4, open 0
+All: 174 bets | P/L +1.15u, ROI +0.7% (±7.2) | hit 0.598 vs implied 0.590 | fair CLV -4.4% on 91 (21% beat) | bet365 CLV +1.3% on 174 (41% beat)
+1+: 73 bets | P/L +0.10u, ROI +0.1% (±7.2) | hit 0.753 vs implied 0.733 | fair CLV -3.7% on 18 (22% beat) | bet365 CLV +1.3% on 73 (52% beat)
+2+: 101 bets | P/L +1.04u, ROI +1.0% (±11.2) | hit 0.485 vs implied 0.486 | fair CLV -4.6% on 73 (21% beat) | bet365 CLV +1.3% on 101 (33% beat)
+Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
