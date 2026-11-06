@@ -3337,3 +3337,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,spreads,Miami Heat,-5.5,1.91
 2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,totals,Over,233.5,1.91
 2026-11-04T23:57:27Z,222.5,72c786e70ad9360fdc41e4c2a50fa788,2026-11-05T03:40:00Z,Miami Heat,Los Angeles Clippers,betus,totals,Under,233.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,draftkings,spreads,Golden State Warriors,-3.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,draftkings,spreads,Miami Heat,3.5,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,draftkings,totals,Over,236.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,draftkings,totals,Under,236.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betonlineag,spreads,Golden State Warriors,-3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betonlineag,spreads,Miami Heat,3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betonlineag,totals,Over,236.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betonlineag,totals,Under,236.5,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,lowvig,spreads,Golden State Warriors,-3.5,1.94
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,lowvig,spreads,Miami Heat,3.5,1.94
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,lowvig,totals,Over,236.5,1.88
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,lowvig,totals,Under,236.5,1.98
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,mybookieag,spreads,Golden State Warriors,-3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,mybookieag,spreads,Miami Heat,3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,mybookieag,totals,Over,236.0,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,mybookieag,totals,Under,236.0,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,fanduel,spreads,Golden State Warriors,-3.5,1.85
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,fanduel,spreads,Miami Heat,3.5,1.96
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,fanduel,totals,Over,236.5,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,fanduel,totals,Under,236.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betrivers,spreads,Golden State Warriors,-3.5,1.88
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betrivers,spreads,Miami Heat,3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betrivers,totals,Over,236.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betrivers,totals,Under,236.5,1.93
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betmgm,spreads,Golden State Warriors,-3.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betmgm,spreads,Miami Heat,3.5,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betmgm,totals,Over,236.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betmgm,totals,Under,236.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betus,spreads,Golden State Warriors,-3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betus,spreads,Miami Heat,3.5,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betus,totals,Over,236.5,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,betus,totals,Under,236.5,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,bovada,spreads,Golden State Warriors,-4.0,1.95
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,bovada,spreads,Miami Heat,4.0,1.87
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,bovada,totals,Over,237.0,1.91
+2026-11-06T03:09:05Z,0.9,ac38449dd3dfbe1c9b48164b6a41aa83,2026-11-06T03:10:00Z,Miami Heat,Golden State Warriors,bovada,totals,Under,237.0,1.91
