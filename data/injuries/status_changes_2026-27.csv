@@ -1511,3 +1511,17 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-06 13:00,2026-11-06 18:00,2026-11-06,07:00,BOS@CHA,Charlotte Hornets,Moussa Diabate,Out,Questionable,Injury/Illness - Right Quadriceps Tendinopathy,status
 2026-11-06 13:00,2026-11-06 18:00,2026-11-06,07:00,BOS@CHA,Charlotte Hornets,Dennis Schroder,Out,Questionable,Injury/Illness - Left Soreness,status
 2026-11-06 13:00,2026-11-06 18:00,2026-11-06,08:00,MIN@NOP,Minnesota Timberwolves,Terrence Shannon Jr,Out,Questionable,Injury/Illness - Left Hip Contusion,status
+2026-11-06 14:00,2026-11-06 19:00,2026-11-06,08:00,UTA@DAL,Dallas Mavericks,Kyrie Irving,Probable,,Injury/Illness - Illness,new
+2026-11-06 15:15,2026-11-06 20:15,2026-11-07,09:00,HOU@PHX,Houston Rockets,Steven Adams,Out,,Injury/Illness - Right Soleus Strain,new
+2026-11-06 15:15,2026-11-06 20:15,2026-11-07,09:00,HOU@PHX,Houston Rockets,Clint Capela,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-06 15:15,2026-11-06 20:15,2026-11-07,09:00,HOU@PHX,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-11-06 15:15,2026-11-06 20:15,2026-11-07,09:00,HOU@PHX,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-11-06 15:15,2026-11-06 20:15,2026-11-07,09:00,HOU@PHX,Houston Rockets,Bruce Thornton,Out,,G League - On Assignment,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-06,10:00,SAS@SAC,Sacramento Kings,De'Andre Hunter,Questionable,,Injury/Illness - Illness,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Tyler Bilodeau,Out,,G League - Two-Way,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Egor Demin,Out,,Injury/Illness - Right Bone Bruise,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Joshua Jefferson,Out,,G League - On Assignment,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Grant Nelson,Out,,G League - Two-Way,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Drake Powell,Questionable,,G League - On Assignment,new
+2026-11-06 16:00,2026-11-06 21:00,2026-11-07,07:30,BKN@ATL,Brooklyn Nets,Ben Saraf,Out,,G League - On Assignment,new
+2026-11-06 16:15,2026-11-06 21:15,2026-11-06,10:00,POR@LAL,Los Angeles Lakers,Sandro Mamukelashvili,Available,Questionable,Injury/Illness - Illness,status
