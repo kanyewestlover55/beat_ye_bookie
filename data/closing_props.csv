@@ -12129,3 +12129,119 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-07T02:48:54Z,21.1,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,San Antonio Spurs,Sacramento Kings,betmgm,player_threes,Malik Monk,Under,1.5,1.95
 2026-11-07T02:48:54Z,21.1,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,San Antonio Spurs,Sacramento Kings,betmgm,player_threes,Julian Champagnie,Over,2.5,2.2
 2026-11-07T02:48:54Z,21.1,d24eb5492983d6e28be3b96df396fa12,2026-11-07T03:10:00Z,San Antonio Spurs,Sacramento Kings,betmgm,player_threes,Julian Champagnie,Under,2.5,1.62
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Obi Toppin,Over,1.5,2.0
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Obi Toppin,Under,1.5,1.78
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Aaron Gordon,Over,1.5,2.32
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Aaron Gordon,Under,1.5,1.59
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Andrew Nembhard,Over,2.5,2.62
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Andrew Nembhard,Under,2.5,1.48
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Cameron Johnson,Over,1.5,1.61
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Cameron Johnson,Under,1.5,2.28
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Christian Braun,Over,1.5,2.04
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Christian Braun,Under,1.5,1.76
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Pascal Siakam,Over,1.5,2.04
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Pascal Siakam,Under,1.5,1.76
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Jamal Murray,Over,2.5,1.68
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Jamal Murray,Under,2.5,2.16
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Nikola Jokic,Over,1.5,2.02
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Nikola Jokic,Under,1.5,1.77
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Aaron Nesmith,Over,2.5,2.44
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,fanduel,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Cameron Johnson,Over,2.5,2.6
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Cameron Johnson,Under,2.5,1.44
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Christian Braun,Over,1.5,1.93
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Christian Braun,Under,1.5,1.79
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Jamal Murray,Over,2.5,1.57
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Jamal Murray,Under,2.5,2.28
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Pascal Siakam,Over,1.5,2.02
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Pascal Siakam,Under,1.5,1.73
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Over,2.5,2.38
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Under,2.5,1.53
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Nikola Jokic,Over,1.5,1.91
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Nikola Jokic,Under,1.5,1.82
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Obi Toppin,Over,1.5,2.0
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Obi Toppin,Under,1.5,1.74
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Kelly Oubre Jr.,Over,1.5,2.55
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Kelly Oubre Jr.,Under,1.5,1.45
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Aaron Gordon,Over,1.5,2.2
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Aaron Gordon,Under,1.5,1.62
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Aaron Nesmith,Over,2.5,2.38
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betrivers,player_threes,Aaron Nesmith,Under,2.5,1.53
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Jamal Murray,Over,2.5,1.64
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Jamal Murray,Under,2.5,2.18
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Aaron Nesmith,Over,2.5,2.33
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Aaron Nesmith,Under,2.5,1.56
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Andrew Nembhard,Over,1.5,1.52
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Andrew Nembhard,Under,1.5,2.44
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Cameron Johnson,Over,1.5,1.57
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Cameron Johnson,Under,1.5,2.32
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Pascal Siakam,Over,1.5,1.96
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Pascal Siakam,Under,1.5,1.79
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Nikola Jokic,Over,1.5,1.99
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Nikola Jokic,Under,1.5,1.77
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Obi Toppin,Over,1.5,1.99
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Obi Toppin,Under,1.5,1.76
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Christian Braun,Over,1.5,2.03
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Christian Braun,Under,1.5,1.74
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Aaron Gordon,Over,1.5,2.29
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Aaron Gordon,Under,1.5,1.59
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Kelly Oubre Jr.,Over,1.5,2.37
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,draftkings,player_threes,Kelly Oubre Jr.,Under,1.5,1.55
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Jamal Murray,Over,2.5,1.71
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Jamal Murray,Under,2.5,2.09
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Aaron Gordon,Over,1.5,2.3
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Aaron Gordon,Under,1.5,1.59
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Christian Braun,Over,1.5,2.09
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Christian Braun,Under,1.5,1.71
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Nikola Jokic,Over,1.5,2.02
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Nikola Jokic,Under,1.5,1.76
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Obi Toppin,Over,1.5,2.03
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Obi Toppin,Under,1.5,1.75
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Pascal Siakam,Over,1.5,2.02
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Pascal Siakam,Under,1.5,1.76
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Cameron Johnson,Over,1.5,1.61
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Cameron Johnson,Under,1.5,2.26
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Kelly Oubre Jr.,Over,1.5,2.39
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Kelly Oubre Jr.,Under,1.5,1.55
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Andrew Nembhard,Over,2.5,2.49
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Andrew Nembhard,Under,2.5,1.51
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Aaron Nesmith,Over,2.5,2.41
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betonlineag,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Gordon,Over,1.5,2.3
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Gordon,Under,1.5,1.59
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Over,1.5,1.45
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Under,1.5,2.65
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Over,2.5,2.35
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Under,2.5,1.56
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Over,1.5,1.53
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Under,1.5,2.45
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Over,2.5,2.55
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Under,2.5,1.48
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Cameron Johnson,Over,1.5,1.59
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Cameron Johnson,Under,1.5,2.3
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Cameron Johnson,Over,2.5,2.75
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Cameron Johnson,Under,2.5,1.42
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Christian Braun,Over,1.5,2.05
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Christian Braun,Under,1.5,1.74
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Jamal Murray,Over,2.5,1.62
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Jamal Murray,Under,2.5,2.2
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Jamal Murray,Over,3.5,2.55
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Jamal Murray,Under,3.5,1.48
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Kelly Oubre Jr.,Over,1.5,2.35
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Kelly Oubre Jr.,Under,1.5,1.56
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Nikola Jokic,Over,1.5,2.0
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Nikola Jokic,Under,1.5,1.77
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Obi Toppin,Over,1.5,2.0
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Obi Toppin,Under,1.5,1.77
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Pascal Siakam,Over,1.5,1.95
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,bovada,player_threes,Pascal Siakam,Under,1.5,1.8
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Christian Braun,Over,1.5,2.05
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Christian Braun,Under,1.5,1.69
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Aaron Gordon,Over,1.5,2.15
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Aaron Gordon,Under,1.5,1.65
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Jamal Murray,Over,2.5,1.61
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Jamal Murray,Under,2.5,2.25
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Nikola Jokic,Over,1.5,1.95
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Nikola Jokic,Under,1.5,1.8
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Cameron Johnson,Over,2.5,2.65
+2026-11-07T21:37:22Z,32.6,e76682ca6c25a37b0a53cec226b91aab,2026-11-07T22:10:00Z,Denver Nuggets,Indiana Pacers,betmgm,player_threes,Cameron Johnson,Under,2.5,1.44
