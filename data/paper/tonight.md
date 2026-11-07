@@ -1,103 +1,87 @@
-# Paper picks, Fri 06 Nov
+# Paper picks, Sat 07 Nov
 
-Decided 21:08 Swiss · 9 games · 225 prices checked · **37 bets** · injuries: live report 2026-11-06 15:00 ET
+Decided 20:58 Swiss · 7 games · 174 prices checked · **35 bets** · injuries: live report 2026-11-07 14:45 ET
 
-## BOS Celtics @ CHA Hornets
-Tip Sat 01:10 Swiss · prices about 94 min old when read
-
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Coby White | 1+ threes | 1.18 | 1.15 | 88% | +4% |
-| Coby White | 2+ threes | 1.80 | 1.58 | 63% | +14% |
-| Grayson Allen | 1+ threes | 1.06 | 1.05 | 96% | +1% |
-| Grayson Allen | 2+ threes | 1.32 | 1.19 | 85% | +12% |
-| Naz Reid | 1+ threes | 1.09 | 1.08 | 93% | +1% |
-| Naz Reid | 2+ threes | 1.43 | 1.34 | 75% | +8% |
-| Sion James | 2+ threes | 2.35 | 2.35 | 43% | +0% |
-
-Teammates out (known at decision time): Dennis Schroder, Kon Knueppel, Moussa Diabate
-
-## WAS Wizards @ ATL Hawks
-Tip Sat 01:10 Swiss · prices about 58 min old when read
+## DEN Nuggets @ IND Pacers
+Tip Sat 23:10 Swiss · prices about 185 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Carlton Carrington | 1+ threes | 1.56 | 1.48 | 68% | +6% |
-| Carlton Carrington | 2+ threes | 3.50 | 3.07 | 33% | +14% |
-| Luguentz Dort | 1+ threes | 1.18 | 1.19 | 85% | +0% |
-| Luguentz Dort | 2+ threes | 1.87 | 1.74 | 58% | +8% |
-| Onyeka Okongwu | 2+ threes | 1.83 | 1.80 | 56% | +2% |
+| Nikola Jokic | 1+ threes | 1.26 | 1.24 | 81% | +2% |
+| Nikola Jokic | 2+ threes | 2.05 | 1.98 | 51% | +4% |
+| Pascal Siakam | 2+ threes | 2.00 | 2.00 | 50% | +0% |
 
-Teammates out (known at decision time): Jock Landale, Justin Champagnie, Reece Beekman
+Teammates out (known at decision time): Ben Sheppard, Tyrese Haliburton
 
-## PHI 76ers @ CLE Cavaliers
-Tip Sat 01:30 Swiss · prices about 200 min old when read
+## BKN Nets @ ATL Hawks
+Tip Sun 01:40 Swiss · prices about 82 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Jaylen Brown | 1+ threes | 1.26 | 1.23 | 82% | +3% |
-| Jaylen Brown | 2+ threes | 2.20 | 1.91 | 52% | +15% |
-| Joel Embiid | 1+ threes | 1.62 | 1.40 | 71% | +16% |
-| Joel Embiid | 2+ threes | 3.40 | 2.71 | 37% | +26% |
-| LeBron James | 1+ threes | 1.32 | 1.30 | 77% | +2% |
-| LeBron James | 2+ threes | 2.40 | 2.23 | 45% | +8% |
+| Julius Randle | 1+ threes | 1.32 | 1.32 | 76% | +1% |
+| Julius Randle | 2+ threes | 2.30 | 2.29 | 44% | +1% |
+| Onyeka Okongwu | 1+ threes | 1.25 | 1.22 | 83% | +3% |
+| Onyeka Okongwu | 2+ threes | 2.02 | 1.86 | 54% | +9% |
 
-## OKC Thunder @ MEM Grizzlies
-Tip Sat 02:10 Swiss · prices about 68 min old when read
+Teammates out (known at decision time): Ben Saraf, Egor Demin, Jock Landale
 
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Cam Spencer | 1+ threes | 1.36 | 1.32 | 76% | +4% |
-| Cam Spencer | 2+ threes | 2.55 | 2.29 | 44% | +11% |
-
-Teammates out (known at decision time): Isaiah Stewart, Scotty Pippen Jr.
-
-## TOR Raptors @ MIL Bucks
-Tip Sat 02:10 Swiss · prices about 10 min old when read
+## NY Knicks @ CLE Cavaliers
+Tip Sun 02:10 Swiss · prices about 70 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Jaime Jaquez Jr. | 2+ threes | 2.85 | 2.82 | 35% | +1% |
-| Ryan Rollins | 2+ threes | 2.00 | 1.88 | 53% | +6% |
+| Donovan Mitchell | 1+ threes | 1.10 | 1.07 | 94% | +3% |
+| Donovan Mitchell | 2+ threes | 1.43 | 1.28 | 79% | +12% |
+| Evan Mobley | 1+ threes | 1.38 | 1.28 | 79% | +9% |
+| Evan Mobley | 2+ threes | 2.50 | 2.12 | 47% | +18% |
+| Jalen Brunson | 2+ threes | 1.32 | 1.31 | 77% | +2% |
+| James Harden | 1+ threes | 1.09 | 1.07 | 93% | +2% |
+| James Harden | 2+ threes | 1.38 | 1.30 | 77% | +7% |
+| Karl-Anthony Towns | 2+ threes | 2.05 | 1.98 | 51% | +4% |
+| Peyton Watson | 2+ threes | 2.30 | 2.28 | 44% | +1% |
 
-## UTA Jazz @ DAL Mavericks
-Tip Sat 02:10 Swiss · prices about 5 min old when read
+Teammates out (known at decision time): Jarrett Allen, Jaylon Tyson, Josh Hart, Sam Merrill
 
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Ace Bailey | 2+ threes | 1.71 | 1.71 | 59% | +1% |
-| Svi Mykhailiuk | 1+ threes | 1.50 | 1.38 | 73% | +9% |
-| Svi Mykhailiuk | 2+ threes | 3.10 | 2.58 | 39% | +21% |
-| Zaccharie Risacher | 1+ threes | 1.56 | 1.56 | 64% | +0% |
-| Zaccharie Risacher | 2+ threes | 3.50 | 3.48 | 29% | +1% |
-
-Teammates out (known at decision time): Jaren Jackson Jr.
-
-## POR Trail Blazers @ LA Lakers
-Tip Sat 04:10 Swiss · prices about 205 min old when read
+## WAS Wizards @ OKC Thunder
+Tip Sun 02:10 Swiss · prices about 19 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Collin Sexton | 1+ threes | 1.45 | 1.40 | 72% | +5% |
-| Collin Sexton | 2+ threes | 2.90 | 2.66 | 38% | +9% |
-| Deni Avdija | 1+ threes | 1.17 | 1.16 | 86% | +1% |
-| Deni Avdija | 2+ threes | 1.77 | 1.66 | 61% | +7% |
-| Donovan Clingan | 1+ threes | 1.56 | 1.43 | 70% | +9% |
-| Donovan Clingan | 2+ threes | 3.55 | 2.84 | 35% | +25% |
-| Jrue Holiday | 2+ threes | 1.54 | 1.47 | 68% | +5% |
-| Sandro Mamukelashvili | 2+ threes | 3.25 | 3.25 | 31% | +0% |
-| Scoot Henderson | 2+ threes | 1.95 | 1.92 | 52% | +2% |
+| Ajay Mitchell | 1+ threes | 1.42 | 1.34 | 75% | +6% |
+| Ajay Mitchell | 2+ threes | 2.70 | 2.40 | 42% | +13% |
+| Alex Caruso | 1+ threes | 1.27 | 1.26 | 80% | +1% |
+| Alex Caruso | 2+ threes | 2.22 | 2.06 | 49% | +8% |
+| Jared McCain | 1+ threes | 1.12 | 1.09 | 92% | +3% |
+| Jared McCain | 2+ threes | 1.61 | 1.38 | 73% | +17% |
+| Kenrich Williams | 1+ threes | 1.30 | 1.25 | 80% | +4% |
+| Kenrich Williams | 2+ threes | 2.40 | 2.02 | 50% | +19% |
 
-Teammates out (known at decision time): Ja Morant
+Teammates out (known at decision time): Cason Wallace, Chet Holmgren, Jalen Williams, Jaylin Williams
 
-## SA Spurs @ SAC Kings
-Tip Sat 04:10 Swiss · prices about 199 min old when read
+## ORL Magic @ GS Warriors
+Tip Sun 02:40 Swiss · prices about 22 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Domantas Sabonis | 1+ threes | 7.00 | 5.20 | 19% | +35% |
+| Draymond Green | 1+ threes | 1.83 | 1.73 | 58% | +6% |
+| Draymond Green | 2+ threes | 5.00 | 4.47 | 22% | +12% |
 
-Teammates out (known at decision time): Keegan Murray
+## HOU Rockets @ PHX Suns
+Tip Sun 03:10 Swiss · prices about 4 min old when read
+
+| Player | Bet | Odds seen | Min odds | Model | EV |
+| --- | --- | --- | --- | --- | --- |
+| Collin Gillespie | 2+ threes | 1.59 | 1.56 | 64% | +2% |
+| Devin Booker | 2+ threes | 1.71 | 1.69 | 59% | +2% |
+| Dillon Brooks | 1+ threes | 1.15 | 1.14 | 88% | +2% |
+| Dillon Brooks | 2+ threes | 1.74 | 1.55 | 65% | +13% |
+| Fred VanVleet | 1+ threes | 1.09 | 1.08 | 93% | +2% |
+| Fred VanVleet | 2+ threes | 1.42 | 1.32 | 76% | +8% |
+| Jalen Green | 1+ threes | 1.17 | 1.15 | 88% | +2% |
+| Jalen Green | 2+ threes | 1.80 | 1.59 | 63% | +14% |
+| Luke Kennard | 2+ threes | 2.25 | 2.22 | 45% | +2% |
+
+Teammates out (known at decision time): Jordan Goodwin, Steven Adams
 
 ---
 **Odds seen:** bet365's price on the feed when the bot ran (can lag the app by up to an hour).  
