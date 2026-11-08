@@ -285,3 +285,7 @@ Games to collect this run: 7
   SA Spurs @ POR Trail Blazers: 1245 3PM price points (0 O/U, 0 O/U players), 93 closes, 12 players
 props: 7 games collected ({'points': 20312, 'rebounds': 12916, 'assists': 10216}), 0 with no prop data
 
+2026-11-08T16:41:34Z | board: 223 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
+
