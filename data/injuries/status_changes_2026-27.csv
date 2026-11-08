@@ -1675,3 +1675,10 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-07 20:15,2026-11-08 01:15,2026-11-08,09:00,MIA@SAC,Sacramento Kings,Maxime Raynaud,Out,,Injury/Illness - Right Patella Subluxation,new
 2026-11-07 20:15,2026-11-08 01:15,2026-11-08,09:00,MIA@SAC,Sacramento Kings,Ben Simmons,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
 2026-11-08 09:30,2026-11-08 14:30,2026-11-08,03:30,PHI@CHI,Chicago Bulls,Norman Powell,Questionable,,Injury/Illness - Right Shoulder Inflammation / Soreness,new
+2026-11-08 11:15,2026-11-08 16:15,2026-11-08,07:00,UTA@MIN,Utah Jazz,Keyonte George,Questionable,,Injury/Illness - Illness,new
+2026-11-08 12:15,2026-11-08 17:15,2026-11-08,07:00,UTA@MIN,Minnesota Timberwolves,Joan Beringer,Available,Questionable,Injury/Illness - Nasal Fracture/Face Mask,status
+2026-11-08 12:45,2026-11-08 17:45,2026-11-08,06:00,LAL@DET,Detroit Pistons,Elijah Harkless,Out,Questionable,G League - Two-Way,status
+2026-11-08 12:45,2026-11-08 17:45,2026-11-08,06:00,LAL@DET,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-11-08 13:15,2026-11-08 18:15,2026-11-08,06:00,LAL@DET,Los Angeles Lakers,Luka Doncic,Out,Questionable,Injury/Illness - Low Back Tightness,status
+2026-11-08 13:15,2026-11-08 18:15,2026-11-08,08:00,BOS@MIL,Boston Celtics,Mitchell Robinson,Questionable,,Injury/Illness - Illness,new
+2026-11-08 13:30,2026-11-08 18:30,2026-11-08,08:00,BOS@MIL,Milwaukee Bucks,Gary Trent Jr.,Questionable,,Injury/Illness - Illness,new
