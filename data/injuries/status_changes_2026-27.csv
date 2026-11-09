@@ -1783,3 +1783,22 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-09 13:45,2026-11-09 18:45,2026-11-09,08:00,IND@DAL,Dallas Mavericks,Morez Johnson Jr.,Questionable,,Injury/Illness - Left Shin / Tibia Contusion,new
 2026-11-09 13:45,2026-11-09 18:45,2026-11-09,08:00,IND@DAL,Dallas Mavericks,Dereck Lively II,Out,,Injury/Illness - Right Foot Surgery,new
 2026-11-09 13:45,2026-11-09 18:45,2026-11-09,08:00,IND@DAL,Dallas Mavericks,Caleb Martin,Available,,Injury/Illness - Right Thumb Splint,new
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Christian Braun,Probable,Questionable,Injury/Illness - Left Calf Contusion/Illness,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,DeMar DeRozan,Probable,Questionable,Injury/Illness - Low Back Spasms,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Aaron Gordon,Probable,Questionable,Injury/Illness - Left Calf Injury Management,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Cameron Johnson,Probable,Questionable,Injury/Illness - Right Ankle Sprain,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Nikola Jokic,Probable,Questionable,Injury/Illness - Right Elbow Sprain,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Jamal Murray,Probable,Questionable,Injury/Illness - Left Shin / Tibia Contusion,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,09:00,SAS@PHX,San Antonio Spurs,Devin Vassell,Out,Questionable,Injury/Illness - Left Adductor Tightness,status
+2026-11-09 14:15,2026-11-09 19:15,2026-11-09,10:00,NOP@GSW,Golden State Warriors,Gary Payton II,Questionable,,Injury/Illness - Left Knee Inflammation,new
+2026-11-09 15:45,2026-11-09 20:45,2026-11-09,10:00,NOP@GSW,New Orleans Pelicans,Malik Dia,Out,,G League - Two-Way,new
+2026-11-09 15:45,2026-11-09 20:45,2026-11-09,10:00,NOP@GSW,New Orleans Pelicans,Yves Missi,Out,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-09 15:45,2026-11-09 20:45,2026-11-09,10:00,NOP@GSW,New Orleans Pelicans,Trey Murphy III,Out,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-09 15:45,2026-11-09 20:45,2026-11-09,10:00,NOP@GSW,New Orleans Pelicans,Jaron Pierre Jr.,Out,,G League - Two-Way,new
+2026-11-09 15:45,2026-11-09 20:45,2026-11-09,10:00,NOP@GSW,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-09 16:00,2026-11-09 21:00,2026-11-10,08:00,BOS@PHI,Boston Celtics,Devin Carter,Out,,G League - Two-Way,new
+2026-11-09 16:00,2026-11-09 21:00,2026-11-10,08:00,BOS@PHI,Boston Celtics,Christopher Cenac Jr.,Questionable,,G League - On Assignment,new
+2026-11-09 16:00,2026-11-09 21:00,2026-11-10,08:00,BOS@PHI,Boston Celtics,Dillon Mitchell,Questionable,,G League - Two-Way,new
+2026-11-09 16:00,2026-11-09 21:00,2026-11-10,08:00,BOS@PHI,Boston Celtics,Amari Williams,Out,,G League - Two-Way,new
+2026-11-09 16:30,2026-11-09 21:30,2026-11-09,07:30,MEM@TOR,Toronto Raptors,Kevin McCullar Jr.,Available,Out,G League - Two-Way,status
+2026-11-09 16:30,2026-11-09 21:30,2026-11-09,07:30,MEM@TOR,Toronto Raptors,Malachi Smith,Available,Out,G League - Two-Way,status
