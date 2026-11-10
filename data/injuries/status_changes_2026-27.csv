@@ -1871,3 +1871,10 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-09 20:00,2026-11-10 01:00,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Jamal Murray,Available,Probable,Injury/Illness - Left Shin / Tibia Contusion,status
 2026-11-09 20:45,2026-11-10 01:45,2026-11-09,10:00,NOP@GSW,Golden State Warriors,Gary Payton II,Out,Questionable,Injury/Illness - Left Knee Inflammation,status
 2026-11-09 20:45,2026-11-10 01:45,2026-11-09,10:00,NOP@GSW,Golden State Warriors,Gui Santos,Available,Probable,Injury/Illness - Left Knee Tendinitis,status
+2026-11-10 11:45,2026-11-10 16:45,2026-11-10,08:00,BOS@PHI,Boston Celtics,Christopher Cenac Jr.,Available,Questionable,G League - On Assignment,status
+2026-11-10 11:45,2026-11-10 16:45,2026-11-10,08:00,BOS@PHI,Boston Celtics,Dillon Mitchell,Available,Questionable,G League - Two-Way,status
+2026-11-10 11:45,2026-11-10 16:45,2026-11-10,10:00,ORL@SAC,Orlando Magic,Tristan da Silva,Questionable,,Injury/Illness - Left Calf Strain,new
+2026-11-10 12:15,2026-11-10 17:15,2026-11-10,07:30,MIL@NYK,Milwaukee Bucks,Kel'el Ware,Questionable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Kobe Bufkin,Questionable,Out,G League - Two-Way,status
+2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Harrison Ingram,Questionable,Out,G League - Two-Way,status
+2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Lauri Markkanen,Out,Questionable,Injury/Illness - Right Wrist Sprain,status
