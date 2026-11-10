@@ -324,3 +324,7 @@ Games to collect this run: 8
   NO Pelicans @ GS Warriors: 1796 3PM price points (0 O/U, 0 O/U players), 106 closes, 16 players
 props: 8 games collected ({'points': 16950, 'rebounds': 12815, 'assists': 9410}), 0 with no prop data
 
+2026-11-10T16:54:55Z | board: 249 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
+
