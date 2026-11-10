@@ -1878,3 +1878,24 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Kobe Bufkin,Questionable,Out,G League - Two-Way,status
 2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Harrison Ingram,Questionable,Out,G League - Two-Way,status
 2026-11-10 13:30,2026-11-10 18:30,2026-11-10,09:00,MIA@UTA,Utah Jazz,Lauri Markkanen,Out,Questionable,Injury/Illness - Right Wrist Sprain,status
+2026-11-10 14:15,2026-11-10 19:15,2026-11-10,07:30,MIL@NYK,New York Knicks,Josh Hart,Doubtful,Questionable,Injury/Illness - Illness,status
+2026-11-10 14:15,2026-11-10 19:15,2026-11-10,09:00,LAC@PHX,LA Clippers,Nick Martinelli,Out,Questionable,G League - Two-Way,status
+2026-11-10 14:15,2026-11-10 19:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Malik Dia,Doubtful,,G League - Two-Way,new
+2026-11-10 14:15,2026-11-10 19:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Yves Missi,Out,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-10 14:15,2026-11-10 19:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Trey Murphy III,Probable,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-10 14:15,2026-11-10 19:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Doubtful,,G League - Two-Way,new
+2026-11-10 14:15,2026-11-10 19:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-10 14:45,2026-11-10 19:45,2026-11-10,11:00,OKC@POR,Portland Trail Blazers,Jayson Kent,Out,,G League - Two-Way,new
+2026-11-10 15:15,2026-11-10 20:15,2026-11-10,09:00,LAC@PHX,Phoenix Suns,Mark Williams,Out,,Injury/Illness - Left Shoulder Surgery,new
+2026-11-10 15:45,2026-11-10 20:45,2026-11-10,10:00,ORL@SAC,Sacramento Kings,Keegan Murray,Available,Questionable,-,status
+2026-11-10 15:45,2026-11-10 20:45,2026-11-10,10:00,ORL@SAC,Sacramento Kings,Domantas Sabonis,Available,Questionable,-,status
+2026-11-10 16:00,2026-11-10 21:00,2026-11-11,09:30,GSW@HOU,Houston Rockets,Steven Adams,Out,,Injury/Illness - Right Soleus Strain,new
+2026-11-10 16:00,2026-11-10 21:00,2026-11-11,09:30,GSW@HOU,Houston Rockets,Clint Capela,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-10 16:00,2026-11-10 21:00,2026-11-11,09:30,GSW@HOU,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-11-10 16:00,2026-11-10 21:00,2026-11-11,09:30,GSW@HOU,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Jimmy Butler III,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Moses Moody,Out,,Injury/Illness - Left Patellar Tendon Repair / Surgery,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Gary Payton II,Out,,Injury/Illness - Left Knee Inflammation,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Kristaps Porzingis,Out,,Not With Team,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Will Richard,Questionable,,Injury/Illness - Left Thumb UCL Tear,new
+2026-11-10 16:30,2026-11-10 21:30,2026-11-11,09:30,GSW@HOU,Golden State Warriors,Brandon Williams,Out,,Injury/Illness - Left Hamstring Strain,new
