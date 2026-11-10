@@ -1869,3 +1869,5 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-09 20:00,2026-11-10 01:00,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Cameron Johnson,Available,Probable,Injury/Illness - Right Ankle Sprain,status
 2026-11-09 20:00,2026-11-10 01:00,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Nikola Jokic,Available,Probable,Injury/Illness - Right Elbow Sprain,status
 2026-11-09 20:00,2026-11-10 01:00,2026-11-09,08:30,DEN@HOU,Denver Nuggets,Jamal Murray,Available,Probable,Injury/Illness - Left Shin / Tibia Contusion,status
+2026-11-09 20:45,2026-11-10 01:45,2026-11-09,10:00,NOP@GSW,Golden State Warriors,Gary Payton II,Out,Questionable,Injury/Illness - Left Knee Inflammation,status
+2026-11-09 20:45,2026-11-10 01:45,2026-11-09,10:00,NOP@GSW,Golden State Warriors,Gui Santos,Available,Probable,Injury/Illness - Left Knee Tendinitis,status
