@@ -1954,3 +1954,17 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-10 20:30,2026-11-11 01:30,2026-11-10,09:00,LAC@PHX,Phoenix Suns,Pat Spencer,Out,,G League - Two-Way,new
 2026-11-10 20:30,2026-11-11 01:30,2026-11-10,09:00,LAC@PHX,Phoenix Suns,Drew Timme,Out,,G League - Two-Way,new
 2026-11-10 20:30,2026-11-11 01:30,2026-11-10,10:00,ORL@SAC,Orlando Magic,Tristan da Silva,Out,Questionable,Injury/Illness - Left Calf Strain,status
+2026-11-11 11:00,2026-11-11 16:00,2026-11-11,08:00,BKN@NOP,Brooklyn Nets,Mikel Brown Jr.,Questionable,,Injury/Illness - Illness,new
+2026-11-11 11:15,2026-11-11 16:15,2026-11-11,08:00,BKN@NOP,Brooklyn Nets,Mikel Brown Jr.,Out,Questionable,Injury/Illness - Illness,status
+2026-11-11 11:15,2026-11-11 16:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Bennedict Mathurin,Out,,Injury/Illness - Right Thumb Sprain,new
+2026-11-11 11:15,2026-11-11 16:15,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Trey Murphy III,Doubtful,Probable,Injury/Illness - Bilateral Patellar Tendinopathy,status
+2026-11-11 12:45,2026-11-11 17:45,2026-11-11,07:00,BOS@TOR,Toronto Raptors,Trayce Jackson-Davis,Out,Questionable,Injury/Illness - Illness,status
+2026-11-11 12:45,2026-11-11 17:45,2026-11-11,08:00,BKN@NOP,Brooklyn Nets,Egor Demin,Available,Probable,Injury/Illness - Right Bone Bruise,status
+2026-11-11 13:00,2026-11-11 18:00,2026-11-11,07:00,BOS@TOR,Boston Celtics,Devin Carter,Out,,G League - Two-Way,new
+2026-11-11 13:00,2026-11-11 18:00,2026-11-11,07:00,BOS@TOR,Boston Celtics,Paul George,Out,,Injury/Illness - Illness,new
+2026-11-11 13:00,2026-11-11 18:00,2026-11-11,07:00,BOS@TOR,Boston Celtics,Amari Williams,Out,,G League - Two-Way,new
+2026-11-11 13:00,2026-11-11 18:00,2026-11-11,07:00,CLE@NYK,New York Knicks,Josh Hart,Probable,,Injury/Illness - Illness,new
+2026-11-11 13:00,2026-11-11 18:00,2026-11-11,07:00,CLE@NYK,New York Knicks,Karl-Anthony Towns,Questionable,,Injury/Illness - Left Sore Calf,new
+2026-11-11 13:15,2026-11-11 18:15,2026-11-11,08:00,SAS@CHI,Chicago Bulls,Tobe Awaka,Out,Questionable,Injury/Illness - Low Back Tightness,status
+2026-11-11 13:15,2026-11-11 18:15,2026-11-11,08:00,SAS@CHI,Chicago Bulls,Caleb Wilson,Questionable,,Injury/Illness - Right Hip Soreness / Tightness,new
+2026-11-11 13:45,2026-11-11 18:45,2026-11-11,08:00,BKN@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Probable,Doubtful,G League - Two-Way,status
