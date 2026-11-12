@@ -2063,3 +2063,20 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Justin Champagnie,Out,,Injury/Illness - Right Foot Surgery,new
 2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Tristan Vukcevic,Out,,Injury/Illness - Left Hip Impingement,new
 2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Jamir Watkins,Out,,Injury/Illness - Left ACL Repair / Surgery,new
+2026-11-12 14:00,2026-11-12 19:00,2026-11-12,09:00,CHA@PHX,Charlotte Hornets,Moussa Diabate,Available,Probable,Injury/Illness - Right Quadriceps Tendinopathy,status
+2026-11-12 14:00,2026-11-12 19:00,2026-11-12,09:00,CHA@PHX,Charlotte Hornets,Grant Williams,Available,Probable,Injury/Illness - Right Hamstring Strain,status
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Malik Dia,Doubtful,,G League - Two-Way,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Bennedict Mathurin,Doubtful,,Injury/Illness - Right Thumb Sprain,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Bryce McGowens,Doubtful,,Injury/Illness - Left Elbow Infection,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Yves Missi,Doubtful,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Trey Murphy III,Doubtful,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Questionable,,G League - Two-Way,new
+2026-11-12 15:45,2026-11-12 20:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-12 16:15,2026-11-12 21:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Giannis Antetokounmpo,Probable,,Injury/Illness - Right Wrist Sprain,new
+2026-11-12 16:15,2026-11-12 21:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Vladislav Goldin,Out,,G League - Two-Way,new
+2026-11-12 16:15,2026-11-12 21:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Pelle Larsson,Questionable,,Injury/Illness - Illness,new
+2026-11-12 16:15,2026-11-12 21:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Klay Thompson,Questionable,,Injury/Illness - Left Ankle Soreness,new
+2026-11-12 16:30,2026-11-12 21:30,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Tobe Awaka,Out,,Injury/Illness - Disc Irritation,new
+2026-11-12 16:30,2026-11-12 21:30,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Norman Powell,Questionable,,Injury/Illness - Low Back Spasms,new
+2026-11-12 16:30,2026-11-12 21:30,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Dailyn Swain,Questionable,,Injury/Illness - Right Disc Irritation,new
+2026-11-12 16:30,2026-11-12 21:30,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Caleb Wilson,Out,,Injury/Illness - Right Metacarpal Fracture,new
