@@ -2051,3 +2051,15 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-11 20:15,2026-11-12 01:15,2026-11-11,09:00,ORL@UTA,Utah Jazz,Keyonte George,Available,Questionable,Injury/Illness - Right Ankle Sprain,status
 2026-11-11 20:30,2026-11-12 01:30,2026-11-11,09:00,ORL@UTA,Orlando Magic,Jamal Cain,Out,Questionable,Injury/Illness - Left Shoulder Contusion,status
 2026-11-11 20:30,2026-11-12 01:30,2026-11-11,09:00,ORL@UTA,Orlando Magic,Tristan da Silva,Out,Questionable,Injury/Illness - Left Calf Strain,status
+2026-11-12 12:30,2026-11-12 17:30,2026-11-12,07:00,DET@WAS,Detroit Pistons,Elijah Harkless,Available,Questionable,G League - Two-Way,status
+2026-11-12 12:30,2026-11-12 17:30,2026-11-12,07:00,DET@WAS,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Toronto Raptors,Scottie Barnes,Out,,Injury/Illness - Left Groin Strain,new
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Toronto Raptors,Nate Bittle,Out,,Injury/Illness - Right Foot Avulsion Fracture,new
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Toronto Raptors,Trayce Jackson-Davis,Out,,Injury/Illness - Illness,new
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Toronto Raptors,Kevin McCullar Jr.,Out,,G League - Two-Way,new
+2026-11-12 13:00,2026-11-12 18:00,2026-11-12,07:00,TOR@PHI,Philadelphia 76ers,LeBron James,Out,Questionable,Injury/Illness - Low Back/Sciatica Management,status
+2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Reece Beekman,Out,,Injury/Illness - Right AC Joint Injury,new
+2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Justin Champagnie,Out,,Injury/Illness - Right Foot Surgery,new
+2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Tristan Vukcevic,Out,,Injury/Illness - Left Hip Impingement,new
+2026-11-12 13:30,2026-11-12 18:30,2026-11-12,07:00,DET@WAS,Washington Wizards,Jamir Watkins,Out,,Injury/Illness - Left ACL Repair / Surgery,new
