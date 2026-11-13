@@ -16065,3 +16065,123 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-12T23:45:26Z,24.6,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Toronto Raptors,Philadelphia 76ers,betmgm,player_threes,Jamal Shead,Under,1.5,1.44
 2026-11-12T23:45:26Z,24.6,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Toronto Raptors,Philadelphia 76ers,betmgm,player_threes,Jamison Battle,Over,1.5,1.69
 2026-11-12T23:45:26Z,24.6,a98ff1ab79feb59277d989c656f16144,2026-11-13T00:10:00Z,Toronto Raptors,Philadelphia 76ers,betmgm,player_threes,Jamison Battle,Under,1.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Over,1.5,2.44
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Terrence Shannon Jr.,Under,1.5,1.54
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Over,1.5,2.22
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Jaden McDaniels,Under,1.5,1.64
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Over,3.5,2.16
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,LaMelo Ball,Under,3.5,1.68
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Over,1.5,2.24
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Jonathan Kuminga,Under,1.5,1.63
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Over,1.5,1.7
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Ayo Dosunmu,Under,1.5,2.12
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,P.J. Washington,Over,1.5,1.72
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,P.J. Washington,Under,1.5,2.08
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Kyrie Irving,Over,2.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Kyrie Irving,Under,2.5,2.1
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Cooper Flagg,Over,1.5,2.1
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,fanduel,player_threes,Cooper Flagg,Under,1.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Over,1.5,2.13
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jaden McDaniels,Under,1.5,1.68
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,P.J. Washington,Over,1.5,1.77
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,P.J. Washington,Under,1.5,2.0
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Over,1.5,2.41
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Terrence Shannon Jr.,Under,1.5,1.54
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Caleb Martin,Over,0.5,2.52
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Caleb Martin,Under,0.5,1.5
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Cooper Flagg,Over,1.5,2.13
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Cooper Flagg,Under,1.5,1.68
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Over,3.5,2.04
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,LaMelo Ball,Under,3.5,1.74
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Over,1.5,1.73
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Ayo Dosunmu,Under,1.5,2.06
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Over,1.5,2.17
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jonathan Kuminga,Under,1.5,1.66
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Kyrie Irving,Over,2.5,1.72
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Kyrie Irving,Under,2.5,2.07
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Trey Lyles,Over,0.5,1.46
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Trey Lyles,Under,0.5,2.65
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Naji Marshall,Over,0.5,1.89
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Naji Marshall,Under,0.5,1.87
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Santi Aldama,Over,0.5,1.61
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Santi Aldama,Under,0.5,2.25
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Zaccharie Risacher,Over,0.5,1.98
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Zaccharie Risacher,Under,0.5,1.79
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jaylen Clark,Over,0.5,1.93
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betonlineag,player_threes,Jaylen Clark,Under,0.5,1.83
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Over,3.5,1.93
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,LaMelo Ball,Under,3.5,1.81
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Kyrie Irving,Over,2.5,1.72
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Kyrie Irving,Under,2.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Over,1.5,1.68
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Ayo Dosunmu,Under,1.5,2.11
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,P.J. Washington,Over,1.5,1.81
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,P.J. Washington,Under,1.5,1.93
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Over,1.5,2.06
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jaden McDaniels,Under,1.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Over,1.5,2.13
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jonathan Kuminga,Under,1.5,1.67
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Cooper Flagg,Over,1.5,2.14
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Cooper Flagg,Under,1.5,1.67
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Over,1.5,2.33
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Terrence Shannon Jr.,Under,1.5,1.57
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Trey Lyles,Over,0.5,1.43
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Trey Lyles,Under,0.5,2.74
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Santi Aldama,Over,0.5,1.65
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Santi Aldama,Under,0.5,2.16
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Naji Marshall,Over,0.5,1.84
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Naji Marshall,Under,0.5,1.91
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Zaccharie Risacher,Over,0.5,1.93
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Zaccharie Risacher,Under,0.5,1.81
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jaylen Clark,Over,0.5,1.98
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Jaylen Clark,Under,0.5,1.78
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Caleb Martin,Over,0.5,2.72
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Caleb Martin,Under,0.5,1.43
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Morez Johnson Jr.,Over,0.5,3.99
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,draftkings,player_threes,Morez Johnson Jr.,Under,0.5,1.24
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Over,1.5,2.28
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jonathan Kuminga,Under,1.5,1.57
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Over,1.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Ayo Dosunmu,Under,1.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Cooper Flagg,Over,1.5,2.1
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Cooper Flagg,Under,1.5,1.67
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Over,3.5,2.08
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,LaMelo Ball,Under,3.5,1.68
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jaylen Clark,Over,0.5,1.95
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jaylen Clark,Under,0.5,1.77
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,P.J. Washington,Over,1.5,1.66
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,P.J. Washington,Under,1.5,2.12
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Naji Marshall,Over,0.5,1.89
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Naji Marshall,Under,0.5,1.83
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Over,1.5,2.18
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Jaden McDaniels,Under,1.5,1.63
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Over,1.5,2.4
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Terrence Shannon Jr.,Under,1.5,1.51
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Kyrie Irving,Over,3.5,2.25
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Kyrie Irving,Under,3.5,1.57
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Santi Aldama,Over,0.5,1.44
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Santi Aldama,Under,0.5,2.6
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Trey Lyles,Over,1.5,2.7
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betrivers,player_threes,Trey Lyles,Under,1.5,1.42
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Over,3.5,2.0
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,LaMelo Ball,Under,3.5,1.74
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Kyrie Irving,Over,3.5,2.55
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Kyrie Irving,Under,3.5,1.48
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Cooper Flagg,Over,1.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Cooper Flagg,Under,1.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,P.J. Washington,Over,1.5,1.62
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,P.J. Washington,Under,1.5,2.2
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Over,1.5,2.0
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jonathan Kuminga,Under,1.5,1.74
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Over,1.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jaden McDaniels,Under,1.5,1.71
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Ayo Dosunmu,Over,1.5,1.69
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Ayo Dosunmu,Under,1.5,2.05
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Over,1.5,2.35
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Terrence Shannon Jr.,Under,1.5,1.54
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Trey Lyles,Over,0.5,1.48
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Trey Lyles,Under,0.5,2.55
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jaylen Clark,Over,0.5,1.83
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Jaylen Clark,Under,0.5,1.91
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Santi Aldama,Over,0.5,1.5
+2026-11-13T00:28:59Z,41.0,3c93e4724d36d796aed71c0ca4055b1b,2026-11-13T01:10:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,player_threes,Santi Aldama,Under,0.5,2.45
