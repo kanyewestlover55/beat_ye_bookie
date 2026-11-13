@@ -1,5 +1,5 @@
-Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-11-13 15:09 UTC
-Bets placed 374, graded 367, void 7, open 0
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-11-13 20:14 UTC
+Bets placed 397, graded 367, void 7, open 23
 All: 367 bets | P/L -0.32u, ROI -0.1% (±5.5) | hit 0.567 vs implied 0.574 | fair CLV -3.7% on 187 (19% beat) | bet365 CLV +1.7% on 367 (42% beat)
 1+: 150 bets | P/L +0.08u, ROI +0.1% (±6.7) | hit 0.713 vs implied 0.724 | fair CLV -4.6% on 40 (12% beat) | bet365 CLV +1.6% on 150 (51% beat)
 2+: 217 bets | P/L -0.41u, ROI -0.2% (±8.1) | hit 0.465 vs implied 0.471 | fair CLV -3.5% on 147 (21% beat) | bet365 CLV +1.8% on 217 (36% beat)

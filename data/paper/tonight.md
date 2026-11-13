@@ -1,48 +1,83 @@
-# Paper picks, Thu 12 Nov
+# Paper picks, Fri 13 Nov
 
-Decided 21:13 Swiss · 4 games · 102 prices checked · **10 bets** · injuries: live report 2026-11-12 15:00 ET
+Decided 21:14 Swiss · 9 games · 236 prices checked · **23 bets** · injuries: live report 2026-11-13 15:00 ET
 
-## DET Pistons @ WAS Wizards
-Tip Fri 01:00 Swiss · prices about 2 min old when read
-
-| Player | Bet | Odds seen | Min odds | Model | EV |
-| --- | --- | --- | --- | --- | --- |
-| Alexandre Sarr | 1+ threes | 1.67 | 1.61 | 62% | +4% |
-| Alexandre Sarr | 2+ threes | 4.00 | 3.74 | 27% | +7% |
-| John Collins | 2+ threes | 3.25 | 3.22 | 31% | +1% |
-
-Teammates out (known at decision time): Isaiah Joe, Jalen Duren, Justin Champagnie
-
-## TOR Raptors @ PHI 76ers
-Tip Fri 01:00 Swiss · prices about 78 min old when read
+## MIL Bucks @ ORL Magic
+Tip Sat 01:00 Swiss · prices about 0 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Joel Embiid | 1+ threes | 1.56 | 1.51 | 66% | +3% |
-| Joel Embiid | 2+ threes | 3.30 | 3.24 | 31% | +2% |
-| RJ Barrett | 1+ threes | 1.22 | 1.22 | 82% | +0% |
-| RJ Barrett | 2+ threes | 2.00 | 1.89 | 53% | +6% |
+| Jalen Suggs | 1+ threes | 1.25 | 1.19 | 84% | +5% |
+| Jalen Suggs | 2+ threes | 2.00 | 1.76 | 57% | +14% |
 
-Teammates out (known at decision time): Kawhi Leonard, LeBron James, Scottie Barnes
+Teammates out (known at decision time): Paolo Banchero
 
-## DAL Mavericks @ MIN Timberwolves
-Tip Fri 02:00 Swiss · prices about 163 min old when read
+## NY Knicks @ IND Pacers
+Tip Sat 01:10 Swiss · prices about 3 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Jaden McDaniels | 2+ threes | 2.15 | 2.15 | 47% | +0% |
+| Josh Hart | 1+ threes | 1.34 | 1.26 | 80% | +7% |
+| Josh Hart | 2+ threes | 2.45 | 2.05 | 49% | +20% |
+| Karl-Anthony Towns | 1+ threes | 1.27 | 1.25 | 80% | +2% |
+| Karl-Anthony Towns | 2+ threes | 2.20 | 2.01 | 50% | +10% |
+| Miles McBride | 1+ threes | 1.25 | 1.19 | 85% | +6% |
+| Miles McBride | 2+ threes | 2.00 | 1.75 | 57% | +15% |
+| OG Anunoby | 2+ threes | 1.53 | 1.52 | 66% | +0% |
+| Obi Toppin | 1+ threes | 1.25 | 1.25 | 80% | +0% |
+| Obi Toppin | 2+ threes | 2.10 | 2.01 | 50% | +5% |
+| Pascal Siakam | 2+ threes | 1.74 | 1.63 | 61% | +7% |
 
-Teammates out (known at decision time): Anthony Edwards
+Teammates out (known at decision time): Tyrese Haliburton
 
-## CHA Hornets @ PHX Suns
-Tip Fri 03:00 Swiss · prices about 188 min old when read
+## ATL Hawks @ CHI Bulls
+Tip Sat 02:00 Swiss · prices about 3 min old when read
 
 | Player | Bet | Odds seen | Min odds | Model | EV |
 | --- | --- | --- | --- | --- | --- |
-| Royce O'Neale | 1+ threes | 1.14 | 1.14 | 88% | +1% |
-| Royce O'Neale | 2+ threes | 1.69 | 1.55 | 65% | +10% |
+| Josh Giddey | 1+ threes | 1.29 | 1.26 | 80% | +3% |
+| Josh Giddey | 2+ threes | 2.25 | 2.04 | 49% | +11% |
 
-Teammates out (known at decision time): Brandon Miller, Dennis Schroder, Kon Knueppel
+Teammates out (known at decision time): Caleb Wilson
+
+## CLE Cavaliers @ MIA Heat
+Tip Sat 02:00 Swiss · prices about 3 min old when read
+
+| Player | Bet | Odds seen | Min odds | Model | EV |
+| --- | --- | --- | --- | --- | --- |
+| Bam Adebayo | 2+ threes | 2.50 | 2.35 | 43% | +6% |
+| Peyton Watson | 2+ threes | 2.20 | 2.17 | 46% | +2% |
+
+Teammates out (known at decision time): Evan Mobley, Pelle Larsson, Sam Merrill
+
+## MEM Grizzlies @ NO Pelicans
+Tip Sat 02:00 Swiss · prices about 3 min old when read
+
+| Player | Bet | Odds seen | Min odds | Model | EV |
+| --- | --- | --- | --- | --- | --- |
+| Cam Spencer | 2+ threes | 2.30 | 2.19 | 46% | +5% |
+| Jaylen Wells | 2+ threes | 1.67 | 1.66 | 60% | +1% |
+
+Teammates out (known at decision time): Jahmai Mashack, Scotty Pippen Jr., Zach Edey
+
+## GS Warriors @ SA Spurs
+Tip Sat 03:40 Swiss · prices about 3 min old when read
+
+| Player | Bet | Odds seen | Min odds | Model | EV |
+| --- | --- | --- | --- | --- | --- |
+| Al Horford | 1+ threes | 1.29 | 1.29 | 78% | +0% |
+| Al Horford | 2+ threes | 2.22 | 2.20 | 46% | +1% |
+| De'Aaron Fox | 1+ threes | 1.38 | 1.34 | 75% | +4% |
+| De'Aaron Fox | 2+ threes | 2.50 | 2.42 | 41% | +4% |
+
+Teammates out (known at decision time): Brandon Williams, Stephen Curry
+
+## POR Trail Blazers @ SAC Kings
+Tip Sat 04:00 Swiss · prices about 3 min old when read
+
+| Player | Bet | Odds seen | Min odds | Model | EV |
+| --- | --- | --- | --- | --- | --- |
+| Domantas Sabonis | 1+ threes | 4.50 | 3.88 | 26% | +16% |
 
 ---
 **Odds seen:** bet365's price on the feed when the bot ran (can lag the app by up to an hour).  
