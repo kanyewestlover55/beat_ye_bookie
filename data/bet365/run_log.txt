@@ -376,3 +376,7 @@ Games to collect this run: 4
   CHA Hornets @ PHX Suns: 2100 3PM price points (0 O/U, 0 O/U players), 105 closes, 14 players
 props: 4 games collected ({'points': 7825, 'rebounds': 7091, 'assists': 4911}), 0 with no prop data
 
+2026-11-13T16:56:37Z | board: 463 basketball matches, 0 new NBA fixtures recorded
+Games to collect this run: 0
+props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
+
