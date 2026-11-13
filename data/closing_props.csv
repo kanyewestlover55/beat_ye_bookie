@@ -16297,3 +16297,249 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-13T01:45:14Z,24.8,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Charlotte Hornets,Phoenix Suns,betmgm,player_threes,Jordan Goodwin,Under,1.5,1.67
 2026-11-13T01:45:14Z,24.8,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Charlotte Hornets,Phoenix Suns,betmgm,player_threes,Collin Gillespie,Over,2.5,2.6
 2026-11-13T01:45:14Z,24.8,f3f429e773bfb2340ba2bb90f2b9dd1e,2026-11-13T02:10:00Z,Charlotte Hornets,Phoenix Suns,betmgm,player_threes,Collin Gillespie,Under,2.5,1.45
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Jalen Brunson,Over,2.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Jalen Brunson,Under,2.5,1.72
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,OG Anunoby,Over,2.5,2.34
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,OG Anunoby,Under,2.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Aaron Nesmith,Over,1.5,1.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Aaron Nesmith,Under,1.5,2.36
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Andrew Nembhard,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Andrew Nembhard,Under,1.5,2.34
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Landry Shamet,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Landry Shamet,Under,1.5,2.34
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Miles McBride,Over,1.5,1.76
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Miles McBride,Under,1.5,2.0
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Pascal Siakam,Over,1.5,1.88
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Pascal Siakam,Under,1.5,1.86
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Obi Toppin,Over,1.5,2.06
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Obi Toppin,Under,1.5,1.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Karl-Anthony Towns,Over,1.5,2.12
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Karl-Anthony Towns,Under,1.5,1.68
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Josh Hart,Over,1.5,2.37
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Josh Hart,Under,1.5,1.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Kelly Oubre Jr.,Over,1.5,2.54
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Kelly Oubre Jr.,Under,1.5,1.49
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Mikal Bridges,Over,1.5,2.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,draftkings,player_threes,Mikal Bridges,Under,1.5,1.44
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Jalen Brunson,Over,2.5,2.09
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Jalen Brunson,Under,2.5,1.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Andrew Nembhard,Over,1.5,1.6
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Andrew Nembhard,Under,1.5,2.28
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Obi Toppin,Over,1.5,2.09
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Obi Toppin,Under,1.5,1.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Josh Hart,Over,1.5,2.39
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Josh Hart,Under,1.5,1.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,OG Anunoby,Over,2.5,2.39
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,OG Anunoby,Under,2.5,1.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Landry Shamet,Over,1.5,1.62
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Landry Shamet,Under,1.5,2.23
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Pascal Siakam,Over,1.5,1.9
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Pascal Siakam,Under,1.5,1.86
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Mikal Bridges,Over,1.5,2.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Mikal Bridges,Under,1.5,1.44
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Karl-Anthony Towns,Over,1.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Karl-Anthony Towns,Under,1.5,1.74
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Kelly Oubre Jr.,Over,1.5,2.46
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Kelly Oubre Jr.,Under,1.5,1.52
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Miles McBride,Over,1.5,1.96
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Miles McBride,Under,1.5,1.81
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Aaron Nesmith,Over,1.5,1.57
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betonlineag,player_threes,Aaron Nesmith,Under,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Pascal Siakam,Over,1.5,1.9
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Andrew Nembhard,Over,1.5,1.59
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Andrew Nembhard,Under,1.5,2.32
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,OG Anunoby,Over,2.5,2.54
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,OG Anunoby,Under,2.5,1.5
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Obi Toppin,Over,1.5,2.08
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Obi Toppin,Under,1.5,1.72
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Karl-Anthony Towns,Over,1.5,2.04
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Karl-Anthony Towns,Under,1.5,1.76
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Kelly Oubre Jr.,Over,1.5,2.4
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Kelly Oubre Jr.,Under,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Jalen Brunson,Over,2.5,2.06
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Jalen Brunson,Under,2.5,1.74
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Mikal Bridges,Over,1.5,2.64
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Mikal Bridges,Under,1.5,1.47
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Josh Hart,Over,1.5,2.42
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Josh Hart,Under,1.5,1.54
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Landry Shamet,Over,1.5,1.64
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,fanduel,player_threes,Landry Shamet,Under,1.5,2.22
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,OG Anunoby,Over,2.5,2.45
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,OG Anunoby,Under,2.5,1.5
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Pascal Siakam,Over,1.5,1.92
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Pascal Siakam,Under,1.5,1.81
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Obi Toppin,Over,1.5,2.08
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Obi Toppin,Under,1.5,1.68
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Over,1.5,1.61
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Andrew Nembhard,Under,1.5,2.2
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Aaron Nesmith,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Aaron Nesmith,Under,1.5,2.32
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Kelly Oubre Jr.,Over,1.5,2.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Kelly Oubre Jr.,Under,1.5,1.47
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Josh Hart,Over,1.5,2.18
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Josh Hart,Under,1.5,1.62
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Karl-Anthony Towns,Over,1.5,2.18
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Karl-Anthony Towns,Under,1.5,1.62
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Landry Shamet,Over,1.5,1.62
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Landry Shamet,Under,1.5,2.18
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Mikal Bridges,Over,1.5,2.6
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Mikal Bridges,Under,1.5,1.44
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Jalen Brunson,Over,2.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betrivers,player_threes,Jalen Brunson,Under,2.5,1.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Under,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Over,2.5,2.7
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Aaron Nesmith,Under,2.5,1.43
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Under,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Over,2.5,2.7
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Andrew Nembhard,Under,2.5,1.43
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Jalen Brunson,Over,2.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Jalen Brunson,Under,2.5,1.74
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Josh Hart,Over,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Josh Hart,Under,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Karl-Anthony Towns,Over,1.5,2.15
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Karl-Anthony Towns,Under,1.5,1.67
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Kelly Oubre Jr.,Over,1.5,2.55
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Kelly Oubre Jr.,Under,1.5,1.48
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Landry Shamet,Over,1.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Landry Shamet,Under,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Landry Shamet,Over,2.5,2.7
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Landry Shamet,Under,2.5,1.43
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Mikal Bridges,Over,0.5,1.36
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Mikal Bridges,Under,0.5,3.0
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Mikal Bridges,Over,1.5,2.7
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Mikal Bridges,Under,1.5,1.43
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Miles McBride,Over,1.5,1.77
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Miles McBride,Under,1.5,2.0
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Obi Toppin,Over,1.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Obi Toppin,Under,1.5,1.74
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,OG Anunoby,Over,1.5,1.45
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,OG Anunoby,Under,1.5,2.65
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,OG Anunoby,Over,2.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,OG Anunoby,Under,2.5,1.56
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Pascal Siakam,Over,1.5,1.87
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,bovada,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Pascal Siakam,Over,1.5,1.87
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,OG Anunoby,Over,2.5,2.3
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,OG Anunoby,Under,2.5,1.57
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Jalen Brunson,Over,2.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Jalen Brunson,Under,2.5,1.71
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Andrew Nembhard,Over,1.5,1.53
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Andrew Nembhard,Under,1.5,2.4
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Landry Shamet,Over,1.5,1.65
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Landry Shamet,Under,1.5,2.15
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Miles McBride,Over,1.5,1.69
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Miles McBride,Under,1.5,2.05
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Aaron Nesmith,Over,2.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Kelly Oubre Jr.,Over,1.5,2.35
+2026-11-13T23:40:16Z,29.7,6669b911691463c669a5c10574742e8e,2026-11-14T00:10:00Z,New York Knicks,Indiana Pacers,betmgm,player_threes,Kelly Oubre Jr.,Under,1.5,1.54
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Franz Wagner,Over,1.5,1.87
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Franz Wagner,Under,1.5,1.9
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Tristan da Silva,Over,2.5,1.82
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Tristan da Silva,Under,2.5,1.96
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Jalen Suggs,Over,1.5,2.32
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Jalen Suggs,Under,1.5,1.59
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Desmond Bane,Over,3.5,2.04
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Desmond Bane,Under,3.5,1.76
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Kyle Kuzma,Over,1.5,2.08
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Kyle Kuzma,Under,1.5,1.72
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Anthony Black,Over,1.5,1.8
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Anthony Black,Under,1.5,1.98
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Tyler Herro,Over,2.5,1.87
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Tyler Herro,Under,2.5,1.9
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Nate Ament,Over,0.5,1.59
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Nate Ament,Under,0.5,2.32
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Brayden Burries,Over,1.5,2.62
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Brayden Burries,Under,1.5,1.48
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Jaime Jaquez Jr,Over,1.5,2.16
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,fanduel,player_threes,Jaime Jaquez Jr,Under,1.5,1.68
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Wendell Carter Jr,Over,0.5,1.68
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Wendell Carter Jr,Under,0.5,2.14
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Desmond Bane,Over,3.5,2.16
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Desmond Bane,Under,3.5,1.66
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Franz Wagner,Over,1.5,1.89
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Franz Wagner,Under,1.5,1.87
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Kyle Kuzma,Over,1.5,2.09
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Kyle Kuzma,Under,1.5,1.71
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Myles Turner,Over,1.5,2.17
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Myles Turner,Under,1.5,1.66
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Tyler Herro,Over,2.5,1.87
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Tyler Herro,Under,2.5,1.89
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Brayden Burries,Over,1.5,2.49
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Brayden Burries,Under,1.5,1.51
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Anthony Black,Over,1.5,1.89
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Anthony Black,Under,1.5,1.87
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Tristan da Silva,Over,2.5,1.98
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Tristan da Silva,Under,2.5,1.79
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Ryan Rollins,Over,1.5,1.95
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betonlineag,player_threes,Ryan Rollins,Under,1.5,1.81
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Franz Wagner,Over,1.5,1.93
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Franz Wagner,Under,1.5,1.79
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Jalen Suggs,Over,1.5,2.28
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Jalen Suggs,Under,1.5,1.57
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Nate Ament,Over,0.5,1.45
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Nate Ament,Under,0.5,2.55
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Tristan da Silva,Over,2.5,1.97
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Tristan da Silva,Under,2.5,1.75
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Tyler Herro,Over,2.5,1.89
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Tyler Herro,Under,2.5,1.83
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Wendell Carter Jr,Over,0.5,1.62
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Wendell Carter Jr,Under,0.5,2.18
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Ryan Rollins,Over,1.5,2.0
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Ryan Rollins,Under,1.5,1.74
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Desmond Bane,Over,3.5,2.08
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Desmond Bane,Under,3.5,1.68
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Kyle Kuzma,Over,1.5,2.02
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Kyle Kuzma,Under,1.5,1.73
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Brayden Burries,Over,1.5,2.7
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Brayden Burries,Under,1.5,1.42
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Jaime Jaquez Jr,Over,1.5,2.38
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Jaime Jaquez Jr,Under,1.5,1.53
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Myles Turner,Over,1.5,2.05
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Myles Turner,Under,1.5,1.71
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Anthony Black,Over,1.5,1.75
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betrivers,player_threes,Anthony Black,Under,1.5,1.97
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Desmond Bane,Over,3.5,2.19
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Desmond Bane,Under,3.5,1.64
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Tyler Herro,Over,2.5,1.78
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Tyler Herro,Under,2.5,1.98
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Anthony Black,Over,1.5,1.91
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Anthony Black,Under,1.5,1.84
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Franz Wagner,Over,1.5,1.91
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Franz Wagner,Under,1.5,1.83
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Kyle Kuzma,Over,1.5,2.09
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Kyle Kuzma,Under,1.5,1.7
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Ryan Rollins,Over,1.5,2.11
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Ryan Rollins,Under,1.5,1.68
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Jaime Jaquez Jr,Over,1.5,2.19
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Jaime Jaquez Jr,Under,1.5,1.63
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Myles Turner,Over,1.5,2.21
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Myles Turner,Under,1.5,1.63
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Brayden Burries,Over,1.5,2.53
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,draftkings,player_threes,Brayden Burries,Under,1.5,1.49
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Anthony Black,Over,1.5,1.91
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Anthony Black,Under,1.5,1.83
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Desmond Bane,Over,2.5,1.48
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Desmond Bane,Under,2.5,2.55
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Desmond Bane,Over,3.5,2.2
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Desmond Bane,Under,3.5,1.62
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Franz Wagner,Over,1.5,1.91
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Franz Wagner,Under,1.5,1.83
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Jalen Suggs,Over,0.5,1.36
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,bovada,player_threes,Jalen Suggs,Under,0.5,3.05
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Brayden Burries,Over,1.5,2.4
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Brayden Burries,Under,1.5,1.53
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Jaime Jaquez Jr,Over,1.5,2.25
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Jaime Jaquez Jr,Under,1.5,1.61
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Kyle Kuzma,Over,1.5,2.15
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Kyle Kuzma,Under,1.5,1.65
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Myles Turner,Over,1.5,2.0
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Myles Turner,Under,1.5,1.74
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Tyler Herro,Over,2.5,1.71
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Tyler Herro,Under,2.5,2.05
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Ryan Rollins,Over,1.5,1.95
+2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Ryan Rollins,Under,1.5,1.8
