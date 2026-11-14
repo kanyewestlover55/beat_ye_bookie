@@ -384,3 +384,16 @@ props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no
 Games to collect this run: 0
 props: 0 games collected ({'points': 0, 'rebounds': 0, 'assists': 0}), 0 with no prop data
 
+2026-11-14T10:45:17Z | board: 353 basketball matches, 5 new NBA fixtures recorded
+Games to collect this run: 9
+  MIL Bucks @ ORL Magic: 2688 3PM price points (0 O/U, 0 O/U players), 88 closes, 12 players
+  NY Knicks @ IND Pacers: 2399 3PM price points (0 O/U, 0 O/U players), 105 closes, 14 players
+  CLE Cavaliers @ MIA Heat: 3645 3PM price points (0 O/U, 0 O/U players), 101 closes, 14 players
+  ATL Hawks @ CHI Bulls: 2569 3PM price points (0 O/U, 0 O/U players), 95 closes, 13 players
+  MEM Grizzlies @ NO Pelicans: 2813 3PM price points (0 O/U, 0 O/U players), 103 closes, 16 players
+  UTA Jazz @ HOU Rockets: 2000 3PM price points (0 O/U, 0 O/U players), 85 closes, 12 players
+  GS Warriors @ SA Spurs: 2847 3PM price points (0 O/U, 0 O/U players), 109 closes, 15 players
+  POR Trail Blazers @ SAC Kings: 2276 3PM price points (0 O/U, 0 O/U players), 98 closes, 13 players
+  OKC Thunder @ LA Clippers: 2554 3PM price points (0 O/U, 0 O/U players), 101 closes, 14 players
+props: 9 games collected ({'points': 24098, 'rebounds': 18272, 'assists': 14217}), 0 with no prop data
+
