@@ -2175,3 +2175,42 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-13 13:15,2026-11-13 18:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Klay Thompson,Probable,Questionable,Injury/Illness - Left Ankle Soreness,status
 2026-11-13 15:15,2026-11-13 20:15,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Dejounte Murray,Out,Doubtful,Injury/Illness - Left Ankle Sprain,status
 2026-11-13 16:15,2026-11-13 21:15,2026-11-13,10:00,POR@SAC,Sacramento Kings,Precious Achiuwa,Out,Questionable,Injury/Illness - Left Ankle Soreness,status
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Tarik Biberovic,Out,,Injury/Illness - Right Heel Bursitis,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Max Christie,Questionable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Sergio de Larrea,Out,,Injury/Illness - Right Knee Sprain,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Morez Johnson Jr.,Probable,,Injury/Illness - Left Shin / Tibia Contusion,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Dereck Lively II,Out,,Injury/Illness - Right Foot Surgery,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Caleb Martin,Available,,Injury/Illness - Right Thumb Splint,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Tyler Bilodeau,Out,,G League - Two-Way,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Mikel Brown Jr.,Questionable,,Injury/Illness - Illness,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Joshua Jefferson,Out,,G League - On Assignment,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Grant Nelson,Out,,G League - Two-Way,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Ben Saraf,Out,,G League - On Assignment,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Nolan Traore,Probable,,Injury/Illness - Right Calf Tightness / Soreness,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Jalen Duren,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Elijah Harkless,Questionable,,G League - Two-Way,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Isaiah Joe,Out,,Injury/Illness - Right Hip Contusion,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Isaac Jones,Questionable,,G League - Two-Way,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Chaz Lanier,Out,,G League - On Assignment,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Ebuka Okorie,Out,,G League - On Assignment,new
+2026-11-13 17:00,2026-11-13 22:00,2026-11-14,08:00,DET@MIA,Detroit Pistons,Ugonna Onyenso,Out,,G League - Two-Way,new
+2026-11-13 17:15,2026-11-13 22:15,2026-11-13,07:00,MIL@ORL,Orlando Magic,Jamal Cain,Available,Questionable,Injury/Illness - Left Shoulder Contusion,status
+2026-11-13 17:15,2026-11-13 22:15,2026-11-13,07:00,MIL@ORL,Orlando Magic,Tristan da Silva,Available,Questionable,Injury/Illness - Left Calf Strain,status
+2026-11-13 17:15,2026-11-13 22:15,2026-11-13,07:00,MIL@ORL,Orlando Magic,Jalen Suggs,Available,Questionable,Injury/Illness - Right Knee Contusion / Bone Bruise,status
+2026-11-13 17:15,2026-11-13 22:15,2026-11-14,08:00,CHI@MIN,Minnesota Timberwolves,Joan Beringer,Available,,Injury/Illness - Face Mask,new
+2026-11-13 17:15,2026-11-13 22:15,2026-11-14,08:00,CHI@MIN,Minnesota Timberwolves,Donte DiVincenzo,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
+2026-11-13 17:15,2026-11-13 22:15,2026-11-14,08:00,CHI@MIN,Minnesota Timberwolves,Anthony Edwards,Out,,Injury/Illness - Right Knee Arthroscopy,new
+2026-11-13 18:00,2026-11-13 23:00,2026-11-13,07:00,NYK@IND,Indiana Pacers,T.J. McConnell,Available,Probable,Injury/Illness - Right Hamstring Strain,status
+2026-11-13 18:00,2026-11-13 23:00,2026-11-13,07:00,NYK@IND,Indiana Pacers,Aaron Nesmith,Available,Questionable,Injury/Illness - Right Knee Soreness,status
+2026-11-13 18:00,2026-11-13 23:00,2026-11-13,08:00,CLE@MIA,Miami Heat,Pelle Larsson,Out,Doubtful,Injury/Illness - Illness,status
+2026-11-13 18:00,2026-11-13 23:00,2026-11-13,08:00,CLE@MIA,Miami Heat,Klay Thompson,Questionable,Probable,Injury/Illness - Left Ankle Soreness,status
+2026-11-13 18:15,2026-11-13 23:15,2026-11-13,08:00,CLE@MIA,Miami Heat,Klay Thompson,Out,Questionable,Injury/Illness - Left Ankle Soreness,status
+2026-11-13 18:30,2026-11-13 23:30,2026-11-13,08:00,ATL@CHI,Atlanta Hawks,RayJ Dennis,Available,Questionable,G League - Two-Way,status
+2026-11-13 18:30,2026-11-13 23:30,2026-11-13,08:00,ATL@CHI,Atlanta Hawks,Kingston Flemings,Available,Questionable,Injury/Illness - Lumbar Spasm,status
+2026-11-13 18:30,2026-11-13 23:30,2026-11-14,07:00,DEN@NOP,Denver Nuggets,DaRon Holmes II,Out,,G League - On Assignment,new
+2026-11-13 18:30,2026-11-13 23:30,2026-11-14,07:00,DEN@NOP,Denver Nuggets,Ryan Nembhard,Out,,G League - Two-Way,new
+2026-11-13 18:30,2026-11-13 23:30,2026-11-14,07:00,DEN@NOP,Denver Nuggets,Julian Strawther,Out,,Injury/Illness - Left Knee Sprain,new
+2026-11-13 18:30,2026-11-13 23:30,2026-11-14,07:00,DEN@NOP,Denver Nuggets,Cam Whitmore,Out,,G League - Two-Way,new
+2026-11-13 18:45,2026-11-13 23:45,2026-11-13,08:00,MEM@NOP,New Orleans Pelicans,Bennedict Mathurin,Available,Questionable,Injury/Illness - Right Thumb Sprain,status
+2026-11-13 19:15,2026-11-14 00:15,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Norman Powell,Available,Questionable,-,status
+2026-11-13 19:15,2026-11-14 00:15,2026-11-13,08:00,ATL@CHI,Chicago Bulls,Dailyn Swain,Out,Questionable,Injury/Illness - Right Disc Irritation,status
