@@ -2218,3 +2218,31 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-13 20:45,2026-11-14 01:45,2026-11-13,09:30,GSW@SAS,San Antonio Spurs,De'Aaron Fox,Available,Questionable,-,status
 2026-11-13 20:45,2026-11-14 01:45,2026-11-13,09:30,GSW@SAS,San Antonio Spurs,Devin Vassell,Available,Questionable,-,status
 2026-11-13 21:30,2026-11-14 02:30,2026-11-13,10:30,OKC@LAC,Oklahoma City Thunder,Ajay Mitchell,Out,Questionable,Injury/Illness - Left Ankle Sprain,status
+2026-11-14 12:15,2026-11-14 17:15,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Mikel Brown Jr.,Probable,Questionable,Injury/Illness - Illness,status
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Bryce McGowens,Out,,Injury/Illness - Left Elbow Infection,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Yves Missi,Probable,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Trey Murphy III,Out,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Dejounte Murray,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Max Christie,Doubtful,Questionable,Injury/Illness - Left Ankle Sprain,status
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Tobe Awaka,Out,,Injury/Illness - Disc Irritation,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Nic Claxton,Questionable,,Injury/Illness - Left Hamstring Injury Management,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Norman Powell,Questionable,,Injury/Illness - Low Back Injury Management,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Jaylin Sellers,Out,,G League - Two-Way,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Jalen Smith,Questionable,,Injury/Illness - Left Finger Sprain,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Dailyn Swain,Out,,G League - On Assignment,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Caleb Wilson,Out,,Injury/Illness - Right Metacarpal Fracture,new
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,DET@MIA,Detroit Pistons,Elijah Harkless,Available,Questionable,G League - Two-Way,status
+2026-11-14 12:45,2026-11-14 17:45,2026-11-14,08:00,DET@MIA,Detroit Pistons,Isaac Jones,Available,Questionable,G League - Two-Way,status
+2026-11-14 13:00,2026-11-14 18:00,2026-11-14,08:00,DET@MIA,Miami Heat,Giannis Antetokounmpo,Probable,,Injury/Illness - Right Wrist Sprain,new
+2026-11-14 13:00,2026-11-14 18:00,2026-11-14,08:00,DET@MIA,Miami Heat,Vladislav Goldin,Out,,G League - Two-Way,new
+2026-11-14 13:00,2026-11-14 18:00,2026-11-14,08:00,DET@MIA,Miami Heat,Pelle Larsson,Doubtful,,Injury/Illness - Illness,new
+2026-11-14 13:00,2026-11-14 18:00,2026-11-14,08:00,DET@MIA,Miami Heat,Klay Thompson,Probable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Jarrett Allen,Questionable,,Injury/Illness - Right Knee Injury Management,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,James Harden,Questionable,,Injury/Illness - Left Lower Leg/Calf Tightness,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Sam Merrill,Out,,Injury/Illness - Right Elbow Injury Management,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Donovan Mitchell,Questionable,,Injury/Illness - Left Knee Contusion/Injury Management,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Evan Mobley,Out,,Injury/Illness - Left Great Toe Sprain,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Nae'Qwan Tomlin,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,"Jr., Ernest Udeh",Out,,G League - Two-Way,new
+2026-11-14 13:15,2026-11-14 18:15,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Peyton Watson,Questionable,,Injury/Illness - Right Hamstring Injury Management,new
