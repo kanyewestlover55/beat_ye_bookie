@@ -16543,3 +16543,142 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Tyler Herro,Under,2.5,2.05
 2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Ryan Rollins,Over,1.5,1.95
 2026-11-13T23:40:16Z,29.7,76416359b5453c01968e94702a375f16,2026-11-14T00:10:00Z,Milwaukee Bucks,Orlando Magic,betmgm,player_threes,Ryan Rollins,Under,1.5,1.8
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Keyonte George,Over,2.5,2.62
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Keyonte George,Under,2.5,1.48
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Kevin Durant,Over,1.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Kevin Durant,Under,1.5,2.08
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Jabari Smith Jr,Over,2.5,2.22
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Jabari Smith Jr,Under,2.5,1.64
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Fred VanVleet,Over,2.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Fred VanVleet,Under,2.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Darryn Peterson,Over,2.5,2.44
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Darryn Peterson,Under,2.5,1.54
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Tari Eason,Over,1.5,2.24
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Tari Eason,Under,1.5,1.63
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Reed Sheppard,Over,2.5,2.08
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Reed Sheppard,Under,2.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Ace Bailey,Over,1.5,1.67
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,fanduel,player_threes,Ace Bailey,Under,1.5,2.18
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Keyonte George,Over,2.5,2.44
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Keyonte George,Under,2.5,1.53
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Jabari Smith Jr,Over,2.5,2.28
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Jabari Smith Jr,Under,2.5,1.6
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Tari Eason,Over,1.5,2.41
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Tari Eason,Under,1.5,1.54
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Alperen Sengun,Over,0.5,2.13
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Alperen Sengun,Under,0.5,1.68
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Fred VanVleet,Over,2.5,1.85
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Fred VanVleet,Under,2.5,1.91
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Reed Sheppard,Over,2.5,2.07
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Reed Sheppard,Under,2.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Kevin Durant,Over,1.5,1.74
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Kevin Durant,Under,1.5,2.05
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Darryn Peterson,Over,2.5,2.34
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Darryn Peterson,Under,2.5,1.57
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Ace Bailey,Over,1.5,1.7
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Ace Bailey,Under,1.5,2.1
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Josh Green,Over,0.5,1.71
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Josh Green,Under,0.5,2.09
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Brice Sensabaugh,Over,1.5,2.32
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Brice Sensabaugh,Under,1.5,1.58
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Josh Okogie,Over,0.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Josh Okogie,Under,0.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Svi Mykhailiuk,Over,0.5,1.61
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betonlineag,player_threes,Svi Mykhailiuk,Under,0.5,2.26
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Darryn Peterson,Over,2.5,2.6
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Darryn Peterson,Under,2.5,1.44
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Josh Okogie,Over,0.5,1.77
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Josh Okogie,Under,0.5,1.95
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Kevin Durant,Over,1.5,1.71
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Kevin Durant,Under,1.5,2.04
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Brice Sensabaugh,Over,1.5,2.1
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Brice Sensabaugh,Under,1.5,1.67
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Reed Sheppard,Over,2.5,2.02
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Reed Sheppard,Under,2.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Fred VanVleet,Over,2.5,1.85
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Fred VanVleet,Under,2.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Tari Eason,Over,1.5,2.43
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Tari Eason,Under,1.5,1.51
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Ace Bailey,Over,2.5,2.4
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Ace Bailey,Under,2.5,1.51
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Keyonte George,Over,1.5,1.6
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Keyonte George,Under,1.5,2.23
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Jabari Smith Jr,Over,2.5,2.32
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betrivers,player_threes,Jabari Smith Jr,Under,2.5,1.56
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Fred VanVleet,Over,2.5,1.79
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Fred VanVleet,Under,2.5,1.95
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Jabari Smith Jr,Over,2.5,2.17
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Jabari Smith Jr,Under,2.5,1.65
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Reed Sheppard,Over,2.5,2.2
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Reed Sheppard,Under,2.5,1.63
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Darryn Peterson,Over,2.5,2.29
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Darryn Peterson,Under,2.5,1.58
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Keyonte George,Over,2.5,2.37
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Keyonte George,Under,2.5,1.55
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Ace Bailey,Over,2.5,2.43
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Ace Bailey,Under,2.5,1.53
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Kevin Durant,Over,1.5,1.67
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Kevin Durant,Under,1.5,2.13
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Brice Sensabaugh,Over,1.5,2.27
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Brice Sensabaugh,Under,1.5,1.6
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Tari Eason,Over,1.5,2.55
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Tari Eason,Under,1.5,1.49
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Josh Green,Over,0.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Josh Green,Under,0.5,2.06
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Josh Okogie,Over,0.5,1.87
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Josh Okogie,Under,0.5,1.88
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Alperen Sengun,Over,0.5,2.06
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,draftkings,player_threes,Alperen Sengun,Under,0.5,1.72
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Ace Bailey,Over,1.5,1.48
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Ace Bailey,Under,1.5,2.55
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Ace Bailey,Over,2.5,2.45
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Ace Bailey,Under,2.5,1.53
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Alperen Sengun,Over,0.5,2.05
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Alperen Sengun,Under,0.5,1.74
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Brice Sensabaugh,Over,1.5,2.3
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Brice Sensabaugh,Under,1.5,1.59
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Darryn Peterson,Over,1.5,1.42
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Darryn Peterson,Under,1.5,2.75
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Darryn Peterson,Over,2.5,2.3
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Darryn Peterson,Under,2.5,1.59
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Fred VanVleet,Over,2.5,1.8
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Fred VanVleet,Under,2.5,1.95
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Fred VanVleet,Over,3.5,3.0
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Fred VanVleet,Under,3.5,1.36
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Over,1.5,1.4
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Under,1.5,2.85
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Over,2.5,2.2
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Jabari Smith Jr,Under,2.5,1.62
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Josh Green,Under,0.5,2.11
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Josh Okogie,Over,0.5,1.87
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Josh Okogie,Under,0.5,1.87
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Kevin Durant,Over,1.5,1.67
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Kevin Durant,Under,1.5,2.15
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Kevin Durant,Over,2.5,2.9
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Kevin Durant,Under,2.5,1.38
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Keyonte George,Over,1.5,1.45
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Keyonte George,Under,1.5,2.65
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Keyonte George,Over,2.5,2.4
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Keyonte George,Under,2.5,1.54
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Reed Sheppard,Over,1.5,1.4
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Reed Sheppard,Under,1.5,2.85
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Reed Sheppard,Over,2.5,2.2
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Reed Sheppard,Under,2.5,1.62
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Tari Eason,Over,1.5,2.55
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,bovada,player_threes,Tari Eason,Under,1.5,1.48
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Fred VanVleet,Over,2.5,1.8
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Fred VanVleet,Under,2.5,1.95
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Ace Bailey,Over,2.5,2.45
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Ace Bailey,Under,2.5,1.5
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Josh Green,Over,0.5,1.65
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Josh Green,Under,0.5,2.15
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Kevin Durant,Over,1.5,1.83
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Kevin Durant,Under,1.5,1.91
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Darryn Peterson,Over,2.5,2.25
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Darryn Peterson,Under,2.5,1.61
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Jabari Smith Jr,Over,2.5,2.45
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Jabari Smith Jr,Under,2.5,1.5
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Tari Eason,Over,1.5,2.3
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Tari Eason,Under,1.5,1.57
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Keyonte George,Over,2.5,2.3
+2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Keyonte George,Under,2.5,1.57
