@@ -16682,3 +16682,321 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Tari Eason,Under,1.5,1.57
 2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Keyonte George,Over,2.5,2.3
 2026-11-14T01:41:26Z,0.6,d04acca7f0f369fc53bf04cd3357cb0d,2026-11-14T01:42:00Z,Utah Jazz,Houston Rockets,betmgm,player_threes,Keyonte George,Under,2.5,1.57
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Brandin Podziemski,Over,2.5,1.91
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Brandin Podziemski,Under,2.5,1.83
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Yaxel Lendeborg,Over,2.5,2.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Yaxel Lendeborg,Under,2.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Julian Champagnie,Over,2.5,2.42
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Julian Champagnie,Under,2.5,1.53
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Victor Wembanyama,Over,1.5,1.6
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Victor Wembanyama,Under,1.5,2.26
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,De'Anthony Melton,Over,1.5,1.63
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,De'Anthony Melton,Under,1.5,2.2
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Devin Vassell,Over,1.5,1.67
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Devin Vassell,Under,1.5,2.14
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Stephon Castle,Over,1.5,1.88
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Stephon Castle,Under,1.5,1.87
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Al Horford,Over,1.5,2.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Al Horford,Under,1.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Georges Niang,Over,1.5,2.56
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Georges Niang,Under,1.5,1.48
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,De'Aaron Fox,Over,1.5,2.59
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,De'Aaron Fox,Under,1.5,1.47
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Dylan Harper,Over,0.5,1.42
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Dylan Harper,Under,0.5,2.78
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Will Richard,Over,0.5,1.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Will Richard,Under,0.5,2.52
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Draymond Green,Over,0.5,1.7
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Draymond Green,Under,0.5,2.09
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Gui Santos,Over,0.5,1.74
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Gui Santos,Under,0.5,2.04
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Keldon Johnson,Over,0.5,2.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,draftkings,player_threes,Keldon Johnson,Under,0.5,1.66
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Draymond Green,Over,0.5,1.63
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Draymond Green,Under,0.5,2.22
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Devin Vassell,Over,1.5,1.74
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Devin Vassell,Under,1.5,2.04
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Julian Champagnie,Over,2.5,2.34
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Julian Champagnie,Under,2.5,1.57
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Stephon Castle,Over,1.5,1.86
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Stephon Castle,Under,1.5,1.9
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Brandin Podziemski,Over,2.5,2.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Brandin Podziemski,Under,2.5,1.67
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Victor Wembanyama,Over,1.5,1.62
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Victor Wembanyama,Under,1.5,2.23
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,De'Anthony Melton,Over,1.5,1.77
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,De'Anthony Melton,Under,1.5,2.0
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Al Horford,Over,1.5,2.49
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Al Horford,Under,1.5,1.51
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,De'Aaron Fox,Over,1.5,2.55
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,De'Aaron Fox,Under,1.5,1.49
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Yaxel Lendeborg,Over,2.5,2.44
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Yaxel Lendeborg,Under,2.5,1.53
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Gui Santos,Over,0.5,1.77
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Gui Santos,Under,0.5,2.01
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Gary Payton II,Over,0.5,1.97
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Gary Payton II,Under,0.5,1.8
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Georges Niang,Over,1.5,2.49
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Georges Niang,Under,1.5,1.51
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Will Richard,Over,0.5,1.51
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Will Richard,Under,0.5,2.49
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Dylan Harper,Over,0.5,1.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betonlineag,player_threes,Dylan Harper,Under,0.5,2.68
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Will Richard,Over,1.5,3.0
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Will Richard,Under,1.5,1.38
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Al Horford,Over,1.5,2.58
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Al Horford,Under,1.5,1.49
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Stephon Castle,Over,1.5,2.04
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Stephon Castle,Under,1.5,1.76
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,De'Anthony Melton,Over,1.5,1.72
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,De'Anthony Melton,Under,1.5,2.08
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Georges Niang,Over,1.5,2.34
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Georges Niang,Under,1.5,1.58
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Dylan Harper,Over,1.5,2.8
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Dylan Harper,Under,1.5,1.43
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Yaxel Lendeborg,Over,2.5,2.48
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Yaxel Lendeborg,Under,2.5,1.52
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Brandin Podziemski,Over,2.5,2.22
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Brandin Podziemski,Under,2.5,1.64
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Victor Wembanyama,Over,1.5,1.62
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Victor Wembanyama,Under,1.5,2.24
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Devin Vassell,Over,1.5,1.8
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,Devin Vassell,Under,1.5,1.98
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,De'Aaron Fox,Over,1.5,2.52
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,fanduel,player_threes,De'Aaron Fox,Under,1.5,1.51
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Al Horford,Over,1.5,2.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Al Horford,Under,1.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Brandin Podziemski,Over,2.5,2.0
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Brandin Podziemski,Under,2.5,1.77
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Over,0.5,1.34
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Under,0.5,3.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Over,1.5,2.6
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Aaron Fox,Under,1.5,1.47
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Anthony Melton,Over,1.5,1.67
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Anthony Melton,Under,1.5,2.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Anthony Melton,Over,2.5,2.9
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,De'Anthony Melton,Under,2.5,1.38
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Devin Vassell,Over,1.5,1.67
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Devin Vassell,Under,1.5,2.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Devin Vassell,Over,2.5,2.9
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Devin Vassell,Under,2.5,1.38
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Draymond Green,Over,0.5,1.62
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Draymond Green,Under,0.5,2.2
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Dylan Harper,Over,0.5,1.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Dylan Harper,Under,0.5,2.85
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Dylan Harper,Over,1.5,2.85
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Dylan Harper,Under,1.5,1.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Georges Niang,Over,1.5,2.55
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Georges Niang,Under,1.5,1.48
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Gui Santos,Over,0.5,1.77
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Gui Santos,Under,0.5,2.0
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Over,1.5,1.48
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Under,1.5,2.55
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Over,2.5,2.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Julian Champagnie,Under,2.5,1.53
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Keldon Johnson,Over,0.5,2.1
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Keldon Johnson,Under,0.5,1.69
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Stephon Castle,Over,1.5,1.87
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Stephon Castle,Under,1.5,1.87
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Over,1.5,1.61
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Under,1.5,2.25
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Over,2.5,2.85
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Victor Wembanyama,Under,2.5,1.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Yaxel Lendeborg,Over,1.5,1.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Yaxel Lendeborg,Under,1.5,2.65
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Yaxel Lendeborg,Over,2.5,2.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,bovada,player_threes,Yaxel Lendeborg,Under,2.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Georges Niang,Over,1.5,2.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Georges Niang,Under,1.5,1.48
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Julian Champagnie,Over,2.5,2.35
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Julian Champagnie,Under,2.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Brandin Podziemski,Over,2.5,2.02
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Brandin Podziemski,Under,2.5,1.72
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Stephon Castle,Over,1.5,1.85
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Stephon Castle,Under,1.5,1.87
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Draymond Green,Over,0.5,1.68
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Draymond Green,Under,0.5,2.07
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Victor Wembanyama,Over,1.5,1.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Victor Wembanyama,Under,1.5,2.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Keldon Johnson,Over,0.5,1.82
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Keldon Johnson,Under,0.5,1.91
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Dylan Harper,Over,1.5,2.6
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Dylan Harper,Under,1.5,1.44
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Devin Vassell,Over,1.5,1.66
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Devin Vassell,Under,1.5,2.12
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,De'Anthony Melton,Over,1.5,1.6
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,De'Anthony Melton,Under,1.5,2.23
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Al Horford,Over,0.5,1.43
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Al Horford,Under,0.5,2.63
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Yaxel Lendeborg,Over,2.5,2.43
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,Yaxel Lendeborg,Under,2.5,1.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,De'Aaron Fox,Over,1.5,2.55
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betrivers,player_threes,De'Aaron Fox,Under,1.5,1.47
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Draymond Green,Over,0.5,1.65
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Draymond Green,Under,0.5,2.15
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Victor Wembanyama,Over,1.5,1.67
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Victor Wembanyama,Under,1.5,2.1
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Keldon Johnson,Over,0.5,2.05
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Keldon Johnson,Under,0.5,1.71
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Al Horford,Over,1.5,2.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Al Horford,Under,1.5,1.5
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Yaxel Lendeborg,Over,1.5,1.54
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Yaxel Lendeborg,Under,1.5,2.35
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Devin Vassell,Over,1.5,1.83
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Devin Vassell,Under,1.5,1.91
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,De'Aaron Fox,Over,1.5,2.6
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,De'Aaron Fox,Under,1.5,1.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Stephon Castle,Over,1.5,1.8
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Stephon Castle,Under,1.5,1.95
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,De'Anthony Melton,Over,1.5,1.61
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,De'Anthony Melton,Under,1.5,2.25
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Brandin Podziemski,Over,2.5,2.0
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Brandin Podziemski,Under,2.5,1.74
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Dylan Harper,Over,0.5,1.43
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Dylan Harper,Under,0.5,2.75
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Julian Champagnie,Over,2.5,2.25
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Julian Champagnie,Under,2.5,1.61
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Gui Santos,Over,0.5,1.8
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Gui Santos,Under,0.5,1.95
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Georges Niang,Over,1.5,2.4
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Georges Niang,Under,1.5,1.53
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Will Richard,Over,0.5,1.45
+2026-11-14T02:32:26Z,7.6,1fae7f34ec6035dffa74feb148ee26c7,2026-11-14T02:40:00Z,Golden State Warriors,San Antonio Spurs,betmgm,player_threes,Will Richard,Under,0.5,2.6
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,De'Andre Hunter,Over,1.5,1.71
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,De'Andre Hunter,Under,1.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Damian Lillard,Over,3.5,2.34
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Damian Lillard,Under,3.5,1.58
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Donovan Clingan,Over,1.5,3.0
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Donovan Clingan,Under,1.5,1.38
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Jrue Holiday,Over,2.5,2.38
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Jrue Holiday,Under,2.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Scoot Henderson,Over,1.5,2.32
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Scoot Henderson,Under,1.5,1.59
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Zach LaVine,Over,2.5,2.0
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Zach LaVine,Under,2.5,1.78
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Darius Acuff Jr.,Over,2.5,1.74
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Darius Acuff Jr.,Under,2.5,2.06
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Sidy Cissoko,Over,1.5,2.28
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Sidy Cissoko,Under,1.5,1.61
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Deni Avdija,Over,1.5,1.62
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Deni Avdija,Under,1.5,2.24
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Toumani Camara,Over,2.5,1.9
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,fanduel,player_threes,Toumani Camara,Under,2.5,1.87
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Damian Lillard,Over,3.5,2.22
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Damian Lillard,Under,3.5,1.63
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Keegan Murray,Over,1.5,2.18
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Keegan Murray,Under,1.5,1.65
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Scoot Henderson,Over,1.5,2.28
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Scoot Henderson,Under,1.5,1.6
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Toumani Camara,Over,2.5,1.9
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Toumani Camara,Under,2.5,1.86
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Jrue Holiday,Over,2.5,2.3
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Jrue Holiday,Under,2.5,1.59
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Deni Avdija,Over,1.5,1.62
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Deni Avdija,Under,1.5,2.24
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Donovan Clingan,Over,0.5,1.53
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Donovan Clingan,Under,0.5,2.44
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Zach LaVine,Over,2.5,2.02
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Zach LaVine,Under,2.5,1.76
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,De'Andre Hunter,Over,1.5,1.76
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,De'Andre Hunter,Under,1.5,2.02
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Sidy Cissoko,Over,1.5,2.28
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Sidy Cissoko,Under,1.5,1.6
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Darius Acuff Jr.,Over,2.5,1.71
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betonlineag,player_threes,Darius Acuff Jr.,Under,2.5,2.08
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Damian Lillard,Over,3.5,2.15
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Damian Lillard,Under,3.5,1.66
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Darius Acuff Jr.,Over,2.5,1.68
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Darius Acuff Jr.,Under,2.5,2.12
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Toumani Camara,Over,2.5,1.86
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Toumani Camara,Under,2.5,1.88
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Zach LaVine,Over,2.5,2.01
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Zach LaVine,Under,2.5,1.76
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Jrue Holiday,Over,2.5,2.28
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Jrue Holiday,Under,2.5,1.59
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Deni Avdija,Over,1.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Deni Avdija,Under,1.5,2.34
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,De'Andre Hunter,Over,1.5,1.79
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,De'Andre Hunter,Under,1.5,1.96
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Keegan Murray,Over,1.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Keegan Murray,Under,1.5,1.69
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Sidy Cissoko,Over,1.5,2.11
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Sidy Cissoko,Under,1.5,1.68
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Scoot Henderson,Over,1.5,2.35
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Scoot Henderson,Under,1.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Donovan Clingan,Over,0.5,1.49
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,draftkings,player_threes,Donovan Clingan,Under,0.5,2.54
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Damian Lillard,Over,2.5,1.45
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Damian Lillard,Under,2.5,2.65
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Damian Lillard,Over,3.5,2.15
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Damian Lillard,Under,3.5,1.67
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Over,2.5,1.69
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Under,2.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Over,3.5,2.7
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Darius Acuff Jr.,Under,3.5,1.43
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,De'Andre Hunter,Over,1.5,1.8
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,De'Andre Hunter,Under,1.5,1.95
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Deni Avdija,Over,1.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Deni Avdija,Under,1.5,2.35
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Deni Avdija,Over,2.5,2.7
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Deni Avdija,Under,2.5,1.43
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Donovan Clingan,Over,0.5,1.48
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Donovan Clingan,Under,0.5,2.55
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Jrue Holiday,Over,1.5,1.42
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Jrue Holiday,Under,1.5,2.75
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Jrue Holiday,Over,2.5,2.3
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Jrue Holiday,Under,2.5,1.59
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Keegan Murray,Over,1.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Keegan Murray,Under,1.5,1.69
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Scoot Henderson,Over,1.5,2.35
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Scoot Henderson,Under,1.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Sidy Cissoko,Over,1.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Sidy Cissoko,Under,1.5,1.69
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Toumani Camara,Over,2.5,1.87
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Toumani Camara,Under,2.5,1.87
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Zach LaVine,Over,2.5,2.0
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,bovada,player_threes,Zach LaVine,Under,2.5,1.77
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Darius Acuff Jr.,Over,2.5,1.66
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Darius Acuff Jr.,Under,2.5,2.12
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Deni Avdija,Over,1.5,1.63
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Deni Avdija,Under,1.5,2.17
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Scoot Henderson,Over,1.5,2.32
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Scoot Henderson,Under,1.5,1.56
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Keegan Murray,Over,1.5,2.18
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Keegan Murray,Under,1.5,1.63
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Zach LaVine,Over,2.5,1.88
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Zach LaVine,Under,2.5,1.83
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Sidy Cissoko,Over,1.5,2.17
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Sidy Cissoko,Under,1.5,1.63
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,De'Andre Hunter,Over,1.5,1.6
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,De'Andre Hunter,Under,1.5,2.23
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Damian Lillard,Over,3.5,2.23
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Damian Lillard,Under,3.5,1.6
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Donovan Clingan,Over,0.5,1.42
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Donovan Clingan,Under,0.5,2.7
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Jrue Holiday,Over,2.5,2.35
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Jrue Holiday,Under,2.5,1.54
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Toumani Camara,Over,2.5,1.94
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betrivers,player_threes,Toumani Camara,Under,2.5,1.78
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Zach LaVine,Over,2.5,1.95
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Zach LaVine,Under,2.5,1.8
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Toumani Camara,Over,2.5,1.91
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Toumani Camara,Under,2.5,1.83
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Darius Acuff Jr.,Over,2.5,1.62
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Darius Acuff Jr.,Under,2.5,2.2
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Donovan Clingan,Over,0.5,1.48
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Donovan Clingan,Under,0.5,2.55
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Damian Lillard,Over,3.5,2.1
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Damian Lillard,Under,3.5,1.67
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Deni Avdija,Over,1.5,1.61
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Deni Avdija,Under,1.5,2.25
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Keegan Murray,Over,1.5,2.05
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Keegan Murray,Under,1.5,1.71
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Jrue Holiday,Over,2.5,2.15
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Jrue Holiday,Under,2.5,1.65
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Sidy Cissoko,Over,1.5,2.05
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Sidy Cissoko,Under,1.5,1.71
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Scoot Henderson,Over,1.5,2.25
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,Scoot Henderson,Under,1.5,1.61
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,De'Andre Hunter,Over,1.5,1.67
+2026-11-14T02:32:26Z,37.6,a51c350318d7570c2b74af08eedb9fcd,2026-11-14T03:10:00Z,Portland Trail Blazers,Sacramento Kings,betmgm,player_threes,De'Andre Hunter,Under,1.5,2.1
