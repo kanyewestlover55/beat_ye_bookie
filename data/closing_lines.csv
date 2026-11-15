@@ -5675,3 +5675,111 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-14T23:36:14Z,93.8,cb06267ae037a883ae6f71078d6e2aaa,2026-11-15T01:10:00Z,Detroit Pistons,Miami Heat,mybookieag,spreads,Miami Heat,4.0,1.91
 2026-11-14T23:36:14Z,93.8,cb06267ae037a883ae6f71078d6e2aaa,2026-11-15T01:10:00Z,Detroit Pistons,Miami Heat,mybookieag,totals,Over,228.5,1.91
 2026-11-14T23:36:14Z,93.8,cb06267ae037a883ae6f71078d6e2aaa,2026-11-15T01:10:00Z,Detroit Pistons,Miami Heat,mybookieag,totals,Under,228.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,fanduel,spreads,Indiana Pacers,7.5,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,fanduel,spreads,Philadelphia 76ers,-7.5,1.89
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,fanduel,totals,Over,225.5,1.89
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,fanduel,totals,Under,225.5,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,mybookieag,spreads,Indiana Pacers,7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,mybookieag,spreads,Philadelphia 76ers,-7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,mybookieag,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,mybookieag,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,draftkings,spreads,Indiana Pacers,7.5,1.87
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,draftkings,spreads,Philadelphia 76ers,-7.5,1.94
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,draftkings,totals,Over,226.5,1.95
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,draftkings,totals,Under,226.5,1.87
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betmgm,spreads,Indiana Pacers,7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betmgm,spreads,Philadelphia 76ers,-7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betmgm,totals,Over,226.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betmgm,totals,Under,226.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betrivers,spreads,Indiana Pacers,7.5,1.89
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betrivers,spreads,Philadelphia 76ers,-7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betrivers,totals,Over,226.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betrivers,totals,Under,226.5,1.88
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,bovada,spreads,Indiana Pacers,7.0,1.95
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,bovada,spreads,Philadelphia 76ers,-7.0,1.87
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,bovada,totals,Over,226.5,1.95
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,bovada,totals,Under,226.5,1.87
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betonlineag,spreads,Indiana Pacers,7.5,1.89
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betonlineag,spreads,Philadelphia 76ers,-7.5,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betonlineag,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betonlineag,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,lowvig,spreads,Indiana Pacers,7.5,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,lowvig,spreads,Philadelphia 76ers,-7.5,1.96
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,lowvig,totals,Over,226.0,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,lowvig,totals,Under,226.0,1.93
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betus,spreads,Indiana Pacers,7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betus,spreads,Philadelphia 76ers,-7.5,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betus,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,1.7,de475830b5df0d1aae4fcd8f9bbaead9,2026-11-15T18:10:00Z,Indiana Pacers,Philadelphia 76ers,betus,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,fanduel,spreads,Los Angeles Lakers,-2.5,1.88
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,fanduel,spreads,Phoenix Suns,2.5,1.94
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,fanduel,totals,Over,226.5,1.94
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,fanduel,totals,Under,226.5,1.88
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,draftkings,spreads,Los Angeles Lakers,-3.5,1.97
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,draftkings,spreads,Phoenix Suns,3.5,1.85
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,draftkings,totals,Over,226.5,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,draftkings,totals,Under,226.5,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,mybookieag,spreads,Los Angeles Lakers,-3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,mybookieag,spreads,Phoenix Suns,3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,mybookieag,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,mybookieag,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betrivers,spreads,Los Angeles Lakers,-3.5,1.94
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betrivers,spreads,Phoenix Suns,3.5,1.85
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betrivers,totals,Over,225.5,1.93
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betrivers,totals,Under,225.5,1.88
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betmgm,spreads,Los Angeles Lakers,-2.5,1.87
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betmgm,spreads,Phoenix Suns,2.5,1.95
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betmgm,totals,Over,226.5,1.95
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betmgm,totals,Under,226.5,1.87
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betonlineag,spreads,Los Angeles Lakers,-3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betonlineag,spreads,Phoenix Suns,3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betonlineag,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betonlineag,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,lowvig,spreads,Los Angeles Lakers,-3.0,1.94
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,lowvig,spreads,Phoenix Suns,3.0,1.94
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,lowvig,totals,Over,226.0,1.93
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,lowvig,totals,Under,226.0,1.93
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,bovada,spreads,Los Angeles Lakers,-3.0,1.87
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,bovada,spreads,Phoenix Suns,3.0,1.95
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,bovada,totals,Over,225.5,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,bovada,totals,Under,225.5,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betus,spreads,Los Angeles Lakers,-3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betus,spreads,Phoenix Suns,3.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betus,totals,Over,226.0,1.91
+2026-11-15T18:08:19Z,181.7,29b8bbf05645162d89780189eed390c2,2026-11-15T21:10:00Z,Los Angeles Lakers,Phoenix Suns,betus,totals,Under,226.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,fanduel,spreads,Charlotte Hornets,1.5,1.88
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,fanduel,spreads,Los Angeles Clippers,-1.5,1.94
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,fanduel,totals,Over,214.5,1.98
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,fanduel,totals,Under,214.5,1.83
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,lowvig,spreads,Charlotte Hornets,-1.0,1.94
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,lowvig,spreads,Los Angeles Clippers,1.0,1.94
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,lowvig,totals,Over,213.0,1.93
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,lowvig,totals,Under,213.0,1.93
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betus,spreads,Charlotte Hornets,-1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betus,spreads,Los Angeles Clippers,1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betus,totals,Over,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betus,totals,Under,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betonlineag,spreads,Charlotte Hornets,-1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betonlineag,spreads,Los Angeles Clippers,1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betonlineag,totals,Over,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betonlineag,totals,Under,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,mybookieag,spreads,Charlotte Hornets,-1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,mybookieag,spreads,Los Angeles Clippers,1.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,mybookieag,totals,Over,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,mybookieag,totals,Under,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betmgm,spreads,Charlotte Hornets,-1.5,1.98
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betmgm,spreads,Los Angeles Clippers,1.5,1.85
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betmgm,totals,Over,213.5,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betmgm,totals,Under,213.5,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,draftkings,spreads,Charlotte Hornets,-1.5,1.96
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,draftkings,spreads,Los Angeles Clippers,1.5,1.86
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,draftkings,totals,Over,213.5,1.93
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,draftkings,totals,Under,213.5,1.89
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betrivers,spreads,Charlotte Hornets,-0.5,1.87
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betrivers,spreads,Los Angeles Clippers,0.5,1.93
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betrivers,totals,Over,213.5,1.93
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,betrivers,totals,Under,213.5,1.87
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,bovada,spreads,Charlotte Hornets,-1.0,1.95
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,bovada,spreads,Los Angeles Clippers,1.0,1.87
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,bovada,totals,Over,213.0,1.91
+2026-11-15T18:08:19Z,211.7,db26abc3cfd070ab012227413abafeb2,2026-11-15T21:40:00Z,Charlotte Hornets,Los Angeles Clippers,bovada,totals,Under,213.0,1.91
