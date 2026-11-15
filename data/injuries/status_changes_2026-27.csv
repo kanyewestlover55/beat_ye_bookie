@@ -2382,3 +2382,38 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-15 13:00,2026-11-15 18:00,2026-11-16,07:00,ORL@BOS,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle Injury Recovery,new
 2026-11-15 13:00,2026-11-15 18:00,2026-11-16,07:00,ORL@BOS,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially Torn Hamstring,new
 2026-11-15 13:15,2026-11-15 18:15,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,De'Aaron Fox,Questionable,,Injury/Illness - Left Hip Tightness,new
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Bronny James,Available,Questionable,Injury/Illness - Illness,status
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Collin Sexton,Available,Questionable,Injury/Illness - Right Orbital Laceration,status
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Adou Thiero,Available,Questionable,Injury/Illness - Left Ankle Sprain,status
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,07:00,HOU@WAS,Washington Wizards,Bub Carrington,Available,Questionable,Injury/Illness - Chest / Sternum Contusion,status
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,07:00,HOU@WAS,Washington Wizards,Alex Sarr,Available,Questionable,Injury/Illness - Illness,status
+2026-11-15 14:30,2026-11-15 19:30,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Keegan Murray,Available,Questionable,-,status
+2026-11-15 14:45,2026-11-15 19:45,2026-11-15,04:00,LAL@PHX,Phoenix Suns,Drew Timme,Out,,G League - Two-Way,new
+2026-11-15 15:15,2026-11-15 20:15,2026-11-15,04:30,CHA@LAC,LA Clippers,Nick Martinelli,Out,Questionable,G League - Two-Way,status
+2026-11-15 15:30,2026-11-15 20:30,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,De'Aaron Fox,Out,Questionable,Injury/Illness - Left Hip Tightness,status
+2026-11-15 16:15,2026-11-15 21:15,2026-11-15,06:00,DAL@BOS,Dallas Mavericks,Max Christie,Out,Doubtful,Injury/Illness - Left Ankle Sprain,status
+2026-11-15 16:15,2026-11-15 21:15,2026-11-15,06:00,DAL@BOS,Dallas Mavericks,Kyrie Irving,Out,Questionable,Injury/Illness - Left Knee Injury Management,status
+2026-11-15 16:15,2026-11-15 21:15,2026-11-16,07:00,CHI@CLE,Chicago Bulls,Tobe Awaka,Out,,Injury/Illness - Disc Irritation,new
+2026-11-15 16:15,2026-11-15 21:15,2026-11-16,07:00,CHI@CLE,Chicago Bulls,Orlando Robinson,Out,,G League - On Assignment,new
+2026-11-15 16:15,2026-11-15 21:15,2026-11-16,07:00,CHI@CLE,Chicago Bulls,Jaylin Sellers,Out,,G League - Two-Way,new
+2026-11-15 16:15,2026-11-15 21:15,2026-11-16,07:00,CHI@CLE,Chicago Bulls,Jalen Smith,Questionable,,Injury/Illness - Left Finger Sprain,new
+2026-11-15 16:15,2026-11-15 21:15,2026-11-16,07:00,CHI@CLE,Chicago Bulls,Caleb Wilson,Out,,Injury/Illness - Right Metacarpal Fracture,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Scottie Barnes,Probable,Questionable,Injury/Illness - Left Groin Strain,status
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Khalifa Diop,Out,,G League - On Assignment,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Sam Merrill,Out,,Injury/Illness - Right Elbow Injury Management,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Evan Mobley,Out,,Injury/Illness - Left Great Toe Sprain,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Nae'Qwan Tomlin,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Jaylon Tyson,Questionable,,Injury/Illness - Right Ankle Injury Management,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,"Jr., Ernest Udeh",Out,,G League - Two-Way,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:00,CHI@CLE,Cleveland Cavaliers,Peyton Watson,Questionable,,Injury/Illness - Right Abdominal Soreness,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:30,HOU@MIA,Miami Heat,Vladislav Goldin,Out,,G League - Two-Way,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:30,HOU@MIA,Miami Heat,Pelle Larsson,Questionable,,Injury/Illness - Illness,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,07:30,HOU@MIA,Miami Heat,Klay Thompson,Available,,Injury/Illness - Left Ankle Sprain,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Malik Dia,Questionable,,G League - Two-Way,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Bennedict Mathurin,Out,,Injury/Illness - Left Plantar Fasciitis,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Bryce McGowens,Out,,Injury/Illness - Left Elbow Infection,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Trey Murphy III,Out,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Dejounte Murray,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Questionable,,G League - Two-Way,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Julian Reese,Questionable,,G League - Two-Way,new
+2026-11-15 16:30,2026-11-15 21:30,2026-11-16,08:00,GSW@NOP,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
