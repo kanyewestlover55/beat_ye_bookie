@@ -276,3 +276,13 @@ All: 409 bets | P/L +6.67u, ROI +1.6% (±5.3) | hit 0.570 vs implied 0.572 | fai
 1+: 166 bets | P/L +3.25u, ROI +2.0% (±6.5) | hit 0.717 vs implied 0.724 | fair CLV -5.0% on 43 (12% beat) | bet365 CLV +1.9% on 166 (50% beat)
 2+: 243 bets | P/L +3.42u, ROI +1.4% (±7.7) | hit 0.469 vs implied 0.468 | fair CLV -3.7% on 159 (20% beat) | bet365 CLV +1.9% on 243 (35% beat)
 Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
+--- picks 2026-11-15 19:59 UTC
+2026-11-15 19:59 UTC | 8 games, 661 ladder prices | injuries: live report 2026-11-15 14:45 ET, 69 out
+evaluated 201 prices (0 unmatched to a model row); 21 paper bets: {1: 9, 2: 12}
+graded 0 bets; 21 still open
+Paper test of v3_frozen (frozen 2026-10-31 00:35 UTC) - report 2026-11-15 19:59 UTC
+Bets placed 439, graded 409, void 9, open 21
+All: 409 bets | P/L +6.67u, ROI +1.6% (±5.3) | hit 0.570 vs implied 0.572 | fair CLV -4.0% on 202 (18% beat) | bet365 CLV +1.9% on 409 (41% beat)
+1+: 166 bets | P/L +3.25u, ROI +2.0% (±6.5) | hit 0.717 vs implied 0.724 | fair CLV -5.0% on 43 (12% beat) | bet365 CLV +1.9% on 166 (50% beat)
+2+: 243 bets | P/L +3.42u, ROI +1.4% (±7.7) | hit 0.469 vs implied 0.468 | fair CLV -3.7% on 159 (20% beat) | bet365 CLV +1.9% on 243 (35% beat)
+Pass test (about 300 bets): fair CLV above 0 on average and more than half of bets beating the close.
