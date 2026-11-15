@@ -5963,3 +5963,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,spreads,Milwaukee Bucks,8.0,1.91
 2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,totals,Over,233.5,1.91
 2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,totals,Under,233.5,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,fanduel,spreads,Oklahoma City Thunder,-11.5,1.96
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,fanduel,spreads,Sacramento Kings,11.5,1.85
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,fanduel,totals,Over,222.5,1.88
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,fanduel,totals,Under,222.5,1.94
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betonlineag,spreads,Oklahoma City Thunder,-10.5,1.87
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betonlineag,spreads,Sacramento Kings,10.5,1.95
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betonlineag,totals,Over,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betonlineag,totals,Under,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,lowvig,spreads,Oklahoma City Thunder,-10.5,1.9
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,lowvig,spreads,Sacramento Kings,10.5,1.99
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,lowvig,totals,Over,223.0,1.93
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,lowvig,totals,Under,223.0,1.93
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betmgm,spreads,Oklahoma City Thunder,-10.5,1.87
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betmgm,spreads,Sacramento Kings,10.5,1.95
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betmgm,totals,Over,223.5,1.95
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betmgm,totals,Under,223.5,1.87
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betus,spreads,Oklahoma City Thunder,-10.5,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betus,spreads,Sacramento Kings,10.5,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betus,totals,Over,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betus,totals,Under,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,bovada,spreads,Oklahoma City Thunder,-11.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,bovada,spreads,Sacramento Kings,11.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,bovada,totals,Over,223.5,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,bovada,totals,Under,223.5,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,mybookieag,spreads,Oklahoma City Thunder,-11.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,mybookieag,spreads,Sacramento Kings,11.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,mybookieag,totals,Over,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,mybookieag,totals,Under,223.0,1.91
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,draftkings,spreads,Oklahoma City Thunder,-10.5,1.87
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,draftkings,spreads,Sacramento Kings,10.5,1.95
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,draftkings,totals,Over,223.5,1.93
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,draftkings,totals,Under,223.5,1.88
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betrivers,spreads,Oklahoma City Thunder,-10.5,1.85
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betrivers,spreads,Sacramento Kings,10.5,1.95
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betrivers,totals,Over,223.5,1.93
+2026-11-15T22:55:43Z,194.3,f8334b355cf9346d423fa9eb93b425f0,2026-11-16T02:10:00Z,Oklahoma City Thunder,Sacramento Kings,betrivers,totals,Under,223.5,1.88
