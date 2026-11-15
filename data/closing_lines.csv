@@ -5927,3 +5927,39 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-15T20:39:18Z,210.7,488c2bc1e099361f06015cf126f95fd6,2026-11-16T00:10:00Z,Houston Rockets,Washington Wizards,mybookieag,spreads,Washington Wizards,8.0,1.91
 2026-11-15T20:39:18Z,210.7,488c2bc1e099361f06015cf126f95fd6,2026-11-16T00:10:00Z,Houston Rockets,Washington Wizards,mybookieag,totals,Over,224.0,1.91
 2026-11-15T20:39:18Z,210.7,488c2bc1e099361f06015cf126f95fd6,2026-11-16T00:10:00Z,Houston Rockets,Washington Wizards,mybookieag,totals,Under,224.0,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,fanduel,spreads,Atlanta Hawks,-7.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,fanduel,spreads,Milwaukee Bucks,7.5,1.95
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,fanduel,totals,Over,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,fanduel,totals,Under,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,bovada,spreads,Atlanta Hawks,-8.0,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,bovada,spreads,Milwaukee Bucks,8.0,1.95
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,bovada,totals,Over,233.0,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,bovada,totals,Under,233.0,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betonlineag,spreads,Atlanta Hawks,-8.5,1.95
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betonlineag,spreads,Milwaukee Bucks,8.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betonlineag,totals,Over,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betonlineag,totals,Under,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,lowvig,spreads,Atlanta Hawks,-8.5,1.99
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,lowvig,spreads,Milwaukee Bucks,8.5,1.9
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,lowvig,totals,Over,233.5,1.93
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,lowvig,totals,Under,233.5,1.93
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betus,spreads,Atlanta Hawks,-8.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betus,spreads,Milwaukee Bucks,8.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betus,totals,Over,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betus,totals,Under,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betrivers,spreads,Atlanta Hawks,-7.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betrivers,spreads,Milwaukee Bucks,7.5,1.93
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betrivers,totals,Over,233.5,1.93
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betrivers,totals,Under,233.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betmgm,spreads,Atlanta Hawks,-8.5,1.98
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betmgm,spreads,Milwaukee Bucks,8.5,1.85
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betmgm,totals,Over,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,betmgm,totals,Under,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,draftkings,spreads,Atlanta Hawks,-8.5,1.94
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,draftkings,spreads,Milwaukee Bucks,8.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,draftkings,totals,Over,233.5,1.94
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,draftkings,totals,Under,233.5,1.87
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,spreads,Atlanta Hawks,-8.0,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,spreads,Milwaukee Bucks,8.0,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,totals,Over,233.5,1.91
+2026-11-15T21:23:05Z,226.9,b931a21d34e414ee92b1a4b8e63774aa,2026-11-16T01:10:00Z,Atlanta Hawks,Milwaukee Bucks,mybookieag,totals,Under,233.5,1.91
