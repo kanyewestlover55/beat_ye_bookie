@@ -2268,3 +2268,93 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-14 16:15,2026-11-14 21:15,2026-11-15,01:00,IND@PHI,Indiana Pacers,Aaron Nesmith,Questionable,,Injury/Illness - Left Hand Sprain,new
 2026-11-14 16:15,2026-11-14 21:15,2026-11-15,01:00,IND@PHI,Indiana Pacers,Ben Sheppard,Out,,Injury/Illness - Left Meniscus Tear,new
 2026-11-14 16:15,2026-11-14 21:15,2026-11-15,07:00,HOU@WAS,Washington Wizards,Alex Sarr,Questionable,,Injury/Illness - Illness,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Scottie Barnes,Questionable,,Injury/Illness - Left Groin Strain,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Nate Bittle,Out,,Injury/Illness - Right Foot Avulsion Fracture,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Kevin McCullar Jr.,Out,,G League - Two-Way,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,06:00,NYK@TOR,Toronto Raptors,Malachi Smith,Out,,G League - Two-Way,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Steven Adams,Probable,,Injury/Illness - Right Soleus Strain,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Clint Capela,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Marcus Smart,Out,,League Suspension,new
+2026-11-14 16:45,2026-11-14 21:45,2026-11-15,07:00,HOU@WAS,Houston Rockets,Fred VanVleet,Out,,Injury/Illness - Right Knee Injury Management,new
+2026-11-14 17:00,2026-11-14 22:00,2026-11-15,01:00,IND@PHI,Philadelphia 76ers,Dominick Barlow,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-11-14 17:00,2026-11-14 22:00,2026-11-15,01:00,IND@PHI,Philadelphia 76ers,Adem Bona,Out,,Injury/Illness - Cervical Spine Sprain,new
+2026-11-14 17:00,2026-11-14 22:00,2026-11-15,01:00,IND@PHI,Philadelphia 76ers,Joel Embiid,Out,,Injury/Illness - Right Foot Plantar Fascia Injury Management,new
+2026-11-14 17:00,2026-11-14 22:00,2026-11-15,01:00,IND@PHI,Philadelphia 76ers,Ariel Hukporti,Out,,Injury/Illness - Right Achilles Tendon Rupture / Tear,new
+2026-11-14 17:15,2026-11-14 22:15,2026-11-15,06:00,DAL@BOS,Boston Celtics,Devin Carter,Questionable,,G League - Two-Way,new
+2026-11-14 17:15,2026-11-14 22:15,2026-11-15,06:00,DAL@BOS,Boston Celtics,Christopher Cenac Jr.,Questionable,,G League - On Assignment,new
+2026-11-14 17:15,2026-11-14 22:15,2026-11-15,06:00,DAL@BOS,Boston Celtics,Dillon Mitchell,Questionable,,G League - Two-Way,new
+2026-11-14 17:15,2026-11-14 22:15,2026-11-15,06:00,DAL@BOS,Boston Celtics,Amari Williams,Questionable,,G League - Two-Way,new
+2026-11-14 17:30,2026-11-14 22:30,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Yves Missi,Available,Probable,Injury/Illness - Left Knee Contusion / Bone Bruise,status
+2026-11-14 17:30,2026-11-14 22:30,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Available,Probable,G League - Two-Way,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Malik Dia,Available,Questionable,G League - Two-Way,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Bennedict Mathurin,Out,,Injury/Illness - Left Plantar Fasciitis,new
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:00,DEN@NOP,New Orleans Pelicans,Julian Reese,Available,Questionable,G League - Two-Way,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Jarrett Allen,Out,Questionable,Injury/Illness - Right Knee Injury Management,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,James Harden,Out,Questionable,Injury/Illness - Left Lower Leg/Calf Tightness,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Donovan Mitchell,Out,Questionable,Injury/Illness - Left Knee Contusion/Injury Management,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-14,07:30,DAL@CLE,Cleveland Cavaliers,Peyton Watson,Out,Questionable,Injury/Illness - Right Hamstring Injury Management,status
+2026-11-14 17:45,2026-11-14 22:45,2026-11-15,08:00,ATL@MIL,Milwaukee Bucks,Ousmane Dieng,Out,,Injury/Illness - Left Finger Sprain,new
+2026-11-14 17:45,2026-11-14 22:45,2026-11-15,08:00,ATL@MIL,Milwaukee Bucks,Kam Jones,Out,,G League - Two-Way,new
+2026-11-14 17:45,2026-11-14 22:45,2026-11-15,08:00,ATL@MIL,Milwaukee Bucks,Bogoljub Markovic,Out,,G League - On Assignment,new
+2026-11-14 17:45,2026-11-14 22:45,2026-11-15,08:00,ATL@MIL,Milwaukee Bucks,Pete Nance,Out,,G League - Two-Way,new
+2026-11-14 17:45,2026-11-14 22:45,2026-11-15,08:00,ATL@MIL,Milwaukee Bucks,Cormac Ryan,Out,,G League - Two-Way,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Kingston Flemings,Out,,Surgery Injury/Illness - Lumbar Strain Injury/Illness - Left Knee,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Keshon Gilbert,Out,,Inflammation; Non-Surgical,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Mouhamed Gueye,Out,,Injury/Illness - Left Foot Fracture,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Jock Landale,Available,,Injury/Illness - Face Mask,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Asa Newell,Out,,Injury/Illness - Left Great Toe Hyperextension,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Henri Veesaar,Out,,Injury/Illness - Right ACL Tear,new
+2026-11-14 18:00,2026-11-14 23:00,2026-11-15,08:00,ATL@MIL,Atlanta Hawks,Jalen Wilson,Doubtful,,G League - Two-Way,new
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Max Christie,Out,Doubtful,Injury/Illness - Left Ankle Sprain,status
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,07:30,DAL@CLE,Dallas Mavericks,Morez Johnson Jr.,Available,Probable,Injury/Illness - Left Shin / Tibia Contusion,status
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Michael Porter Jr.,Questionable,,Personal Reasons,new
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,08:00,DET@MIA,Miami Heat,Giannis Antetokounmpo,Available,Probable,Injury/Illness - Right Wrist Sprain,status
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,08:00,DET@MIA,Miami Heat,Pelle Larsson,Out,Doubtful,Injury/Illness - Illness,status
+2026-11-14 18:15,2026-11-14 23:15,2026-11-14,08:00,DET@MIA,Miami Heat,Klay Thompson,Available,Probable,Injury/Illness - Left Ankle Sprain,status
+2026-11-14 18:45,2026-11-14 23:45,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Mikel Brown Jr.,Available,Probable,Injury/Illness - Illness,status
+2026-11-14 18:45,2026-11-14 23:45,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Nolan Traore,Available,Probable,Injury/Illness - Right Calf Tightness / Soreness,status
+2026-11-14 18:45,2026-11-14 23:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Nic Claxton,Out,Questionable,Injury/Illness - Left Hamstring Injury Management,status
+2026-11-14 18:45,2026-11-14 23:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Norman Powell,Available,Questionable,-,status
+2026-11-14 18:45,2026-11-14 23:45,2026-11-14,08:00,CHI@MIN,Chicago Bulls,Jalen Smith,Out,Questionable,Injury/Illness - Left Finger Sprain,status
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Trey Alexander,Out,,G League - Two-Way,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Kobe Bufkin,Out,,G League - Two-Way,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Jaxson Hayes,Out,,Injury/Illness - Left Knee Strain,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Harrison Ingram,Out,,G League - Two-Way,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Jaren Jackson Jr.,Out,,Injury/Illness - Right MCL Tear,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Lauri Markkanen,Out,,Injury/Illness - Right Hand Fracture,new
+2026-11-14 19:00,2026-11-15 00:00,2026-11-15,05:00,SAS@UTA,Utah Jazz,Jusuf Nurkic,Out,,Injury/Illness - Right 2nd Plantar Plate Tear,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-14,08:00,BKN@MEM,Brooklyn Nets,Michael Porter Jr.,Out,Questionable,Personal Reasons,status
+2026-11-14 19:15,2026-11-15 00:15,2026-11-14,08:00,BKN@MEM,Memphis Grizzlies,Jerami Grant,Out,Questionable,Injury/Illness - Head Injury,status
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Cameron Carr,Out,,Injury/Illness - Illness,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Quentin Grimes,Available,,Injury/Illness - Right Finger Splint,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Bronny James,Questionable,,Injury/Illness - Illness,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Austin Reaves,Out,,Injury/Illness - Left Heel Contusion / Bone Bruise,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Collin Sexton,Questionable,,Injury/Illness - Right Orbital Laceration,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Los Angeles Lakers,Adou Thiero,Questionable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,04:00,LAL@PHX,Phoenix Suns,Mark Williams,Out,,Injury/Illness - Left Shoulder Surgery,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,Maliq Brown,Out,,G League - Two-Way,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,Ja'Kobi Gillespie,Out,,G League - Two-Way,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,Tobias Harris,Out,,Injury/Illness - Left Calf Strain,new
+2026-11-14 19:15,2026-11-15 00:15,2026-11-15,05:00,SAS@UTA,San Antonio Spurs,Jayden Quaintance,Out,,Injury/Illness - Right Knee Surgery,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-14,08:00,BKN@MEM,Memphis Grizzlies,Zach Edey,Out,Questionable,Injury/Illness - Left Ankle Injury Management,status
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Precious Achiuwa,Questionable,,Injury/Illness - Left Ankle Soreness,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Jonathan Mogbo,Out,,G League - Two-Way,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Keegan Murray,Questionable,,Injury/Illness - Illness,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Sean Pedulla,Out,,G League - Two-Way,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Maxime Raynaud,Out,,Injury/Illness - Right Patella Subluxation,new
+2026-11-14 19:45,2026-11-15 00:45,2026-11-15,09:00,OKC@SAC,Sacramento Kings,Ben Simmons,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,01:00,IND@PHI,Indiana Pacers,Andrew Nembhard,Questionable,,Injury/Illness - Left Hip Soreness / Tightness,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,04:30,CHA@LAC,Charlotte Hornets,Michael Ajayi,Out,,G League - Two-Way,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,04:30,CHA@LAC,Charlotte Hornets,Kylan Boswell,Out,,G League - Two-Way,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,04:30,CHA@LAC,Charlotte Hornets,Kon Knueppel,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,04:30,CHA@LAC,Charlotte Hornets,Dennis Schroder,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,04:30,CHA@LAC,Charlotte Hornets,Hannes Steinbach,Out,,G League - On Assignment,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Chet Holmgren,Out,,Injury/Illness - Right Knee/ Injury Recovery,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Ajay Mitchell,Questionable,,Injury/Illness - Left Ankle Sprain,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Thomas Sorber,Out,,Injury/Illness - Right Knee Surgery,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Cason Wallace,Out,,Injury/Illness - Left Shoulder Surgery,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Jalen Williams,Out,,Injury/Illness - Left Ankle Surgery,new
+2026-11-14 20:00,2026-11-15 01:00,2026-11-15,09:00,OKC@SAC,Oklahoma City Thunder,Jaylin Williams,Out,,Injury/Illness - Low Back Spasms,new
