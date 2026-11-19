@@ -2767,3 +2767,40 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-19 14:00,2026-11-19 19:00,2026-11-19,08:00,POR@MIL,Milwaukee Bucks,Ousmane Dieng,Out,,Injury/Illness - Left Finger Fracture,new
 2026-11-19 14:00,2026-11-19 19:00,2026-11-19,08:00,POR@MIL,Milwaukee Bucks,Kyle Kuzma,Out,,Injury/Illness - Right Shoulder Contusion,new
 2026-11-19 14:00,2026-11-19 19:00,2026-11-19,08:00,POR@MIL,Milwaukee Bucks,Myles Turner,Out,,Injury/Illness - Left Shoulder Contusion,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Malik Dia,Out,,G League - Two-Way,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Bennedict Mathurin,Out,,Injury/Illness - Left Plantar Fasciitis,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Bryce McGowens,Out,,Injury/Illness - Left Elbow Infection,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Trey Murphy III,Questionable,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Dejounte Murray,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Jaron Pierre Jr.,Probable,,G League - Two-Way,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Julian Reese,Out,,G League - Two-Way,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,WAS@CHI,Washington Wizards,Reece Beekman,Out,,Injury/Illness - Right AC Joint Sprain / Separation,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,WAS@CHI,Washington Wizards,Justin Champagnie,Out,,Injury/Illness - Right Foot Surgery,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,WAS@CHI,Washington Wizards,Felix Okpara,Questionable,,G League - Two-Way,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,WAS@CHI,Washington Wizards,Tristan Vukcevic,Out,,Injury/Illness - Left Hip Impingement,new
+2026-11-19 16:00,2026-11-19 21:00,2026-11-20,08:00,WAS@CHI,Washington Wizards,Jamir Watkins,Out,,Injury/Illness - Left ACL Repair / Surgery,new
+2026-11-19 16:15,2026-11-19 21:15,2026-11-20,07:30,ORL@BKN,Orlando Magic,Paolo Banchero,Out,,Injury/Illness - Right High Ankle Sprain,new
+2026-11-19 16:15,2026-11-19 21:15,2026-11-20,07:30,ORL@BKN,Orlando Magic,Jonathan Isaac,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-19 16:15,2026-11-19 21:15,2026-11-20,07:30,ORL@BKN,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle injury recovery,new
+2026-11-19 16:15,2026-11-19 21:15,2026-11-20,07:30,ORL@BKN,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially torn hamstring,new
+2026-11-19 16:15,2026-11-19 21:15,2026-11-20,07:30,ORL@BKN,Brooklyn Nets,Grant Nelson,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,RJ Barrett,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,Nate Bittle,Out,,G League - Two-Way,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,Jaden Bradley,Out,,G League - On Assignment,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,Kevin McCullar Jr.,Out,,G League - Two-Way,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Toronto Raptors,Collin Murray-Boyles,Out,,Concussion Protocol,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Cade Cunningham,Probable,,Injury/Illness - Right Knee Soreness,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Jalen Duren,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Ronald Holland II,Out,,Injury/Illness - Left Knee Contusion / Bone Bruise,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Ebuka Okorie,Out,,Injury/Illness - Left Oblique Strain,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Ugonna Onyenso,Out,,G League - Two-Way,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Taurean Prince,Out,,Injury/Illness - Right Knee Surgery,new
+2026-11-19 16:30,2026-11-19 21:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Duncan Robinson,Out,,Injury/Illness - Left Quadriceps Strain,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Khalifa Diop,Out,,G League - On Assignment,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Evan Mobley,Out,,Injury/Illness - Left Great Toe Sprain,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Nae'Qwan Tomlin,Out,,Injury/Illness - Low Back Stress Reaction,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Jaylon Tyson,Out,,Injury/Illness - Right Ankle Injury Management,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Ernest Udeh Jr.,Out,,G League - Two-Way,new
+2026-11-19 16:45,2026-11-19 21:45,2026-11-20,07:30,IND@CLE,Cleveland Cavaliers,Peyton Watson,Questionable,,Injury/Illness - Low Back Contusion,new
