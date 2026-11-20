@@ -2870,3 +2870,7 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-20 12:30,2026-11-20 17:30,2026-11-20,07:30,TOR@DET,Detroit Pistons,Ronald Holland II,Doubtful,Out,Injury/Illness - Left Knee Contusion / Bone Bruise,status
 2026-11-20 12:30,2026-11-20 17:30,2026-11-20,08:00,WAS@CHI,Chicago Bulls,Jalen Smith,Questionable,,Injury/Illness - Gastrointestinal Illness,new
 2026-11-20 13:45,2026-11-20 18:45,2026-11-20,08:00,NOP@OKC,New Orleans Pelicans,Jaron Pierre Jr.,Available,Probable,G League - Two-Way,status
+2026-11-20 16:15,2026-11-20 21:15,2026-11-20,10:00,SAC@LAL,Sacramento Kings,Precious Achiuwa,Out,Doubtful,Injury/Illness - Left Lower Leg Contusion,status
+2026-11-20 16:15,2026-11-20 21:15,2026-11-21,01:00,MIL@PHI,Milwaukee Bucks,Ousmane Dieng,Out,,Injury/Illness - Left Finger Fracture,new
+2026-11-20 16:15,2026-11-20 21:15,2026-11-21,01:00,MIL@PHI,Milwaukee Bucks,Kam Jones,Out,,G League - Two-Way,new
+2026-11-20 16:15,2026-11-20 21:15,2026-11-21,01:00,MIL@PHI,Milwaukee Bucks,Bogoljub Markovic,Out,,G League - On Assignment,new
