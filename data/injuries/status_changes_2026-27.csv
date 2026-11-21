@@ -2955,3 +2955,21 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-21 13:15,2026-11-21 18:15,2026-11-21,08:00,NOP@SAS,New Orleans Pelicans,Julian Reese,Out,,G League - Two-Way,new
 2026-11-21 13:15,2026-11-21 18:15,2026-11-21,08:00,NOP@SAS,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
 2026-11-21 13:30,2026-11-21 18:30,2026-11-21,08:00,MEM@MIN,Minnesota Timberwolves,Isaiah Evans,Questionable,,Injury/Illness - Illness,new
+2026-11-21 14:00,2026-11-21 19:00,2026-11-21,08:00,MEM@MIN,Memphis Grizzlies,Ty Jerome,Available,Probable,Injury/Illness - Right Hip Impingement,status
+2026-11-21 14:15,2026-11-21 19:15,2026-11-21,08:00,LAC@DAL,Dallas Mavericks,P.J. Washington,Doubtful,Questionable,Injury/Illness - Illness,status
+2026-11-21 15:30,2026-11-21 20:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Giannis Antetokounmpo,Questionable,,Injury/Illness - Right Groin tendinitis,new
+2026-11-21 15:30,2026-11-21 20:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Myron Gardner,Probable,,Injury/Illness - Right Hamstring Tightness / Soreness,new
+2026-11-21 15:30,2026-11-21 20:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Vladislav Goldin,Out,,G League - Two-Way,new
+2026-11-21 15:30,2026-11-21 20:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Keshad Johnson,Out,,G League - Two-Way,new
+2026-11-21 15:45,2026-11-21 20:45,2026-11-21,10:00,BOS@SAC,Boston Celtics,Mitchell Robinson,Out,,Injury/Illness - Illness,new
+2026-11-21 15:45,2026-11-21 20:45,2026-11-21,10:00,BOS@SAC,Boston Celtics,Jayson Tatum,Out,Questionable,Rest,status
+2026-11-21 15:45,2026-11-21 20:45,2026-11-21,10:00,BOS@SAC,Boston Celtics,Derrick White,Out,Questionable,Injury/Illness - Left AC Joint Contusion,status
+2026-11-21 16:00,2026-11-21 21:00,2026-11-22,07:00,ORL@WAS,Orlando Magic,Paolo Banchero,Out,,Injury/Illness - Right High Ankle Sprain,new
+2026-11-21 16:00,2026-11-21 21:00,2026-11-22,07:00,ORL@WAS,Orlando Magic,Jonathan Isaac,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-21 16:00,2026-11-21 21:00,2026-11-22,07:00,ORL@WAS,Orlando Magic,Izaiyah Nelson,Out,,Injury/Illness - Left Ankle injury recovery,new
+2026-11-21 16:00,2026-11-21 21:00,2026-11-22,07:00,ORL@WAS,Orlando Magic,Noah Penda,Out,,Injury/Illness - Right Partially torn hamstring,new
+2026-11-21 16:15,2026-11-21 21:15,2026-11-21,10:00,BOS@SAC,Sacramento Kings,Precious Achiuwa,Questionable,,Injury/Illness - Left Lower Leg Contusion,new
+2026-11-21 16:15,2026-11-21 21:15,2026-11-21,10:00,BOS@SAC,Sacramento Kings,Jonathan Mogbo,Out,,G League - Two-Way,new
+2026-11-21 16:15,2026-11-21 21:15,2026-11-21,10:00,BOS@SAC,Sacramento Kings,Sean Pedulla,Out,,G League - Two-Way,new
+2026-11-21 16:15,2026-11-21 21:15,2026-11-21,10:00,BOS@SAC,Sacramento Kings,Maxime Raynaud,Out,,Injury/Illness - Right Patella Subluxation,new
+2026-11-21 16:15,2026-11-21 21:15,2026-11-21,10:00,BOS@SAC,Sacramento Kings,Ben Simmons,Out,,Injury/Illness - Right Achilles Tendon Repair / Surgery,new
