@@ -7185,3 +7185,35 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-21T00:21:54Z,168.1,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,mybookieag,spreads,Sacramento Kings,14.0,1.91
 2026-11-21T00:21:54Z,168.1,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,mybookieag,totals,Over,229.5,1.91
 2026-11-21T00:21:54Z,168.1,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,mybookieag,totals,Under,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,spreads,Milwaukee Bucks,11.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,spreads,Philadelphia 76ers,-11.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,totals,Over,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,totals,Under,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,mybookieag,spreads,Milwaukee Bucks,10.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,mybookieag,spreads,Philadelphia 76ers,-10.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,mybookieag,totals,Over,229.0,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,mybookieag,totals,Under,229.0,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,spreads,Milwaukee Bucks,11.5,1.85
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,spreads,Philadelphia 76ers,-11.5,1.94
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,totals,Over,228.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,totals,Under,228.5,1.93
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,spreads,Milwaukee Bucks,10.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,spreads,Philadelphia 76ers,-10.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,totals,Over,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,totals,Under,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,spreads,Milwaukee Bucks,11.5,1.85
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,spreads,Philadelphia 76ers,-11.5,1.98
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,totals,Over,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,totals,Under,229.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,spreads,Milwaukee Bucks,10.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,spreads,Philadelphia 76ers,-10.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,totals,Over,229.0,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,totals,Under,229.0,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,lowvig,spreads,Milwaukee Bucks,10.5,1.9
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,lowvig,spreads,Philadelphia 76ers,-10.5,1.99
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,lowvig,totals,Over,229.0,1.98
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,lowvig,totals,Under,229.0,1.88
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,spreads,Milwaukee Bucks,12.0,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,spreads,Philadelphia 76ers,-12.0,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,totals,Over,230.0,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,totals,Under,230.0,1.91

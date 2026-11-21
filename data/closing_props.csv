@@ -21588,3 +21588,133 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-21T02:37:17Z,32.7,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,bovada,player_threes,Ziaire Williams,Under,0.5,2.8
 2026-11-21T02:37:17Z,32.7,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,bovada,player_threes,Ziaire Williams,Over,1.5,2.9
 2026-11-21T02:37:17Z,32.7,55c3096b11f501ffb6d8bccbb2cd319d,2026-11-21T03:10:00Z,Sacramento Kings,Los Angeles Lakers,bovada,player_threes,Ziaire Williams,Under,1.5,1.38
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Tyler Herro,Over,2.5,1.96
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Tyler Herro,Under,2.5,1.82
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Myles Turner,Over,1.5,1.78
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Myles Turner,Under,1.5,2.0
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Jaime Jaquez Jr,Over,1.5,2.46
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Jaime Jaquez Jr,Under,1.5,1.53
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Kyle Kuzma,Over,1.5,1.93
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Kyle Kuzma,Under,1.5,1.85
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Brayden Burries,Over,1.5,2.26
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Brayden Burries,Under,1.5,1.62
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Tyrese Maxey,Over,2.5,1.88
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,fanduel,player_threes,Tyrese Maxey,Under,2.5,1.88
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Jaime Jaquez Jr,Over,1.5,2.55
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Jaime Jaquez Jr,Under,1.5,1.47
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Kyle Kuzma,Over,1.5,1.97
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Kyle Kuzma,Under,1.5,1.76
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Kasparas Jakucionis,Over,1.5,2.75
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Kasparas Jakucionis,Under,1.5,1.41
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Myles Turner,Over,1.5,1.78
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Myles Turner,Under,1.5,1.94
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Brayden Burries,Over,1.5,2.3
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Brayden Burries,Under,1.5,1.56
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Tyler Herro,Over,2.5,1.83
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betrivers,player_threes,Tyler Herro,Under,2.5,1.88
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Tyrese Maxey,Over,2.5,1.79
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Tyrese Maxey,Under,2.5,1.96
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Tyler Herro,Over,2.5,1.88
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Tyler Herro,Under,2.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Anfernee Simons,Over,2.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Anfernee Simons,Under,2.5,1.79
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,VJ Edgecombe,Over,1.5,1.55
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,VJ Edgecombe,Under,1.5,2.38
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Myles Turner,Over,1.5,1.9
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Myles Turner,Under,1.5,1.84
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kyle Kuzma,Over,1.5,1.94
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kyle Kuzma,Under,1.5,1.81
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,LeBron James,Over,1.5,2.12
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,LeBron James,Under,1.5,1.68
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.18
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.64
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Brayden Burries,Over,1.5,2.36
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Brayden Burries,Under,1.5,1.56
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Jaime Jaquez Jr,Over,1.5,2.4
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Jaime Jaquez Jr,Under,1.5,1.54
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kasparas Jakucionis,Over,1.5,2.57
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Kasparas Jakucionis,Under,1.5,1.48
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Joel Embiid,Over,0.5,1.42
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,draftkings,player_threes,Joel Embiid,Under,0.5,2.78
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Myles Turner,Over,1.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Myles Turner,Under,1.5,1.8
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Tyrese Maxey,Over,2.5,1.83
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Tyrese Maxey,Under,2.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,VJ Edgecombe,Over,1.5,1.74
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,VJ Edgecombe,Under,1.5,2.0
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,LeBron James,Over,1.5,2.35
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,LeBron James,Under,1.5,1.54
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Tyler Herro,Over,2.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Tyler Herro,Under,2.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.2
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.62
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kyle Kuzma,Over,1.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kyle Kuzma,Under,1.5,1.8
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Jaime Jaquez Jr,Over,1.5,2.5
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Jaime Jaquez Jr,Under,1.5,1.5
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Anfernee Simons,Over,2.5,1.9
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Anfernee Simons,Under,2.5,1.85
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kasparas Jakucionis,Over,1.5,2.3
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Kasparas Jakucionis,Under,1.5,1.57
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Joel Embiid,Over,0.5,1.36
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Joel Embiid,Under,0.5,3.0
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Brayden Burries,Over,1.5,2.3
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betmgm,player_threes,Brayden Burries,Under,1.5,1.57
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Joel Embiid,Over,1.5,2.74
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Joel Embiid,Under,1.5,1.43
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Tyrese Maxey,Over,2.5,1.85
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Tyrese Maxey,Under,2.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kyle Kuzma,Over,1.5,1.97
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kyle Kuzma,Under,1.5,1.8
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,VJ Edgecombe,Over,1.5,1.59
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,VJ Edgecombe,Under,1.5,2.29
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Brayden Burries,Over,1.5,2.32
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Brayden Burries,Under,1.5,1.58
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Tyler Herro,Over,2.5,1.94
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Tyler Herro,Under,2.5,1.82
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Jaime Jaquez Jr,Over,1.5,2.46
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Jaime Jaquez Jr,Under,1.5,1.52
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Myles Turner,Over,1.5,1.9
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Myles Turner,Under,1.5,1.86
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.26
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.61
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,LeBron James,Over,1.5,2.2
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,LeBron James,Under,1.5,1.64
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Ryan Rollins,Over,1.5,2.0
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Ryan Rollins,Under,1.5,1.77
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Nate Ament,Over,1.5,2.32
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Nate Ament,Under,1.5,1.58
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kasparas Jakucionis,Over,1.5,2.67
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,betonlineag,player_threes,Kasparas Jakucionis,Under,1.5,1.45
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Anfernee Simons,Over,2.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Anfernee Simons,Under,2.5,1.83
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Brayden Burries,Over,1.5,2.35
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Brayden Burries,Under,1.5,1.56
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Jaime Jaquez Jr,Over,1.5,2.45
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Jaime Jaquez Jr,Under,1.5,1.53
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Joel Embiid,Over,0.5,1.41
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Joel Embiid,Under,0.5,2.8
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Joel Embiid,Over,1.5,2.9
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Joel Embiid,Under,1.5,1.38
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kasparas Jakucionis,Over,0.5,1.34
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kasparas Jakucionis,Under,0.5,3.15
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kasparas Jakucionis,Over,1.5,2.6
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kasparas Jakucionis,Under,1.5,1.47
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kentavious Caldwell-Pope,Over,1.5,2.2
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kentavious Caldwell-Pope,Under,1.5,1.62
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kyle Kuzma,Over,1.5,1.95
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Kyle Kuzma,Under,1.5,1.8
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,LeBron James,Over,1.5,2.15
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,LeBron James,Under,1.5,1.67
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Myles Turner,Over,1.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Myles Turner,Under,1.5,1.83
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyler Herro,Over,2.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyler Herro,Under,2.5,1.87
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Over,2.5,1.83
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Under,2.5,1.91
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Over,3.5,3.1
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,Tyrese Maxey,Under,3.5,1.34
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,VJ Edgecombe,Over,1.5,1.53
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,VJ Edgecombe,Under,1.5,2.45
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,VJ Edgecombe,Over,2.5,2.55
+2026-11-21T17:26:59Z,43.0,6cd4587453e4da55317b2c1e3576e75b,2026-11-21T18:10:00Z,Milwaukee Bucks,Philadelphia 76ers,bovada,player_threes,VJ Edgecombe,Under,2.5,1.48
