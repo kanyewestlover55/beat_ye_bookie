@@ -2938,3 +2938,8 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-20 20:00,2026-11-21 01:00,2026-11-21,10:00,BOS@SAC,Boston Celtics,Jayson Tatum,Questionable,,Rest,new
 2026-11-20 20:00,2026-11-21 01:00,2026-11-21,10:00,BOS@SAC,Boston Celtics,Derrick White,Questionable,,Injury/Illness - Left AC Joint Contusion,new
 2026-11-20 20:00,2026-11-21 01:00,2026-11-21,10:00,BOS@SAC,Boston Celtics,Amari Williams,Out,,G League - Two-Way,new
+2026-11-20 20:15,2026-11-21 01:15,2026-11-20,09:30,PHX@UTA,Phoenix Suns,Duop Reath,Out,,G League - Two-Way,new
+2026-11-20 20:15,2026-11-21 01:15,2026-11-20,09:30,PHX@UTA,Phoenix Suns,Drew Timme,Out,,G League - Two-Way,new
+2026-11-20 21:00,2026-11-21 02:00,2026-11-20,10:00,HOU@DEN,Houston Rockets,Steven Adams,Available,Questionable,Injury/Illness - Right Quadriceps Contusion,status
+2026-11-20 21:00,2026-11-21 02:00,2026-11-20,10:00,HOU@DEN,Houston Rockets,Alperen Sengun,Available,Questionable,Injury/Illness - Left Eye Corneal Abrasion,status
+2026-11-20 21:00,2026-11-21 02:00,2026-11-20,10:00,SAC@LAL,Sacramento Kings,De'Andre Hunter,Available,Questionable,-,status
