@@ -20798,3 +20798,381 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,player,s
 2026-11-19T02:53:03Z,16.9,4bdafbab228335fd29f62006a4bc932d,2026-11-19T03:10:00Z,Phoenix Suns,Sacramento Kings,bovada,player_threes,Miles Bridges,Under,1.5,1.95
 2026-11-19T02:53:03Z,16.9,4bdafbab228335fd29f62006a4bc932d,2026-11-19T03:10:00Z,Phoenix Suns,Sacramento Kings,bovada,player_threes,Zach LaVine,Over,2.5,2.05
 2026-11-19T02:53:03Z,16.9,4bdafbab228335fd29f62006a4bc932d,2026-11-19T03:10:00Z,Phoenix Suns,Sacramento Kings,bovada,player_threes,Zach LaVine,Under,2.5,1.74
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Nolan Traore,Over,1.5,2.36
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Nolan Traore,Under,1.5,1.57
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Desmond Bane,Over,3.5,1.9
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Desmond Bane,Under,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Franz Wagner,Over,1.5,2.06
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Franz Wagner,Under,1.5,1.74
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Anthony Black,Over,1.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Anthony Black,Under,1.5,1.98
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Tristan da Silva,Over,2.5,2.02
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Tristan da Silva,Under,2.5,1.77
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Julius Randle,Over,1.5,2.24
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Julius Randle,Under,1.5,1.62
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Over,2.5,1.65
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Michael Porter Jr,Under,2.5,2.2
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Jalen Suggs,Over,1.5,1.82
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Jalen Suggs,Under,1.5,1.96
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Egor Demin,Over,1.5,1.6
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,fanduel,player_threes,Egor Demin,Under,1.5,2.3
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Anthony Black,Over,1.5,1.79
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Anthony Black,Under,1.5,1.98
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Franz Wagner,Over,1.5,2.09
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Franz Wagner,Under,1.5,1.71
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Jalen Suggs,Over,1.5,1.82
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Jalen Suggs,Under,1.5,1.94
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Wendell Carter Jr,Over,0.5,1.65
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Wendell Carter Jr,Under,0.5,2.18
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Tristan da Silva,Over,2.5,2.1
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Tristan da Silva,Under,2.5,1.7
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Nolan Traore,Over,1.5,2.28
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Nolan Traore,Under,1.5,1.6
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Desmond Bane,Over,3.5,1.89
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Desmond Bane,Under,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Mikel Brown Jr.,Over,1.5,1.9
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Mikel Brown Jr.,Under,1.5,1.86
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Over,2.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Michael Porter Jr,Under,2.5,2.15
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Over,1.5,2.24
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Julius Randle,Under,1.5,1.62
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Danny Wolf,Over,1.5,2.34
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betonlineag,player_threes,Danny Wolf,Under,1.5,1.57
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Over,2.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Michael Porter Jr,Under,2.5,2.1
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Tristan da Silva,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Tristan da Silva,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Anthony Black,Over,1.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Anthony Black,Under,1.5,1.95
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Nolan Traore,Over,1.5,2.4
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Nolan Traore,Under,1.5,1.53
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Wendell Carter Jr,Over,0.5,1.61
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Wendell Carter Jr,Under,0.5,2.25
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Jalen Suggs,Over,1.5,1.74
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Jalen Suggs,Under,1.5,2.0
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Franz Wagner,Over,1.5,2.0
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Franz Wagner,Under,1.5,1.74
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Desmond Bane,Over,3.5,2.0
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betmgm,player_threes,Desmond Bane,Under,3.5,1.74
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Desmond Bane,Over,3.5,1.88
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Desmond Bane,Under,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Over,2.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Michael Porter Jr,Under,2.5,2.14
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Tristan da Silva,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Tristan da Silva,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Egor Demin,Over,1.5,1.65
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Egor Demin,Under,1.5,2.16
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Anthony Black,Over,1.5,1.76
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Anthony Black,Under,1.5,1.99
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Jalen Suggs,Over,1.5,1.84
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Jalen Suggs,Under,1.5,1.9
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Mikel Brown Jr.,Over,1.5,1.88
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Mikel Brown Jr.,Under,1.5,1.85
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Nolan Traore,Over,1.5,2.09
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Nolan Traore,Under,1.5,1.69
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Franz Wagner,Over,1.5,2.13
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Franz Wagner,Under,1.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Julius Randle,Over,1.5,2.19
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Julius Randle,Under,1.5,1.64
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Wendell Carter Jr,Over,0.5,1.65
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,draftkings,player_threes,Wendell Carter Jr,Under,0.5,2.16
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Desmond Bane,Over,3.5,1.85
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Desmond Bane,Under,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Mikel Brown Jr.,Over,1.5,1.91
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Mikel Brown Jr.,Under,1.5,1.82
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Wendell Carter Jr,Over,0.5,1.6
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Wendell Carter Jr,Under,0.5,2.23
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Over,2.5,1.6
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Michael Porter Jr,Under,2.5,2.23
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Egor Demin,Over,1.5,1.66
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Egor Demin,Under,1.5,2.12
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Anthony Black,Over,1.5,1.72
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Anthony Black,Under,1.5,2.04
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Franz Wagner,Over,1.5,1.93
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Franz Wagner,Under,1.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Jalen Suggs,Over,1.5,1.7
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Jalen Suggs,Under,1.5,2.06
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Julius Randle,Over,1.5,2.25
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Julius Randle,Under,1.5,1.57
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Tristan da Silva,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Tristan da Silva,Under,2.5,1.78
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Nolan Traore,Over,1.5,2.43
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,betrivers,player_threes,Nolan Traore,Under,1.5,1.5
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Anthony Black,Over,1.5,1.77
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Anthony Black,Under,1.5,2.0
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Over,2.5,1.34
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Under,2.5,3.15
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Over,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Under,3.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Over,4.5,2.9
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Desmond Bane,Under,4.5,1.38
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Egor Demin,Over,1.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Egor Demin,Under,1.5,2.15
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Egor Demin,Over,2.5,2.9
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Egor Demin,Under,2.5,1.38
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Franz Wagner,Over,1.5,2.15
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Franz Wagner,Under,1.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Jalen Suggs,Over,1.5,1.83
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Jalen Suggs,Under,1.5,1.91
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Julius Randle,Over,1.5,2.2
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Julius Randle,Under,1.5,1.62
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,2.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,2.5,2.15
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Over,3.5,2.6
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Michael Porter Jr,Under,3.5,1.47
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Over,1.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Mikel Brown Jr.,Under,1.5,1.87
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Nolan Traore,Over,1.5,2.1
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Nolan Traore,Under,1.5,1.69
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Tristan da Silva,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Tristan da Silva,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Wendell Carter Jr,Over,0.5,1.67
+2026-11-21T00:21:54Z,18.1,6e1faf38d3fed9e0396d6613891770e1,2026-11-21T00:40:00Z,Orlando Magic,Brooklyn Nets,bovada,player_threes,Wendell Carter Jr,Under,0.5,2.15
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Obi Toppin,Over,1.5,2.68
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Obi Toppin,Under,1.5,1.45
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Kelly Oubre Jr.,Over,1.5,2.5
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Kelly Oubre Jr.,Under,1.5,1.52
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Donovan Mitchell,Over,2.5,1.71
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Donovan Mitchell,Under,2.5,2.1
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Pascal Siakam,Over,1.5,1.9
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Meleek Thomas,Over,1.5,1.64
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Meleek Thomas,Under,1.5,2.22
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Tyrese Proctor,Over,1.5,1.67
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Tyrese Proctor,Under,1.5,2.18
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,James Harden,Over,2.5,1.96
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,James Harden,Under,2.5,1.82
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Andrew Nembhard,Over,1.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Andrew Nembhard,Under,1.5,2.06
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Aaron Nesmith,Over,2.5,2.44
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Peyton Watson,Over,1.5,2.24
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,fanduel,player_threes,Peyton Watson,Under,1.5,1.63
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Andrew Nembhard,Over,1.5,1.75
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Andrew Nembhard,Under,1.5,2.03
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Aaron Nesmith,Over,2.5,2.41
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Donovan Mitchell,Over,2.5,1.7
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Donovan Mitchell,Under,2.5,2.1
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Tyrese Proctor,Over,1.5,1.56
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Tyrese Proctor,Under,1.5,2.36
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,James Harden,Over,2.5,1.97
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,James Harden,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Pascal Siakam,Over,1.5,1.89
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Kelly Oubre Jr.,Over,1.5,2.41
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Kelly Oubre Jr.,Under,1.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Peyton Watson,Over,1.5,2.24
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Peyton Watson,Under,1.5,1.62
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Sam Merrill,Over,1.5,1.93
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Sam Merrill,Under,1.5,1.83
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Quenton Jackson,Over,0.5,1.61
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Quenton Jackson,Under,0.5,2.26
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Obi Toppin,Over,1.5,2.64
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Obi Toppin,Under,1.5,1.46
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Meleek Thomas,Over,1.5,1.69
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betonlineag,player_threes,Meleek Thomas,Under,1.5,2.12
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Donovan Mitchell,Over,2.5,1.65
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Donovan Mitchell,Under,2.5,2.17
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,James Harden,Over,2.5,1.96
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,James Harden,Under,2.5,1.79
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Aaron Nesmith,Over,2.5,2.4
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Tyrese Proctor,Over,1.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Tyrese Proctor,Under,1.5,2.4
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Meleek Thomas,Over,1.5,1.7
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Meleek Thomas,Under,1.5,2.08
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Andrew Nembhard,Over,1.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Andrew Nembhard,Under,1.5,2.03
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Pascal Siakam,Over,1.5,1.86
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Pascal Siakam,Under,1.5,1.88
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Sam Merrill,Over,1.5,1.94
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Sam Merrill,Under,1.5,1.8
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Peyton Watson,Over,1.5,2.19
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Peyton Watson,Under,1.5,1.64
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Kelly Oubre Jr.,Over,1.5,2.44
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Kelly Oubre Jr.,Under,1.5,1.52
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Obi Toppin,Over,1.5,2.64
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Obi Toppin,Under,1.5,1.46
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Quenton Jackson,Over,0.5,1.6
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,Quenton Jackson,Under,0.5,2.26
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,T.J. McConnell,Over,0.5,5.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,draftkings,player_threes,T.J. McConnell,Under,0.5,1.14
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,James Harden,Over,2.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,James Harden,Under,2.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Tyrese Proctor,Over,1.5,1.62
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Tyrese Proctor,Under,1.5,2.2
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Donovan Mitchell,Over,2.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Donovan Mitchell,Under,2.5,2.0
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Pascal Siakam,Over,1.5,1.83
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Pascal Siakam,Under,1.5,1.91
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Andrew Nembhard,Over,1.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Andrew Nembhard,Under,1.5,2.0
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Aaron Nesmith,Over,1.5,1.53
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betmgm,player_threes,Aaron Nesmith,Under,1.5,2.4
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Aaron Nesmith,Over,1.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Aaron Nesmith,Under,1.5,2.35
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Sam Merrill,Over,1.5,1.96
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Sam Merrill,Under,1.5,1.77
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Donovan Mitchell,Over,2.5,1.66
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Donovan Mitchell,Under,2.5,2.12
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Peyton Watson,Over,1.5,2.28
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Peyton Watson,Under,1.5,1.57
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Andrew Nembhard,Over,1.5,1.79
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Andrew Nembhard,Under,1.5,1.93
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Tyrese Proctor,Over,1.5,1.66
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Tyrese Proctor,Under,1.5,2.12
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,James Harden,Over,2.5,2.0
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,James Harden,Under,2.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Pascal Siakam,Over,1.5,1.88
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Pascal Siakam,Under,1.5,1.83
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Kelly Oubre Jr.,Over,1.5,2.35
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,betrivers,player_threes,Kelly Oubre Jr.,Under,1.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Aaron Nesmith,Over,1.5,1.45
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Aaron Nesmith,Under,1.5,2.65
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Aaron Nesmith,Over,2.5,2.4
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Aaron Nesmith,Under,2.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Andrew Nembhard,Over,1.5,1.74
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Andrew Nembhard,Under,1.5,2.05
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Donovan Mitchell,Over,2.5,1.67
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Donovan Mitchell,Under,2.5,2.15
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Donovan Mitchell,Over,3.5,2.6
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Donovan Mitchell,Under,3.5,1.47
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,James Harden,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,James Harden,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Kelly Oubre Jr.,Over,1.5,2.45
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Kelly Oubre Jr.,Under,1.5,1.53
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Pascal Siakam,Over,1.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Pascal Siakam,Under,1.5,1.87
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Peyton Watson,Over,1.5,2.2
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Peyton Watson,Under,1.5,1.62
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Sam Merrill,Over,1.5,1.95
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Sam Merrill,Under,1.5,1.8
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Tyrese Proctor,Over,1.5,1.54
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Tyrese Proctor,Under,1.5,2.4
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Tyrese Proctor,Over,2.5,2.65
+2026-11-21T00:21:54Z,18.1,10e9b9aca502ce158d6a3a91bf00bfd2,2026-11-21T00:40:00Z,Indiana Pacers,Cleveland Cavaliers,bovada,player_threes,Tyrese Proctor,Under,2.5,1.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Immanuel Quickley,Over,2.5,1.74
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Immanuel Quickley,Under,2.5,2.02
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Ja'Kobe Walter,Over,2.5,1.94
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Ja'Kobe Walter,Under,2.5,1.81
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Daniss Jenkins,Over,1.5,1.56
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Daniss Jenkins,Under,1.5,2.33
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Cade Cunningham,Over,1.5,1.57
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Cade Cunningham,Under,1.5,2.33
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Jamison Battle,Over,1.5,1.59
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Jamison Battle,Under,1.5,2.28
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Kevin Huerter,Over,1.5,1.62
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Kevin Huerter,Under,1.5,2.23
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,John Collins,Over,1.5,2.42
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,John Collins,Under,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Javonte Green,Over,1.5,2.44
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Javonte Green,Under,1.5,1.52
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Scottie Barnes,Over,0.5,1.44
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Scottie Barnes,Under,0.5,2.69
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Jamal Shead,Over,0.5,1.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,draftkings,player_threes,Jamal Shead,Under,0.5,2.65
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Scottie Barnes,Over,0.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Scottie Barnes,Under,0.5,2.52
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Cade Cunningham,Over,2.5,2.52
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Cade Cunningham,Under,2.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Immanuel Quickley,Over,2.5,1.9
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Immanuel Quickley,Under,2.5,1.86
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Daniss Jenkins,Over,1.5,1.56
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Daniss Jenkins,Under,1.5,2.36
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Ja'Kobe Walter,Over,2.5,2.06
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Ja'Kobe Walter,Under,2.5,1.73
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Jamal Shead,Over,0.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Jamal Shead,Under,0.5,2.52
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,John Collins,Over,1.5,2.41
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,John Collins,Under,1.5,1.54
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Kevin Huerter,Over,1.5,1.6
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Kevin Huerter,Under,1.5,2.27
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Javonte Green,Over,1.5,2.32
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betonlineag,player_threes,Javonte Green,Under,1.5,1.58
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Daniss Jenkins,Over,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Daniss Jenkins,Under,1.5,2.46
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Ja'Kobe Walter,Over,2.5,2.14
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Ja'Kobe Walter,Under,2.5,1.68
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,John Collins,Over,1.5,2.32
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,John Collins,Under,1.5,1.59
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Immanuel Quickley,Over,2.5,1.88
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Immanuel Quickley,Under,2.5,1.88
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Jamison Battle,Over,2.5,2.64
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Jamison Battle,Under,2.5,1.47
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Kevin Huerter,Over,1.5,1.58
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Kevin Huerter,Under,1.5,2.34
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Cade Cunningham,Over,2.5,2.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Cade Cunningham,Under,2.5,1.52
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Javonte Green,Over,1.5,2.3
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,fanduel,player_threes,Javonte Green,Under,1.5,1.6
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Javonte Green,Over,1.5,2.1
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Javonte Green,Under,1.5,1.67
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Immanuel Quickley,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Immanuel Quickley,Under,2.5,1.8
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Kevin Huerter,Over,1.5,1.62
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Kevin Huerter,Under,1.5,2.2
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Scottie Barnes,Over,0.5,1.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Scottie Barnes,Under,0.5,2.6
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Ja'Kobe Walter,Over,2.5,2.05
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Ja'Kobe Walter,Under,2.5,1.71
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Cade Cunningham,Over,2.5,2.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Cade Cunningham,Under,2.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,John Collins,Over,1.5,2.6
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,John Collins,Under,1.5,1.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Daniss Jenkins,Over,2.5,2.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Daniss Jenkins,Under,2.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Jamison Battle,Over,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betmgm,player_threes,Jamison Battle,Under,1.5,2.4
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Daniss Jenkins,Over,2.5,2.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Daniss Jenkins,Under,2.5,1.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,John Collins,Over,1.5,2.25
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,John Collins,Under,1.5,1.57
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Jamal Shead,Over,0.5,1.42
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Jamal Shead,Under,0.5,2.7
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Immanuel Quickley,Over,2.5,1.94
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Immanuel Quickley,Under,2.5,1.78
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Ja'Kobe Walter,Over,2.5,1.95
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Ja'Kobe Walter,Under,2.5,1.78
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Scottie Barnes,Over,0.5,1.47
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Scottie Barnes,Under,0.5,2.55
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Javonte Green,Over,1.5,2.16
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Javonte Green,Under,1.5,1.64
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Cade Cunningham,Over,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Cade Cunningham,Under,1.5,2.38
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Kevin Huerter,Over,2.5,2.5
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Kevin Huerter,Under,2.5,1.48
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Jamison Battle,Over,1.5,1.61
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,betrivers,player_threes,Jamison Battle,Under,1.5,2.2
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Cade Cunningham,Over,1.5,1.56
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Cade Cunningham,Under,1.5,2.35
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Cade Cunningham,Over,2.5,2.7
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Cade Cunningham,Under,2.5,1.43
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Daniss Jenkins,Over,1.5,1.56
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Daniss Jenkins,Under,1.5,2.35
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Daniss Jenkins,Over,2.5,2.7
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Daniss Jenkins,Under,2.5,1.43
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Immanuel Quickley,Over,2.5,1.8
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Immanuel Quickley,Under,2.5,1.95
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Ja'Kobe Walter,Over,2.5,2.0
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Ja'Kobe Walter,Under,2.5,1.77
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamal Shead,Over,0.5,1.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamal Shead,Under,0.5,2.65
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamal Shead,Over,1.5,3.1
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamal Shead,Under,1.5,1.34
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamison Battle,Over,1.5,1.59
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamison Battle,Under,1.5,2.3
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamison Battle,Over,2.5,2.75
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Jamison Battle,Under,2.5,1.42
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Javonte Green,Over,1.5,2.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Javonte Green,Under,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,John Collins,Over,1.5,2.45
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,John Collins,Under,1.5,1.53
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Kevin Huerter,Over,1.5,1.61
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Kevin Huerter,Under,1.5,2.25
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Kevin Huerter,Over,2.5,2.85
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Kevin Huerter,Under,2.5,1.4
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Scottie Barnes,Over,0.5,1.43
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Scottie Barnes,Under,0.5,2.7
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Scottie Barnes,Over,1.5,3.05
+2026-11-21T00:21:54Z,18.1,9051693857c6a0e5e1bc6bb2b4f6fe35,2026-11-21T00:40:00Z,Toronto Raptors,Detroit Pistons,bovada,player_threes,Scottie Barnes,Under,1.5,1.36
