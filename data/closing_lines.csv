@@ -7397,3 +7397,75 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-22T00:24:54Z,165.1,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Boston Celtics,Sacramento Kings,betus,spreads,Sacramento Kings,12.5,1.95
 2026-11-22T00:24:54Z,165.1,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Boston Celtics,Sacramento Kings,betus,totals,Over,216.0,1.91
 2026-11-22T00:24:54Z,165.1,b754a1bf84af81d45d4a3a16398daa44,2026-11-22T03:10:00Z,Boston Celtics,Sacramento Kings,betus,totals,Under,216.0,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,fanduel,spreads,Atlanta Hawks,1.5,1.94
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,fanduel,spreads,Detroit Pistons,-1.5,1.88
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,fanduel,totals,Over,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,fanduel,totals,Under,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,mybookieag,spreads,Atlanta Hawks,1.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,mybookieag,spreads,Detroit Pistons,-1.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,mybookieag,totals,Over,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,mybookieag,totals,Under,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,draftkings,spreads,Atlanta Hawks,1.5,1.93
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,draftkings,spreads,Detroit Pistons,-1.5,1.89
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,draftkings,totals,Over,223.5,1.93
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,draftkings,totals,Under,223.5,1.88
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betonlineag,spreads,Atlanta Hawks,1.5,1.95
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betonlineag,spreads,Detroit Pistons,-1.5,1.87
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betonlineag,totals,Over,223.5,1.93
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betonlineag,totals,Under,223.5,1.89
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,lowvig,spreads,Atlanta Hawks,1.5,1.99
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,lowvig,spreads,Detroit Pistons,-1.5,1.9
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,lowvig,totals,Over,223.5,1.95
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,lowvig,totals,Under,223.5,1.92
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betmgm,spreads,Atlanta Hawks,1.5,1.95
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betmgm,spreads,Detroit Pistons,-1.5,1.87
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betmgm,totals,Over,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betmgm,totals,Under,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betrivers,spreads,Atlanta Hawks,2.5,1.88
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betrivers,spreads,Detroit Pistons,-2.5,1.92
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betrivers,totals,Over,223.5,1.93
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betrivers,totals,Under,223.5,1.88
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,bovada,spreads,Atlanta Hawks,2.0,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,bovada,spreads,Detroit Pistons,-2.0,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,bovada,totals,Over,223.5,1.95
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,bovada,totals,Under,223.5,1.87
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betus,spreads,Atlanta Hawks,1.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betus,spreads,Detroit Pistons,-1.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betus,totals,Over,223.5,1.91
+2026-11-22T20:03:53Z,36.1,222a2887819bb18d9b9572aef63d9b9e,2026-11-22T20:40:00Z,Detroit Pistons,Atlanta Hawks,betus,totals,Under,223.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,fanduel,spreads,Miami Heat,-3.5,1.87
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,fanduel,spreads,Oklahoma City Thunder,3.5,1.95
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,fanduel,totals,Over,231.5,1.93
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,fanduel,totals,Under,231.5,1.89
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,mybookieag,spreads,Miami Heat,-4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,mybookieag,spreads,Oklahoma City Thunder,4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,mybookieag,totals,Over,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,mybookieag,totals,Under,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betrivers,spreads,Miami Heat,-3.5,1.88
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betrivers,spreads,Oklahoma City Thunder,3.5,1.92
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betrivers,totals,Over,230.5,1.87
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betrivers,totals,Under,230.5,1.93
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,draftkings,spreads,Miami Heat,-3.5,1.86
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,draftkings,spreads,Oklahoma City Thunder,3.5,1.96
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,draftkings,totals,Over,231.5,1.93
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,draftkings,totals,Under,231.5,1.88
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betmgm,spreads,Miami Heat,-4.5,2.0
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betmgm,spreads,Oklahoma City Thunder,4.5,1.83
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betmgm,totals,Over,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betmgm,totals,Under,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,lowvig,spreads,Miami Heat,-4.0,1.94
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,lowvig,spreads,Oklahoma City Thunder,4.0,1.94
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,lowvig,totals,Over,231.5,1.93
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,lowvig,totals,Under,231.5,1.93
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betonlineag,spreads,Miami Heat,-4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betonlineag,spreads,Oklahoma City Thunder,4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betonlineag,totals,Over,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betonlineag,totals,Under,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,bovada,spreads,Miami Heat,-4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,bovada,spreads,Oklahoma City Thunder,4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,bovada,totals,Over,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,bovada,totals,Under,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betus,spreads,Miami Heat,-4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betus,spreads,Oklahoma City Thunder,4.0,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betus,totals,Over,231.5,1.91
+2026-11-22T20:03:53Z,186.1,90da1cde4144fac00d41f2c0db2cc921,2026-11-22T23:10:00Z,Oklahoma City Thunder,Miami Heat,betus,totals,Under,231.5,1.91
