@@ -3054,3 +3054,45 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-22 13:45,2026-11-22 18:45,2026-11-22,03:30,DET@ATL,Detroit Pistons,Isaac Jones,Out,Questionable,G League - Two-Way,status
 2026-11-22 13:45,2026-11-22 18:45,2026-11-22,03:30,DET@ATL,Atlanta Hawks,Kingston Flemings,Available,Questionable,Injury/Illness - Lumbar Strain,status
 2026-11-22 13:45,2026-11-22 18:45,2026-11-22,07:00,DEN@CHI,Chicago Bulls,Norman Powell,Out,Questionable,Injury/Illness - Right Hamstring Strain,status
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Tarik Biberovic,Out,,Injury/Illness - Right Heel Bursitis,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Walter Clayton Jr.,Questionable,,Injury/Illness - Left Patellar Tendinitis,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Sergio de Larrea,Out,,Injury/Illness - Right Knee Sprain,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Tobi Lawal,Out,,Injury/Illness - Right Groin Strain,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Dereck Lively II,Out,,Injury/Illness - Right Foot Surgery,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,Caleb Martin,Available,,Injury/Illness - Right Thumb Splint,new
+2026-11-22 14:00,2026-11-22 19:00,2026-11-22,07:00,DAL@UTA,Dallas Mavericks,P.J. Washington,Doubtful,,Injury/Illness - Illness,new
+2026-11-22 15:00,2026-11-22 20:00,2026-11-22,03:30,DET@ATL,Detroit Pistons,Cade Cunningham,Available,Probable,Injury/Illness - Right Knee Soreness,status
+2026-11-22 15:15,2026-11-22 20:15,2026-11-22,07:00,DEN@CHI,Chicago Bulls,Tobe Awaka,Available,Out,-,status
+2026-11-22 15:15,2026-11-22 20:15,2026-11-22,07:00,DEN@CHI,Chicago Bulls,Nic Claxton,Out,Questionable,Injury/Illness - Illness,status
+2026-11-22 15:30,2026-11-22 20:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Keshad Johnson,Available,Out,G League - Two-Way,status
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Tyler Bilodeau,Out,,G League - Two-Way,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Joshua Jefferson,Out,,G League - On Assignment,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Chaney Johnson,Out,,G League - Two-Way,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Grant Nelson,Probable,,Injury/Illness - Right Ankle Sprain,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Drake Powell,Out,,G League - On Assignment,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Ben Saraf,Out,,G League - On Assignment,new
+2026-11-22 15:30,2026-11-22 20:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Nolan Traore,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Malik Dia,Questionable,,G League - Two-Way,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Bennedict Mathurin,Out,,Injury/Illness - Left Plantar Fasciitis,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Bryce McGowens,Probable,,Injury/Illness - Left Elbow Infection,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Trey Murphy III,Probable,,Injury/Illness - Bilateral Patellar Tendinopathy,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Dejounte Murray,Out,,Injury/Illness - Left Ankle Sprain,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Probable,,G League - Two-Way,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Julian Reese,Questionable,,G League - Two-Way,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Trendon Watford,Out,,Injury/Illness - Right Ankle Sprain,new
+2026-11-22 15:45,2026-11-22 20:45,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Zion Williamson,Probable,,Injury/Illness - Left Thigh Contusion,new
+2026-11-22 16:00,2026-11-22 21:00,2026-11-22,08:30,BOS@GSW,Boston Celtics,Paul George,Out,,Rest,new
+2026-11-22 16:00,2026-11-22 21:00,2026-11-22,08:30,BOS@GSW,Boston Celtics,Dillon Mitchell,Out,,G League - Two-Way,new
+2026-11-22 16:00,2026-11-22 21:00,2026-11-22,08:30,BOS@GSW,Boston Celtics,Mitchell Robinson,Out,,Injury/Illness - Illness,new
+2026-11-22 16:00,2026-11-22 21:00,2026-11-22,08:30,BOS@GSW,Boston Celtics,Amari Williams,Out,,G League - Two-Way,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,07:30,MIL@TOR,Toronto Raptors,RJ Barrett,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,07:30,MIL@TOR,Toronto Raptors,Nate Bittle,Out,,G League - Two-Way,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,07:30,MIL@TOR,Toronto Raptors,Kawhi Leonard,Out,,Injury/Illness - Left Knee Injury Management,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,07:30,MIL@TOR,Toronto Raptors,Collin Murray-Boyles,Probable,,Concussion Protocol,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,08:30,LAC@HOU,Houston Rockets,Quadir Copeland,Out,,G League - Two-Way,new
+2026-11-22 16:15,2026-11-22 21:15,2026-11-23,08:30,LAC@HOU,Houston Rockets,Julian Phillips,Out,,G League - Two-Way,new
+2026-11-22 16:30,2026-11-22 21:30,2026-11-22,06:00,OKC@MIA,Oklahoma City Thunder,Shai Gilgeous-Alexander,Out,Questionable,Injury/Illness - Low Back Contusion/ Neck Strain,status
+2026-11-22 16:30,2026-11-22 21:30,2026-11-22,06:00,OKC@MIA,Miami Heat,Myron Gardner,Available,Probable,Injury/Illness - Right Hamstring Tightness / Soreness,status
+2026-11-22 16:30,2026-11-22 21:30,2026-11-23,07:30,MIL@TOR,Milwaukee Bucks,Ousmane Dieng,Questionable,,Injury/Illness - Left Finger Fracture,new
+2026-11-22 16:30,2026-11-22 21:30,2026-11-23,07:30,MIL@TOR,Milwaukee Bucks,Kam Jones,Out,,G League - Two-Way,new
+2026-11-22 16:30,2026-11-22 21:30,2026-11-23,07:30,MIL@TOR,Milwaukee Bucks,Bogoljub Markovic,Out,,G League - On Assignment,new
