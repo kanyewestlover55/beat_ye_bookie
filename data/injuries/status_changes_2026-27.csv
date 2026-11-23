@@ -3158,3 +3158,31 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-22 20:15,2026-11-23 01:15,2026-11-23,10:00,SAS@SAC,San Antonio Spurs,Victor Wembanyama,Questionable,,Injury/Illness - Bilateral Low Back Tightness,new
 2026-11-22 20:15,2026-11-23 01:15,2026-11-23,10:00,UTA@LAL,Los Angeles Lakers,Quentin Grimes,Available,,Injury/Illness - Right Finger Splint,new
 2026-11-22 20:15,2026-11-23 01:15,2026-11-23,10:00,UTA@LAL,Los Angeles Lakers,Austin Reaves,Out,,Injury/Illness - Left Heel Contusion / Bone Bruise,new
+2026-11-23 11:45,2026-11-23 16:45,2026-11-23,07:00,POR@PHI,Philadelphia 76ers,Joel Embiid,Questionable,,Injury/Illness - Illness,new
+2026-11-23 12:30,2026-11-23 17:30,2026-11-23,07:30,BKN@MIN,Brooklyn Nets,Grant Nelson,Available,Probable,Injury/Illness - Right Ankle Sprain,status
+2026-11-23 12:45,2026-11-23 17:45,2026-11-23,07:30,MIL@TOR,Toronto Raptors,Jaden Bradley,Questionable,,Injury/Illness - Right Ankle Sprain,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,MIL@TOR,Milwaukee Bucks,Ousmane Dieng,Available,Questionable,-,status
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,Johnny Furphy,Out,,Injury/Illness - Right ACL Repair / Surgery,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,Tyrese Haliburton,Out,,Injury/Illness - Left Hamstring Strain,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,T.J. McConnell,Out,,Injury/Illness - Left Hamstring Soreness,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,Aaron Nesmith,Out,,Injury/Illness - Right Foot Soreness,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,Ben Sheppard,Out,,Injury/Illness - Left Meniscus Surgery,new
+2026-11-23 13:15,2026-11-23 18:15,2026-11-23,07:30,OKC@IND,Indiana Pacers,Pascal Siakam,Questionable,,Injury/Illness - Left Hip Injury Management,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Alex Caruso,Out,,Injury/Illness - Right Hip Impingement,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Chet Holmgren,Out,,Injury/Illness - Right Knee/ Injury Recovery,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Aday Mara,Out,,Injury/Illness - Right Shin Contusion,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Thomas Sorber,Out,,Injury/Illness - Right Knee Surgery,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Nikola Topic,Out,,Injury/Illness - Left Hip Strain,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Cason Wallace,Out,,Injury/Illness - Left Shoulder Surgery,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Jalen Williams,Out,,Injury/Illness - Left Ankle Surgery,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,07:30,OKC@IND,Oklahoma City Thunder,Jaylin Williams,Out,,Injury/Illness - Low Back Spasms,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,CLE@CHI,Chicago Bulls,Nic Claxton,Questionable,,Injury/Illness - Illness,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,CLE@CHI,Chicago Bulls,Norman Powell,Out,,Injury/Illness - Right Hamstring Strain,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,CLE@CHI,Chicago Bulls,Jalen Smith,Probable,,Injury/Illness - Gastrointestinal Illness,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,CLE@CHI,Chicago Bulls,Caleb Wilson,Out,,Injury/Illness - Right Metacarpal Fracture,new
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Malik Dia,Available,Questionable,G League - Two-Way,status
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Bryce McGowens,Available,Probable,Injury/Illness - Left Elbow Infection,status
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Trey Murphy III,Available,Probable,Injury/Illness - Bilateral Patellar Tendinopathy,status
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Jaron Pierre Jr.,Available,Probable,G League - Two-Way,status
+2026-11-23 13:30,2026-11-23 18:30,2026-11-23,08:00,PHX@NOP,New Orleans Pelicans,Julian Reese,Out,Questionable,G League - Two-Way,status
+2026-11-23 14:00,2026-11-23 19:00,2026-11-23,08:00,PHX@NOP,Phoenix Suns,Ryan Dunn,Available,Questionable,Injury/Illness - Right Quad Soreness,status
