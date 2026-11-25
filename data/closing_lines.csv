@@ -7649,3 +7649,75 @@ captured_utc,minutes_to_tip,event_id,commence_utc,away,home,book,market,selectio
 2026-11-22T23:02:36Z,157.4,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Boston Celtics,Golden State Warriors,bovada,spreads,Golden State Warriors,8.0,1.91
 2026-11-22T23:02:36Z,157.4,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Boston Celtics,Golden State Warriors,bovada,totals,Over,210.0,1.91
 2026-11-22T23:02:36Z,157.4,b8c5bdb50209c7d050400c7d28c32e30,2026-11-23T01:40:00Z,Boston Celtics,Golden State Warriors,bovada,totals,Under,210.0,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,draftkings,spreads,Boston Celtics,-10.5,1.86
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,draftkings,spreads,Washington Wizards,10.5,1.96
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,draftkings,totals,Over,218.5,1.89
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,draftkings,totals,Under,218.5,1.93
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,lowvig,spreads,Boston Celtics,-11.0,1.93
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,lowvig,spreads,Washington Wizards,11.0,1.96
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,lowvig,totals,Over,219.0,1.98
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,lowvig,totals,Under,219.0,1.88
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betonlineag,spreads,Boston Celtics,-11.0,1.89
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betonlineag,spreads,Washington Wizards,11.0,1.93
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betonlineag,totals,Over,219.0,1.95
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betonlineag,totals,Under,219.0,1.87
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,fanduel,spreads,Boston Celtics,-10.5,1.83
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,fanduel,spreads,Washington Wizards,10.5,1.98
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,fanduel,totals,Over,218.5,1.89
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,fanduel,totals,Under,218.5,1.93
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betrivers,spreads,Boston Celtics,-11.5,1.94
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betrivers,spreads,Washington Wizards,11.5,1.85
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betrivers,totals,Over,218.5,1.87
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betrivers,totals,Under,218.5,1.93
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betmgm,spreads,Boston Celtics,-10.5,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betmgm,spreads,Washington Wizards,10.5,2.0
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betmgm,totals,Over,218.5,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betmgm,totals,Under,218.5,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betus,spreads,Boston Celtics,-11.0,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betus,spreads,Washington Wizards,11.0,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betus,totals,Over,219.0,1.95
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,betus,totals,Under,219.0,1.87
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,mybookieag,spreads,Boston Celtics,-11.5,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,mybookieag,spreads,Washington Wizards,11.5,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,mybookieag,totals,Over,219.0,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,mybookieag,totals,Under,219.0,1.91
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,bovada,spreads,Boston Celtics,-11.0,1.87
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,bovada,spreads,Washington Wizards,11.0,1.95
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,bovada,totals,Over,219.0,2.0
+2026-11-25T00:33:47Z,36.2,3167a4072c65c9314c71d0fe49be8e28,2026-11-25T01:10:00Z,Boston Celtics,Washington Wizards,bovada,totals,Under,219.0,1.83
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,draftkings,spreads,Dallas Mavericks,8.5,1.89
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,draftkings,spreads,Denver Nuggets,-8.5,1.93
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,draftkings,totals,Over,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,draftkings,totals,Under,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,lowvig,spreads,Dallas Mavericks,8.5,1.94
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,lowvig,spreads,Denver Nuggets,-8.5,1.94
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,lowvig,totals,Over,234.5,1.93
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,lowvig,totals,Under,234.5,1.93
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betonlineag,spreads,Dallas Mavericks,8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betonlineag,spreads,Denver Nuggets,-8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betonlineag,totals,Over,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betonlineag,totals,Under,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,fanduel,spreads,Dallas Mavericks,8.5,1.88
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,fanduel,spreads,Denver Nuggets,-8.5,1.94
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,fanduel,totals,Over,233.5,1.88
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,fanduel,totals,Under,233.5,1.94
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betrivers,spreads,Dallas Mavericks,8.5,1.85
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betrivers,spreads,Denver Nuggets,-8.5,1.95
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betrivers,totals,Over,235.5,1.89
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betrivers,totals,Under,235.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betmgm,spreads,Dallas Mavericks,8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betmgm,spreads,Denver Nuggets,-8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betmgm,totals,Over,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betmgm,totals,Under,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,mybookieag,spreads,Dallas Mavericks,8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,mybookieag,spreads,Denver Nuggets,-8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,mybookieag,totals,Over,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,mybookieag,totals,Under,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betus,spreads,Dallas Mavericks,8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betus,spreads,Denver Nuggets,-8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betus,totals,Over,234.0,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,betus,totals,Under,234.0,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,bovada,spreads,Dallas Mavericks,8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,bovada,spreads,Denver Nuggets,-8.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,bovada,totals,Over,234.5,1.91
+2026-11-25T00:33:47Z,156.2,6bfadbd22ed8a054cf82ec1b12b78243,2026-11-25T03:10:00Z,Dallas Mavericks,Denver Nuggets,bovada,totals,Under,234.5,1.91
