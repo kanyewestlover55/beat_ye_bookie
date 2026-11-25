@@ -3316,3 +3316,19 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-24 20:15,2026-11-25 01:15,2026-11-25,10:00,SAS@POR,Portland Trail Blazers,Shaedon Sharpe,Out,,Injury/Illness - Right Meniscus Surgery,new
 2026-11-24 20:15,2026-11-25 01:15,2026-11-25,10:00,SAS@POR,Portland Trail Blazers,Chris Youngblood,Out,,Injury/Illness - Right Heel Contusion / Bone Bruise,new
 2026-11-24 21:15,2026-11-25 02:15,2026-11-24,10:00,DAL@DEN,Dallas Mavericks,P.J. Washington,Available,Questionable,Injury/Illness - Illness,status
+2026-11-25 11:30,2026-11-25 16:30,2026-11-25,07:00,CHI@CHA,Chicago Bulls,Orlando Robinson,Removed,Out,Not With Team,removed
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:00,CHI@CHA,Charlotte Hornets,Grayson Allen,Out,Questionable,Concussion Protocol,status
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:00,CHI@CHA,Charlotte Hornets,Ryan Kalkbrenner,Out,Doubtful,Injury/Illness - Left Hip Soreness / Tightness,status
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:30,CLE@NYK,New York Knicks,Jalen Brunson,Questionable,,Injury/Illness - Illness,new
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:30,CLE@NYK,New York Knicks,Josh Hart,Probable,Questionable,Injury/Illness - Right Shoulder Sprain,status
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:30,CLE@NYK,New York Knicks,Miles McBride,Out,Questionable,Injury/Illness - Left Adductor Tightness,status
+2026-11-25 12:45,2026-11-25 17:45,2026-11-25,07:30,CLE@NYK,New York Knicks,Karl-Anthony Towns,Probable,Questionable,Injury/Illness - Right Knee Inflammation,status
+2026-11-25 13:30,2026-11-25 18:30,2026-11-25,08:00,LAC@MEM,LA Clippers,Jalen Pickett,Questionable,,G League - Two-Way,new
+2026-11-25 15:15,2026-11-25 20:15,2026-11-25,05:00,MIA@PHI,Miami Heat,Giannis Antetokounmpo,Probable,Questionable,Injury/Illness - Right Groin Tendinitis,status
+2026-11-25 15:15,2026-11-25 20:15,2026-11-25,05:00,MIA@PHI,Philadelphia 76ers,Joel Embiid,Out,Doubtful,Injury/Illness - Illness,status
+2026-11-25 15:45,2026-11-25 20:45,2026-11-25,10:00,SAC@GSW,Sacramento Kings,Zach LaVine,Questionable,,Injury/Illness - Right Knee Soreness,new
+2026-11-25 16:15,2026-11-25 21:15,2026-11-25,05:00,MIA@PHI,Miami Heat,Giannis Antetokounmpo,Available,Probable,Injury/Illness - Right Groin Tendinitis,status
+2026-11-25 16:30,2026-11-25 21:30,2026-11-25,07:30,CLE@NYK,New York Knicks,Jalen Brunson,Probable,Questionable,Injury/Illness - Illness,status
+2026-11-25 17:00,2026-11-25 22:00,2026-11-25,07:00,CHI@CHA,Chicago Bulls,Jalen Smith,Out,Questionable,Injury/Illness - Gastrointestinal Illness,status
+2026-11-25 17:15,2026-11-25 22:15,2026-11-25,07:00,CHI@CHA,Charlotte Hornets,Sion James,Available,Probable,Injury/Illness - Left Thigh Soreness,status
+2026-11-25 17:30,2026-11-25 22:30,2026-11-25,10:00,SAC@GSW,Sacramento Kings,Zach LaVine,Out,Questionable,Injury/Illness - Right Knee Soreness,status
