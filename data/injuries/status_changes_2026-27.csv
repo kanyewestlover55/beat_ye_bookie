@@ -3332,3 +3332,13 @@ report_et,report_utc,game_date,game_time_et,matchup,team,player,status,prev_stat
 2026-11-25 17:00,2026-11-25 22:00,2026-11-25,07:00,CHI@CHA,Chicago Bulls,Jalen Smith,Out,Questionable,Injury/Illness - Gastrointestinal Illness,status
 2026-11-25 17:15,2026-11-25 22:15,2026-11-25,07:00,CHI@CHA,Charlotte Hornets,Sion James,Available,Probable,Injury/Illness - Left Thigh Soreness,status
 2026-11-25 17:30,2026-11-25 22:30,2026-11-25,10:00,SAC@GSW,Sacramento Kings,Zach LaVine,Out,Questionable,Injury/Illness - Right Knee Soreness,status
+2026-11-25 18:45,2026-11-25 23:45,2026-11-25,08:00,LAC@MEM,LA Clippers,Jalen Pickett,Out,Questionable,G League - Two-Way,status
+2026-11-25 19:00,2026-11-26 00:00,2026-11-25,07:30,CLE@NYK,New York Knicks,Jalen Brunson,Available,Probable,Injury/Illness - Illness,status
+2026-11-25 19:00,2026-11-26 00:00,2026-11-25,07:30,CLE@NYK,New York Knicks,Josh Hart,Available,Probable,Injury/Illness - Right Shoulder Sprain,status
+2026-11-25 19:00,2026-11-26 00:00,2026-11-25,07:30,CLE@NYK,New York Knicks,Karl-Anthony Towns,Available,Probable,Injury/Illness - Right Knee Inflammation,status
+2026-11-25 19:15,2026-11-26 00:15,2026-11-25,08:30,PHX@HOU,Phoenix Suns,Pat Spencer,Out,,G League - Two-Way,new
+2026-11-25 19:15,2026-11-26 00:15,2026-11-25,08:30,PHX@HOU,Phoenix Suns,Drew Timme,Out,,G League - Two-Way,new
+2026-11-25 20:30,2026-11-26 01:30,2026-11-25,10:00,SAC@GSW,Golden State Warriors,Yaxel Lendeborg,Available,Questionable,Injury/Illness - Illness,status
+2026-11-25 21:15,2026-11-26 02:15,2026-11-25,10:00,SAC@GSW,Golden State Warriors,Brandon Williams,Available,Questionable,Injury/Illness - Left Hamstring Strain,status
+2026-11-25 21:15,2026-11-26 02:15,2026-11-25,10:00,SAS@POR,San Antonio Spurs,De'Aaron Fox,Out,Questionable,Injury/Illness - Right Shin Contusion,status
+2026-11-25 21:15,2026-11-26 02:15,2026-11-25,10:00,SAS@POR,San Antonio Spurs,Victor Wembanyama,Available,Questionable,-,status
